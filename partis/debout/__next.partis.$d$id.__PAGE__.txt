@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[22016,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js","/FRANCE_2027/_next/static/chunks/1gvuffvzfsaml.js"],""]
+3:I[62509,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js","/FRANCE_2027/_next/static/chunks/1gvuffvzfsaml.js"],"ShareBar"]
+4:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"ViewportBoundary"]
+a:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"MetadataBoundary"]
+8:X
+23:X
+23:C
+0:{"buildId":"XItNR6iL7y9BTk45j8N57","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"aria-label":"Fil d'Ariane","className":"mb-3 text-sm text-muted","children":[["$","$L2",null,{"href":"/","children":"Accueil"}]," › ",["$","$L2",null,{"href":"/partis/","children":"Partis"}]]}],["$","header",null,{"className":"mb-6 sm:mb-8","children":[["$","h1",null,{"className":"text-[1.9rem] font-semibold leading-[1.1] text-navy-dark sm:text-4xl","children":"Debout !"}],["$","div",null,{"className":"tricolor mt-4 h-1.5 w-24 rounded-full shadow-sm ring-1 ring-black/5","aria-hidden":"true"}],null,[["$","div",null,{"className":"mt-4 flex flex-wrap items-start gap-4","children":[null,["$","a",null,{"href":"https://debout.fr/","rel":"noopener noreferrer external","target":"_blank","className":"inline-flex items-center gap-1 rounded-full border border-line bg-surface px-3 py-1 text-sm no-underline","children":["Site officiel ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}],["$","div",null,{"className":"mt-4","children":["$","$L3",null,{"title":"Debout ! — présidentielle 2027"}]}]]]}],["$","div",null,{"className":"space-y-8","children":[["$","section",null,{"aria-labelledby":"candidatures","children":[["$","div",null,{"className":"mb-4 flex flex-wrap items-end justify-between gap-2","children":[["$","h2",null,{"id":"candidatures","className":"flex items-center gap-2.5 text-xl font-semibold text-navy-dark sm:text-2xl","children":[["$","span",null,{"aria-hidden":"true","className":"tricolor-v h-5 w-1 shrink-0 rounded-full ring-1 ring-black/5"}],["Candidature",""]]}],null]}],["$","ul",null,{"className":"grid grid-cols-1 gap-3 sm:grid-cols-2","children":[["$","li","francois-ruffin",{"children":["$","$L2",null,{"href":"/candidats/francois-ruffin/","className":"flex items-center gap-3 rounded-2xl border border-line bg-surface p-3 no-underline shadow-card hover:border-navy/40","children":[["$","figure",null,{"className":"shrink-0","style":{"width":56},"children":[["$","img",null,{"src":"/FRANCE_2027/media/candidats/vignettes/francois-ruffin.webp","alt":"","width":56,"height":56,"loading":"lazy","title":"Thinkerview, CC BY-SA 4.0","className":"bg-line/40 object-cover object-top rounded-full ring-2 ring-surface shadow-sm","style":{"width":56,"height":56,"maxHeight":56}}],null]}],["$","span",null,{"children":[["$","span",null,{"className":"block font-semibold text-ink","children":"François Ruffin"}],["$","span",null,{"className":"block text-sm text-muted","children":"Candidature annoncée"}]]}]]}]}]]}]]}],["$","section",null,{"aria-labelledby":"assemblee","children":[["$","div",null,{"className":"mb-4 flex flex-wrap items-end justify-between gap-2","children":[["$","h2",null,{"id":"assemblee","className":"flex items-center gap-2.5 text-xl font-semibold text-navy-dark sm:text-2xl","children":[["$","span",null,{"aria-hidden":"true","className":"tricolor-v h-5 w-1 shrink-0 rounded-full ring-1 ring-black/5"}],"À l'Assemblée nationale"]}],null]}],["$","p",null,{"className":"text-sm text-muted","children":"Aucun groupe de l'Assemblée nationale n'est rattaché à ce parti dans les données officielles."}]]}],null,["$","div",null,{"className":"text-xs text-muted","children":["$","ul",null,{"className":"space-y-1 text-xs","aria-label":"Sources","children":[["$","li","doc-site-debout-0",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://debout.fr/","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Debout !"}]," ","— ","Debout !",null,null,null,["$","span",null,{"className":"italic","children":[" — ","Site officiel"]}]]}]]}]}]]}]]}],[["$","script","script-0",{"src":"/FRANCE_2027/_next/static/chunks/1gvuffvzfsaml.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Debout ! · Pièces à l'appui"}],["$","meta","1",{"name":"description","content":"Debout ! : candidature(s) à la présidentielle 2027, groupe à l'Assemblée nationale, derniers votes et actualité, avec les sources."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]}],null]}],"isPartial":"$@20","staleTime":"$8","varyParams":null},{"rsc":"$L21","isPartial":"$@22","staleTime":"$8","varyParams":"$23"},{"rsc":"$L24","isPartial":"$@25","staleTime":"$8","varyParams":"$23"}],"isUpgradeableISRFallback":false,"a":"$@26","rootVaryParams":null,"needsRuntimeRequest":"$@27"}
+28:I[27201,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"IconMark"]
+29:I[39756,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+2a:I[37457,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"keywords","content":"présidentielle 2027,candidats présidentielle 2027,programmes présidentielle 2027,comparateur programmes,sondages présidentielle 2027,élection présidentielle"}]
+c:["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}]
+d:["$","meta","4",{"property":"og:title","content":"Debout ! · Pièces à l'appui"}]
+e:["$","meta","5",{"property":"og:description","content":"Debout ! : candidature(s) à la présidentielle 2027, groupe à l'Assemblée nationale, derniers votes et actualité, avec les sources."}]
+f:["$","meta","6",{"property":"og:site_name","content":"Pièces à l'appui"}]
+10:["$","meta","7",{"property":"og:locale","content":"fr_FR"}]
+11:["$","meta","8",{"property":"og:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}]
+12:["$","meta","9",{"property":"og:image:type","content":"image/png"}]
+13:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+14:["$","meta","11",{"property":"og:image:height","content":"630"}]
+15:["$","meta","12",{"property":"og:type","content":"website"}]
+16:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+17:["$","meta","14",{"name":"twitter:title","content":"Debout ! · Pièces à l'appui"}]
+18:["$","meta","15",{"name":"twitter:description","content":"Debout ! : candidature(s) à la présidentielle 2027, groupe à l'Assemblée nationale, derniers votes et actualité, avec les sources."}]
+19:["$","meta","16",{"name":"twitter:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}]
+1a:["$","meta","17",{"name":"twitter:image:type","content":"image/png"}]
+1b:["$","meta","18",{"name":"twitter:image:width","content":"1200"}]
+1c:["$","meta","19",{"name":"twitter:image:height","content":"630"}]
+1d:["$","link","20",{"rel":"icon","href":"/FRANCE_2027/icon.svg?icon.2fkgruz0d1k9z.svg","sizes":"any","type":"image/svg+xml"}]
+1e:["$","link","21",{"rel":"apple-touch-icon","href":"/FRANCE_2027/apple-icon.png?apple-icon.145mgzo3m22sm.png","sizes":"180x180","type":"image/png"}]
+1f:["$","$L28","22",{}]
+21:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+24:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+27:true
+8:300
+8:C
+26:0
+20:"$undefined"
+22:"$undefined"
+25:"$undefined"
+7:"$undefined"

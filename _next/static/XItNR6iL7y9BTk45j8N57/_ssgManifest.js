@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcandidats\u002F[id]","\u002Fcandidats\u002F[id]\u002Fprogramme\u002F[topic]","\u002Fcomparer\u002F[pair]","\u002Fdonnees\u002Fprogrammes\u002F[file]","\u002Fpartis\u002F[id]","\u002Fprogrammes\u002F[topic]","\u002Fsondages\u002F[id]","\u002Fvotes\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

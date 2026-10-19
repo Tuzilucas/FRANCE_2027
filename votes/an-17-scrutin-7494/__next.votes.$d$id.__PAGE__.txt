@@ -1,0 +1,266 @@
+1:"$Sreact.fragment"
+2:I[22016,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],""]
+3:T4c78,TEXTE ADOPTÉ n° 321
+
+« Petite loi »
+
+__
+
+ASSEMBLÉE NATIONALE
+
+CONSTITUTION DU 4 OCTOBRE 1958
+
+DIX-SEPTIÈME LÉGISLATURE
+
+24 juin 2026
+
+proPOSITION DE LOI
+
+visant à réduire l’impact environnemental de l’industrie textile
+
+L’Assemblée nationale a adopté, dans les conditions prévues à l’article 45, alinéa 3, de la Constitution, la proposition de loi dont la teneur suit :
+
+Voir les numéros :
+
+Assemblée nationale : 1re lecture : 2129, 2307 et T.A. 258 (16e législature).
+
+1557. Commission mixte paritaire : 2940 (17e législature).
+
+Sénat : 1re lecture : 431 (2023-2024), 458, 459 et T.A. 136 (2024-2025).
+
+Commission mixte paritaire : 765 et 766 (2025-2026).
+
+– 1 –
+
+Article 1er
+
+Après l’article L. 541‑9‑1 du code de l’environnement, il est inséré un article L. 541‑9‑1‑1 ainsi rédigé :
+
+« Art. L. 541‑9‑1‑1. – I. – Relèvent de la mode ultra-express les pratiques industrielles et commerciales des producteurs, au sens de l’article L. 541‑10, qui ont pour conséquence la diminution de la durée d’usage ou de la durée de vie de produits mentionnés au 11° de l’article L. 541‑10‑1 en raison de la mise sur le marché d’un nombre élevé de références de produits neufs et de la faible incitation à réparer ces produits.
+
+« La mise à disposition ou la distribution, par des vendeurs distincts des producteurs des collections, de produits mentionnés au même 11° invendus ne relèvent pas de la pratique mentionnée au premier alinéa du présent I.
+
+« I bis. – Lorsqu’une personne physique ou morale permet, par l’utilisation d’une interface en ligne telle qu’une place de marché, une plateforme, un portail ou un dispositif similaire, la vente à distance ou la livraison de produits mentionnés au 11° de l’article L. 541‑10‑1, la pratique de mode ultra‑express est appréciée dans les mêmes conditions, selon les critères mentionnés au I du présent article.
+
+« La pratique de mode ultra-express est alors appréciée à l’échelle de l’ensemble des références de produits neufs proposés par cette personne, à l’exception des références pour lesquelles elle dispose d’éléments, qu’elle tient à la disposition de l’autorité administrative, justifiant que la personne titulaire de la marque desdits produits est le producteur mentionné au même I et que l’interface en ligne mentionnée au premier alinéa du présent I bis ne constitue pas son canal de vente principal.
+
+« II. – Les personnes mentionnées au I bis qui ont recours à la pratique mentionnée au I affichent sur leur interface en ligne des messages encourageant à la sobriété, au réemploi, à la réparation, à la réutilisation et au recyclage des produits, informant sur l’incidence sociale du produit, sensibilisant à son incidence sur l’environnement et sur la santé humaine et informant sur l’incidence sur l’environnement du service de livraison des produits proposé. Un décret en Conseil d’État définit le contenu ainsi que les modalités d’affichage de ces messages, qui sont affichés de manière claire, lisible et compréhensible.
+
+« II bis (nouveau). – Le présent article ne s’applique pas aux personnes établies dans un autre État membre de l’Union européenne ou partie à l’accord sur l’Espace économique européen. Toutefois, lorsque les conditions énumérées aux paragraphes 4 ou 5 de l’article 3 de la directive 2000/31/CE du Parlement européen et du Conseil du 8 juin 2000 relative à certains aspects juridiques des services de la société de l’information, et notamment du commerce électronique, dans le marché intérieur (“directive sur le commerce électronique”) sont remplies, au terme de la procédure prévue aux mêmes paragraphes 4 et 5, l’autorité administrative indique à ces personnes le service de la société de l’information concerné par cette procédure et quelles dispositions du présent code leur sont applicables.
+
+« III. – Les modalités d’application du présent article, notamment les seuils relatifs au nombre de références de produits neufs ainsi que les critères de la faible incitation à réparer, par marque au sens de l’article L. 711‑1 du code de la propriété intellectuelle et par canal de vente, sont définies par décret en Conseil d’État.
+
+« IV et V. – (Supprimés) »
+
+Article 1er bis AA
+
+Après l’article L. 541‑9‑1 du code de l’environnement, il est inséré un article L. 541‑9‑1‑2 ainsi rédigé :
+
+« Art. L. 541‑9‑1‑2. – Les lieux de fabrication du produit mentionné au 11° de l’article L. 541‑10‑1 vendu en ligne doivent être portés à la connaissance du consommateur de manière claire et lisible sur la plateforme numérique, en caractères d’une taille égale à celle de l’indication du prix et à proximité de celui‑ci. »
+
+Article 1er bis AB
+
+Après le premier alinéa du 2 de l’article 238 bis du code général des impôts, il est inséré un alinéa ainsi rédigé :
+
+« Toutefois, les versements, par les producteurs, au sens de l’article L. 541‑10 du code de l’environnement, de produits mentionnés au 11° de l’article L. 541‑10‑1 du même code résultant de la mode ultra‑express définie à l’article L. 541‑9‑1‑1 dudit code n’ouvrent pas droit à la réduction d’impôt prévue au présent 2. »
+
+Article 1er bis A
+
+I. – Le III de l’article L. 541‑9 du code de l’environnement est complété par un alinéa ainsi rédigé :
+
+« Les agents de la prévention des risques, les agents habilités en application de l’article L. 541‑9‑7, les agents des douanes et les agents de la concurrence, de la consommation et de la répression des fraudes sont autorisés, pour les besoins de leurs missions de contrôle de l’application du présent III, à se communiquer, spontanément ou sur demande, tous les renseignements et les documents détenus ou recueillis dans l’exercice de leurs missions respectives, sans que l’article 11 du code de procédure pénale ou les dispositions relatives au secret professionnel fassent obstacle à une telle communication. »
+
+II. – Après l’article L. 512‑20‑3 du code de la consommation, il est inséré un article L. 512‑20‑4 ainsi rédigé :
+
+« Art. L. 512‑20‑4. – Les agents de la concurrence, de la consommation et de la répression des fraudes et les agents de la Commission nationale de l’informatique et des libertés sont autorisés à se communiquer, spontanément ou sur demande, tous les renseignements et les documents détenus ou recueillis dans le cadre de leurs missions respectives et nécessaires à la recherche et à la constatation des infractions et des manquements à la réglementation relevant de leurs champs de compétences respectifs, sans que l’article 11 du code de procédure pénale ou les dispositions relatives au secret professionnel fassent obstacle à une telle communication. »
+
+III (nouveau). – Au dernier alinéa du III de l’article L. 541‑9 du code de l’environnement et à l’article L. 512‑20‑4 du code de la consommation, dans leur rédaction résultant des I et II du présent article, la référence : « 11 » est remplacée par la référence : « L. 3131‑1 ».
+
+IV (nouveau). – Le III du présent article entre en vigueur à la date prévue à l’article 57 de l’ordonnance n° 2025‑1091 du 19 novembre 2025 portant réécriture du code de procédure pénale (partie législative).
+
+Article 1er bis
+
+(Supprimé)
+
+Article 2
+
+I. – Le code de l’environnement est ainsi modifié :
+
+1° Le premier alinéa de l’article L. 541‑10‑3 est ainsi modifié :
+
+a) À la première phrase, après le mot : « lesquels », sont insérés les mots : « l’incidence sur l’environnement, notamment les atteintes à la biodiversité et l’empreinte carbone, » ;
+
+a bis) (nouveau) Après la même première phrase, est insérée une phrase ainsi rédigée : « Lorsque cela est possible, ces contributions financières sont également modulées en fonction des pratiques industrielles et commerciales des producteurs qui influencent la durée d’utilisation du produit et la probabilité qu’un produit devienne un déchet. » ;
+
+b) (Supprimé)
+
+2° Après l’article L. 541‑10‑9, il est inséré un article L. 541‑10‑9‑1 ainsi rédigé :
+
+« Art. L. 541-10-9-1. – Lorsqu’une personne non établie en France est soumise au principe de responsabilité élargie du producteur en application des articles L. 541‑10 ou L. 541‑10‑9, elle désigne, par mandat écrit, une personne physique ou morale établie en France en tant que mandataire chargé d’assurer le respect de ses obligations relatives au régime de responsabilité élargie des producteurs. Ce mandataire est subrogé dans toutes les obligations découlant du principe de responsabilité élargie du producteur dont il accepte le mandat.
+
+« L’obligation de désignation d’un mandataire est réputée satisfaite pour les produits pour lesquels une personne physique ou morale mentionnée à l’article L. 541‑10‑9 établie en France assure le respect des obligations relatives au régime de responsabilité élargie du producteur. » ;
+
+3° L’article L. 541‑10‑27 est ainsi modifié :
+
+a) Au début du premier alinéa, est ajoutée la mention : « I. – » ;
+
+a bis) Au deuxième alinéa, les mots : « présent article » sont remplacés par les mots : « présent I » ;
+
+b) Sont ajoutés des II à V ainsi rédigés :
+
+« II. – Pour les produits mentionnés au 11° de l’article L. 541‑10‑1, les contributions financières mentionnées à l’article L. 541-10-2 sont également modulées, dans les conditions prévues à l’article L. 541-10-3, en fonction de l’étendue de la gamme de produits ou de la fréquence des offres ainsi que de l’incitation à la réparation de ces produits, au sens de la directive (UE) 2025/1892 du Parlement européen et du Conseil du 10 septembre 2025 modifiant la directive 2008/98/CE relative aux déchets.
+
+« Les conditions d’application et les montants de cette modulation par catégorie de produits sont précisés par le cahier des charges mentionné à l’article L. 541‑10 du présent code.
+
+« Lorsque cette modulation prend la forme d’une pénalité, le montant de celle‑ci est compris entre :
+
+« 1° Vingt-cinq centimes et douze euros par produit en 2026 ;
+
+« 2° Cinquante centimes et quatorze euros par produit en 2027 ;
+
+« 3° Soixante-quinze centimes et seize euros par produit en 2028 ;
+
+« 4° Un et dix‑huit euros par produit en 2029 ;
+
+« 5° Deux et vingt euros par produit à partir de 2030.
+
+« Les produits affectés de cette pénalité ne peuvent bénéficier des primes mentionnées à l’article L. 541‑10‑3.
+
+« Sur demande motivée du producteur, nonobstant la dernière phrase du troisième alinéa du même article L. 541‑10‑3, les éco‑organismes sont tenus de limiter le montant de la prime ou de la pénalité à 50 % du prix de vente hors taxe de ces produits, nonobstant le montant des pénalités prévu aux 1° à 5° du présent II.
+
+« II bis. – (Supprimé)
+
+« III. – Pour l’application du II du présent article et de l’article L. 541‑10‑3, les éco‑organismes agréés en application du 11° de l’article L. 541‑10‑1 peuvent mettre en œuvre des collectes automatisées de données ou d’informations sur les interfaces en ligne permettant la vente à distance ou la livraison des produits mentionnés au même 11°, telles qu’une place de marché, une plateforme, un portail ou un dispositif similaire. Ces collectes s’effectuent nonobstant les conditions générales d’utilisation ou les licences des services des opérateurs concernés ou de leurs applications mettant les données visées à la disposition du public. Elles sont mises en œuvre de manière strictement nécessaire et proportionnée à l’exercice des missions ainsi dévolues à l’éco‑organisme, dans des conditions et selon des modalités précisées par décret en Conseil d’État. Ces informations sont tenues à la disposition de l’autorité administrative par les éco‑organismes.
+
+« IV. – Une fraction des contributions financières versées par les producteurs des produits mentionnés au 11° de l’article L. 541‑10‑1 est utilisée par les éco‑organismes pour financer des infrastructures de collecte, de tri, de réemploi, de préparation en vue de la réutilisation et de recyclage sur le territoire national.
+
+« V (nouveau). – Les opérateurs de gestion de produits usagés et de déchets ne peuvent gérer des produits usagés et des déchets issus de produits mentionnés au 11° de l’article L. 541‑10‑1 que s’ils disposent de contrats passés en vue de la gestion de ces déchets avec les éco‑organismes ou les systèmes individuels agréés. » ;
+
+4° (Supprimé)
+
+II. – (Supprimé)
+
+III (nouveau). – Le b du 3° du I du présent article entre en vigueur le 1er septembre 2026.
+
+Article 3
+
+I. – Après l’article L. 229‑61 du code de l’environnement, il est inséré un article L. 229‑61‑1 ainsi rédigé :
+
+« Art. L. 229‑61‑1. – I. – Est interdite la publicité relative aux produits relevant de la pratique de mode ultra-express définie à l’article L. 541‑9‑1‑1 ou faisant la promotion directe ou indirecte des marques ayant recours à cette pratique.
+
+« Pour la promotion de ces produits, le terme “gratuit” ne peut être utilisé comme outil de marketing ni comme outil promotionnel dans le cadre d’une relation commerciale.
+
+« II (nouveau). – Le I du présent article ne s’applique pas aux fournisseurs de services de médias, au sens de la directive 2010/13/UE du Parlement européen et du Conseil du 10 mars 2010 visant à la coordination de certaines dispositions législatives, réglementaires et administratives des États membres relatives à la fourniture de services de médias audiovisuels (directive “Services de médias audiovisuels”), qui relèvent de la compétence d’un autre État membre de l’Union européenne au sens du paragraphe 2 de l’article 2 de la même directive. Toutefois, lorsque les conditions énumérées aux paragraphes 2 et 3 de l’article 3 ou aux paragraphes 2 à 5 de l’article 4 de ladite directive sont remplies, au terme de la procédure prévue aux mêmes paragraphes 2 et 3 ou 2 à 5, l’autorité administrative indique à ces personnes le service de médias ou de médias audiovisuels concerné par cette procédure et quelles dispositions du présent code leur sont applicables.
+
+« III (nouveau). – Sans préjudice du II du présent article, le I ne s’applique pas aux services de la société de l’information, au sens de la directive 2000/31/CE du Parlement européen et du Conseil du 8 juin 2000 relative à certains aspects juridiques des services de la société de l’information, et notamment du commerce électronique, dans le marché intérieur (“directive sur le commerce électronique”), fournis par une personne établie dans un autre État membre de l’Union européenne ou partie à l’accord sur l’Espace économique européen. Toutefois, lorsque les conditions énumérées aux paragraphes 4 ou 5 de l’article 3 de la même directive sont remplies, au terme de la procédure prévue aux mêmes paragraphes 4 et 5, l’autorité administrative indique à ces personnes le service de la société de l’information concerné par cette procédure et quelles dispositions du présent code leur sont applicables.
+
+« IV (nouveau). – Les modalités d’application du présent article sont définies par décret en Conseil d’État. »
+
+II. – Le présent article entre en vigueur le 1er janvier 2027.
+
+Article 3 bis
+
+I. – Après le IV de l’article 4 de la loi n° 2023‑451 du 9 juin 2023 visant à encadrer l’influence commerciale et à lutter contre les dérives des influenceurs sur les réseaux sociaux, il est inséré un IV bis ainsi rédigé :
+
+« IV bis. – Est interdite aux personnes exerçant l’activité d’influence commerciale par voie électronique, à titre onéreux ou gratuit, quelle que soit la nature de la contrepartie, toute promotion, directe ou indirecte, de produits relevant de la pratique de mode ultra‑express définie à l’article L. 541‑9‑1‑1 du code de l’environnement et des marques ayant recours à cette pratique.
+
+« Les manquements et les infractions au présent IV bis sont passibles d’une amende administrative dont le montant ne peut excéder 100 000 euros. Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du code de la consommation. »
+
+I bis et II. – (Supprimés)
+
+III. – Le présent article entre en vigueur le 1er janvier 2027.
+
+Article 4
+
+Le code de l’environnement est ainsi modifié :
+
+1° Au premier alinéa de l’article L. 229‑63, la première occurrence du mot : « et » est remplacée par le mot : « à » ;
+
+2° Au premier alinéa de l’article L. 541‑9‑4‑1, les mots : « à l’article L. 541‑9‑1 » sont remplacés par les mots : « aux articles L. 541‑9‑1 et L. 541‑9‑1‑1 ».
+
+Article 5
+
+L’article L. 511‑7 du code de la consommation est ainsi modifié :
+
+1° Le 28° est ainsi rédigé :
+
+« 28° Des articles L. 541‑9‑1 et L. 541‑9‑1‑1 du même code ; »
+
+1° bis (nouveau) Au début du 32°, les mots : « Du V » sont remplacés par les mots : « Des IV bis et V » ;
+
+2° Après le même 32°, il est inséré un 32° bis ainsi rédigé :
+
+« 32° bis De l’article L. 229‑61‑1 du code de l’environnement ; ».
+
+Article 6 bis
+
+Le code de l’éducation est ainsi modifié :
+
+1° Avant le dernier alinéa de l’article L. 312‑19, il est inséré un alinéa ainsi rédigé :
+
+« Elle comprend une sensibilisation aux incidences sur l’environnement et sur la santé humaine des productions et des pratiques de consommation non durables, qui inclut la découverte des matériaux responsables ou à faibles incidences sur l’environnement, des conditions de production ainsi que de l’étiquetage. Elle met en avant les pratiques de consommation durable au quotidien, notamment dans l’utilisation des produits textiles et d’habillement. » ;
+
+2° (nouveau) La vingt-neuvième ligne du tableau du second alinéa du I de l’article L. 375‑1 est ainsi rédigée :
+
+«
+
+L. 312‑19
+
+Résultant de la loi n° du visant à réduire l’impact environnemental de l’industrie textile
+
+»
+
+Article 7
+
+Dans un délai d’un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport dressant le bilan de la mise en œuvre de mesures miroirs aux frontières du marché intérieur de l’Union européenne pour imposer des normes sanitaires, sociales et environnementales européennes à l’importation des produits relevant de la pratique de mode ultra‑express. Ce rapport analyse également l’opportunité d’inverser la charge de la preuve au moment de l’entrée des produits dans l’Union européenne : il incomberait à l’exportateur d’apporter la preuve que ses produits ont été produits dans des conditions conformes aux normes européennes, avec une vigilance particulière quant au respect des droits de l’homme.
+
+Article 8
+
+(Supprimé)
+
+Délibéré en séance publique, à Paris, le 24 juin 2026.
+
+La Présidente,
+
+Signé : Yaël BRAUN-PIVETa:X
+f:X
+f:C
+0:{"buildId":"XItNR6iL7y9BTk45j8N57","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","p",null,{"className":"text-sm","children":["$","$L2",null,{"href":"/votes/","children":"← Tous les votes"}]}],["$","header",null,{"children":[["$","p",null,{"className":"text-sm text-muted","children":["Assemblée nationale · ","17",["$","sup",null,{"children":"e"}]," législature · scrutin n° ",7494," · ",["$","time",null,{"dateTime":"2026-06-24","children":"24 juin 2026"}]," ·"," ","Proposition de loi"]}],["$","h1",null,{"className":"mt-1 text-2xl font-bold tracking-tight text-navy-dark first-letter:uppercase sm:text-3xl","children":"l’ensemble de la proposition de loi visant à réduire l’impact environnemental de l’industrie textile (texte de la commission mixte paritaire)."}],["$","p",null,{"className":"mt-3 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"rounded-full px-3 py-0.5 text-sm font-semibold bg-ok-bg text-ok","children":"Adopté"}],["$","span",null,{"className":"text-muted first-letter:uppercase","children":"l'Assemblée nationale a adopté"}]]}],["$","p",null,{"className":"mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm","children":[["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7494","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du scrutin ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du texte ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0321.pdf","rel":"noopener noreferrer external","target":"_blank","children":["PDF officiel ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","section",null,{"aria-labelledby":"resume","children":[["$","h2",null,{"id":"resume","className":"text-sm font-semibold tracking-wide text-navy uppercase","children":"Résumé"}],["$","p",null,{"className":"mt-1 leading-relaxed","children":"Le texte définit dans le code de l'environnement la « mode ultra-express », pratique réduisant la durée d'usage des produits textiles, et impose aux plateformes concernées des messages incitant au réemploi et au recyclage. Il module les contributions des producteurs à la filière de responsabilité élargie selon l'impact environnemental, avec des pénalités par produit de 25 centimes à 12 euros en 2026, jusqu'à 2 à 20 euros à partir de 2030. Il interdit à compter du 1er janvier 2027 la publicité et la promotion par les influenceurs de ces produits."}]]}],["$","details",null,{"className":"mt-4","children":[["$","summary",null,{"className":"cursor-pointer font-medium text-navy","children":"Texte officiel complet"}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["Texte repris tel quel depuis"," ",["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0321.html","rel":"noopener noreferrer external","target":"_blank","children":"la version officielle publiée par l'Assemblée nationale"}]," (PIONANR5L17BTA0321)",", récupéré le"," ",["$","time",null,{"dateTime":"2026-10-16T16:01:13.525Z","children":"16 octobre 2026 à 18:01"}],"."]}],["$","div",null,{"className":"mt-3 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-paper/60 p-4 text-sm leading-relaxed whitespace-pre-line","children":"$3"}]]}]]}],"$L4","$L5","$L6","$L7"]}],null,"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+22:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+25:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"ViewportBoundary"]
+26:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"MetadataBoundary"]
+27:I[27201,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"IconMark"]
+28:I[39756,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+29:I[37457,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+4:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Résultat officiel"}],["$","dl",null,{"className":"grid grid-cols-2 gap-x-4 gap-y-2 text-sm tabular-nums sm:grid-cols-4","children":[["$","div","Votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"489"}]]}],["$","div","Suffrages exprimés",{"children":[["$","dt",null,{"className":"text-muted","children":"Suffrages exprimés"}],["$","dd",null,{"className":"text-lg font-semibold","children":"338"}]]}],["$","div","Majorité requise",{"children":[["$","dt",null,{"className":"text-muted","children":"Majorité requise"}],["$","dd",null,{"className":"text-lg font-semibold","children":"170"}]]}],["$","div","Pour",{"children":[["$","dt",null,{"className":"text-muted","children":"Pour"}],["$","dd",null,{"className":"text-lg font-semibold","children":"338"}]]}],["$","div","Contre",{"children":[["$","dt",null,{"className":"text-muted","children":"Contre"}],["$","dd",null,{"className":"text-lg font-semibold","children":"0"}]]}],["$","div","Abstentions",{"children":[["$","dt",null,{"className":"text-muted","children":"Abstentions"}],["$","dd",null,{"className":"text-lg font-semibold","children":"151"}]]}],["$","div","Non-votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Non-votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"1"}]]}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["scrutin public solennel"," · Majorité absolue des suffrages exprimés",". « Non-votants » au sens du décompte officiel ; les absents n'y figurent pas."]}]]}]
+5:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Décompte par groupe"}],["$","div",null,{"className":"scroll-x -mx-1 overflow-x-auto px-1","children":["$","table",null,{"className":"w-full sm:min-w-[34rem] border-collapse text-sm","children":[["$","caption",null,{"className":"sr-only","children":"Ventilation officielle par groupe, scrutin n° 7494"}],["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line text-left text-xs text-muted","children":[["$","th",null,{"scope":"col","className":"py-1.5 pr-2 font-medium","children":"Groupe"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Pour"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Contre"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":[["$","span",null,{"className":"sm:hidden","children":"Abst."}],["$","span",null,{"className":"hidden sm:inline","children":"Abstention"}]]}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Non-votants"}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Membres"}]]}]}],["$","tbody",null,{"children":[["$","tr","an-po845425",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Droite Républicaine","className":"no-underline sm:hidden","children":"DR"}],["$","span",null,{"className":"hidden sm:inline","children":["Droite Républicaine",["$","span",null,{"className":"text-muted","children":[" (","DR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"44"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"48"}]]}],["$","tr","an-po845439",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Écologiste et Social","className":"no-underline sm:hidden","children":"ECOS"}],["$","span",null,{"className":"hidden sm:inline","children":["Écologiste et Social",["$","span",null,{"className":"text-muted","children":[" (","ECOS",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"35"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"38"}]]}],["$","tr","an-po845407",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Ensemble pour la République","className":"no-underline sm:hidden","children":"EPR"}],["$","span",null,{"className":"hidden sm:inline","children":["Ensemble pour la République",["$","span",null,{"className":"text-muted","children":[" (","EPR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"89"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"91"}]]}],["$","tr","an-po845514",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Gauche Démocrate et Républicaine","className":"no-underline sm:hidden","children":"GDR"}],"$L14"]}],"$L15","$L16","$L17","$L18","$L19"]}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]]}]}]]}]
+6:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Vote nominatif des candidats suivis"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li","francois-ruffin",{"children":[["$","$L2",null,{"href":"/candidats/francois-ruffin/","children":"François Ruffin"}]," :"," ",["$","span",null,{"className":"font-medium","children":"Abstention"}]," (par délégation)"," — ","Écologiste et Social"]}],["$","li","gabriel-attal",{"children":[["$","$L2",null,{"href":"/candidats/gabriel-attal/","children":"Gabriel Attal"}]," :"," ",["$","span",null,{"className":"font-medium","children":"Pour"}]," (par délégation)"," — ","Ensemble pour la République"]}],["$","li","marine-le-pen",{"children":[["$","$L2",null,{"href":"/candidats/marine-le-pen/","children":"Marine Le Pen"}]," :"," ",["$","span",null,{"className":"font-medium","children":"Pour"}]," (par délégation)"," — ","Rassemblement National"]}]]}]]}]
+7:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-2 text-lg font-semibold tracking-tight text-navy-dark","children":"Sources"}],["$","p",null,{"className":"mb-2 text-sm text-muted","children":["Thème","s"," (d'après le titre officiel) :"," ","Industrie, réindustrialisation et souveraineté, Énergie et environnement"]}],["$","ul",null,{"className":"space-y-1 text-sm","aria-label":"Sources","children":[["$","li","an-scrutin-17-7494-0",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7494","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, scrutin public n° 7494 du 2026-06-24"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-06-24","children":"24 juin 2026"}]],null,null,null]}],["$","li","an-opendata-scrutins-17-1",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://data.assemblee-nationale.fr/travaux-parlementaires/votes","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Scrutins de la 17e législature (données ouvertes)"}]," ","— ","Assemblée nationale",null,null,["$","span",null,{"children":[" (","json/VTANR5L17V7494.json",")"]}],null]}],["$","li","an-dossier-dlr5l16n49364-2",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, dossier législatif DLR5L16N49364"}]," ","— ","Assemblée nationale",null,null,null,null]}],["$","li","an-texte-pionanr5l17bta0321-3",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0321.html","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, texte adopté PIONANR5L17BTA0321"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-06-24","children":"24 juin 2026"}]],null,null,null]}]]}]]}]
+8:["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+b:["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Scrutin n° 7494 · Pièces à l'appui"}],["$","meta","1",{"name":"description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","2",{"name":"keywords","content":"présidentielle 2027,candidats présidentielle 2027,programmes présidentielle 2027,comparateur programmes,sondages présidentielle 2027,élection présidentielle"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"Scrutin n° 7494 · Pièces à l'appui"}],["$","meta","5",{"property":"og:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","6",{"property":"og:site_name","content":"Pièces à l'appui"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Scrutin n° 7494 · Pièces à l'appui"}],["$","meta","15",{"name":"twitter:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","16",{"name":"twitter:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","17",{"name":"twitter:image:type","content":"image/png"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/FRANCE_2027/icon.svg?icon.2fkgruz0d1k9z.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/FRANCE_2027/apple-icon.png?apple-icon.145mgzo3m22sm.png","sizes":"180x180","type":"image/png"}],["$","$L27","22",{}]]}]}]}],null]}]
+d:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+13:true
+14:["$","span",null,{"className":"hidden sm:inline","children":["Gauche Démocrate et Républicaine",["$","span",null,{"className":"text-muted","children":[" (","GDR",")"]}]]}]
+15:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"3"}]
+16:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+17:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"12"}]
+18:["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}]
+19:["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]
+1a:["$","tr","an-po845470",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Horizons & Indépendants","className":"no-underline sm:hidden","children":"HOR"}],["$","span",null,{"className":"hidden sm:inline","children":["Horizons & Indépendants",["$","span",null,{"className":"text-muted","children":[" (","HOR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"33"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"35"}]]}]
+1b:["$","tr","an-po845413",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"La France insoumise - Nouveau Front Populaire","className":"no-underline sm:hidden","children":"LFI-NFP"}],["$","span",null,{"className":"hidden sm:inline","children":["La France insoumise - Nouveau Front Populaire",["$","span",null,{"className":"text-muted","children":[" (","LFI-NFP",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"50"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"71"}]]}]
+1c:["$","tr","an-po845454",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Les Démocrates","className":"no-underline sm:hidden","children":"DEM"}],["$","span",null,{"className":"hidden sm:inline","children":["Les Démocrates",["$","span",null,{"className":"text-muted","children":[" (","DEM",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"32"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"37"}]]}]
+1d:["$","tr","an-po845485",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Libertés, Indépendants, Outre-mer et Territoires","className":"no-underline sm:hidden","children":"LIOT"}],["$","span",null,{"className":"hidden sm:inline","children":["Libertés, Indépendants, Outre-mer et Territoires",["$","span",null,{"className":"text-muted","children":[" (","LIOT",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"16"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"23"}]]}]
+1e:["$","tr","an-po840056",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Non inscrit","className":"no-underline sm:hidden","children":"NI"}],["$","span",null,{"className":"hidden sm:inline","children":["Non inscrit",["$","span",null,{"className":"text-muted","children":[" (","NI",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"6"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"10"}]]}]
+1f:["$","tr","an-po845401",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Rassemblement National","className":"no-underline sm:hidden","children":"RN"}],["$","span",null,{"className":"hidden sm:inline","children":["Rassemblement National",["$","span",null,{"className":"text-muted","children":[" (","RN",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"98"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"122"}]]}]
+20:["$","tr","an-po845419",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Socialistes et apparentés","className":"no-underline sm:hidden","children":"SOC"}],["$","span",null,{"className":"hidden sm:inline","children":["Socialistes et apparentés",["$","span",null,{"className":"text-muted","children":[" (","SOC",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"54"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"68"}]]}]
+21:["$","tr","an-po872880",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Union des droites pour la République","className":"no-underline sm:hidden","children":"UDDPLR"}],["$","span",null,{"className":"hidden sm:inline","children":["Union des droites pour la République",["$","span",null,{"className":"text-muted","children":[" (","UDDPLR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"17"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]]}]
+24:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

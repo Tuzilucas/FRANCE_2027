@@ -1,0 +1,445 @@
+1:"$Sreact.fragment"
+2:I[97287,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"Analytics"]
+3:I[8895,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"SiteHeader"]
+4:I[377,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"NoticeBanner"]
+5:I[39756,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+6:I[37457,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+7:I[22016,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],""]
+8:I[49767,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"Ask"]
+f:I[68027,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default",1]
+:HL["/FRANCE_2027/_next/static/chunks/26dxal3pye7f5.css","style"]
+:HC["/",""]
+d:X
+0:{"P":null,"c":["","votes","an-17-scrutin-7405",""],"q":"","i":false,"f":[[["",{"children":["votes",{"children":[["id","an-17-scrutin-7405","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/FRANCE_2027/_next/static/chunks/26dxal3pye7f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(localStorage.getItem('theme')==='dark')document.documentElement.dataset.theme='dark'}catch(e){}"}}]}],["$","body",null,{"className":"flex min-h-screen flex-col pb-[calc(4rem+env(safe-area-inset-bottom))] lg:pb-0","children":[["$","a",null,{"href":"#contenu","className":"sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:rounded-lg focus:bg-surface focus:p-3 focus:shadow-lg","children":"Aller au contenu"}],["$","$L2",null,{"code":"observatoire2027"}],["$","$L3",null,{"items":[{"href":"/","label":"Accueil"},{"href":"/candidats/","label":"Candidats"},{"href":"/programmes/","label":"Programmes"},{"href":"/comparer/","label":"Comparer"},{"href":"/revendications/","label":"Revendications"},{"href":"/sondages/","label":"Sondages"},{"href":"/actualites/","label":"Actualités"},{"href":"/justice/","label":"Justice"},{"href":"/carte/","label":"Carte"},{"href":"/sources/","label":"Sources"},{"href":"/partis/","label":"Partis","menuOnly":true},{"href":"/votes/","label":"Votes au Parlement","menuOnly":true},{"href":"/parrainages/","label":"Parrainages","menuOnly":true},{"href":"/calendrier/","label":"Calendrier","menuOnly":true},{"href":"/voter/","label":"Voter en 2027","menuOnly":true},{"href":"/glossaire/","label":"Glossaire","menuOnly":true},{"href":"/faq/","label":"Questions fréquentes","menuOnly":true},{"href":"/enseignants/","label":"Enseignants","menuOnly":true},{"href":"/presse/","label":"Espace presse","menuOnly":true},{"href":"/partager/","label":"Faire connaître le site","menuOnly":true},{"href":"/a-propos/","label":"À propos","menuOnly":true}]}],["$","$L4",null,{}],["$","main",null,{"id":"contenu","className":"mx-auto w-full max-w-6xl flex-1 px-4 py-8 sm:py-10","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-rise","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"py-16 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold text-navy-dark","children":"Page introuvable"}],["$","p",null,{"className":"mt-2 text-muted","children":"Cette page n'existe pas ou a été déplacée."}],["$","p",null,{"className":"mt-4","children":[["$","$L7",null,{"href":"/","children":"Retour à l'accueil"}]," · ",["$","$L7",null,{"href":"/recherche/","children":"Rechercher"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"candidates":[{"id":"bruno-retailleau","name":"Bruno Retailleau"},{"id":"delphine-batho","name":"Delphine Batho"},{"id":"fabien-roussel","name":"Fabien Roussel"},{"id":"marine-tondelier","name":"Marine Tondelier"},{"id":"raphael-glucksmann","name":"Raphaël Glucksmann"},{"id":"selma-labib","name":"Selma Labib"},{"id":"anasse-kazib","name":"Anasse Kazib"},{"id":"clara-egger","name":"Clara Egger"},{"id":"david-lisnard","name":"David Lisnard"},{"id":"edouard-philippe","name":"Édouard Philippe"},{"id":"eric-zemmour","name":"Éric Zemmour"},{"id":"florian-philippot","name":"Florian Philippot"},{"id":"francois-asselineau","name":"François Asselineau"},{"id":"francois-ruffin","name":"François Ruffin"},{"id":"gabriel-attal","name":"Gabriel Attal"},{"id":"jean-luc-melenchon","name":"Jean-Luc Mélenchon"},{"id":"juan-branco","name":"Juan Branco"},{"id":"karim-bouamrane","name":"Karim Bouamrane"},{"id":"marine-le-pen","name":"Marine Le Pen"},{"id":"natacha-polony","name":"Natacha Polony"},{"id":"nathalie-arthaud","name":"Nathalie Arthaud"},{"id":"nicolas-dupont-aignan","name":"Nicolas Dupont-Aignan"},{"id":"sylvain-durif","name":"Sylvain Durif"},{"id":"xavier-bertrand","name":"Xavier Bertrand"},{"id":"bernard-cazeneuve","name":"Bernard Cazeneuve"},{"id":"dominique-de-villepin","name":"Dominique de Villepin"}],"topics":[{"id":"pouvoir-d-achat-fiscalite","label":"Pouvoir d'achat et fiscalité"},{"id":"economie-entreprises","label":"Économie, entreprises et compétitivité"},{"id":"emploi-salaires","label":"Emploi et salaires"},{"id":"industrie-souverainete","label":"Industrie, réindustrialisation et souveraineté"},{"id":"energie-environnement","label":"Énergie et environnement"},{"id":"sante-protection-sociale","label":"Santé et protection sociale"},{"id":"education","label":"Éducation et enseignement supérieur"},{"id":"securite-justice","label":"Sécurité et justice"},{"id":"immigration-integration","label":"Immigration et intégration"},{"id":"institutions-democratie","label":"Institutions et démocratie"},{"id":"europe-international","label":"Europe et politique étrangère"},{"id":"defense","label":"Défense"},{"id":"agriculture-alimentation","label":"Agriculture et alimentation"},{"id":"logement-urbanisme","label":"Logement et urbanisme"},{"id":"transports","label":"Transports et infrastructures"},{"id":"services-publics","label":"Fonction publique et services publics"},{"id":"retraites","label":"Retraites"},{"id":"famille-demographie","label":"Famille et politique démographique"},{"id":"outre-mer","label":"Outre-mer"},{"id":"numerique-recherche","label":"Numérique, recherche et innovation"},{"id":"finances-publiques","label":"Dette et finances publiques"},{"id":"autres","label":"Autres thèmes émergents"}]}],"$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XItNR6iL7y9BTk45j8N57"}
+19:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"ViewportBoundary"]
+1e:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"MetadataBoundary"]
+9:["$","footer",null,{"className":"mt-16 bg-surface","children":[["$","div",null,{"className":"tricolor h-1.5","aria-hidden":"true"}],["$","div",null,{"className":"mx-auto grid max-w-6xl grid-cols-2 gap-x-6 gap-y-8 px-4 py-10 text-sm text-muted md:grid-cols-[2fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"col-span-2 md:col-span-1","children":[["$","p",null,{"className":"font-medium text-ink","children":["$","span",null,{"className":"flex min-w-0 items-center gap-2.5","children":[["$","svg",null,{"viewBox":"0 0 64 64","aria-hidden":"true","className":"shrink-0 h-10 w-10","children":[["$","defs",null,{"children":[["$","linearGradient",null,{"id":"or-_S_1_","x1":"0","y1":"9","x2":"0","y2":"50","gradientUnits":"userSpaceOnUse","children":[["$","stop",null,{"offset":"0","stopColor":"#fdeaa6"}],["$","stop",null,{"offset":".5","stopColor":"#e0ad35"}],["$","stop",null,{"offset":"1","stopColor":"#a6740c"}]]}],["$","clipPath",null,{"id":"hx-_S_1_","children":["$","path",null,{"d":"M32 5 55.4 18.5v27L32 59 8.6 45.5v-27Z"}]}]]}],["$","g",null,{"clipPath":"url(#hx-_S_1_)","children":[["$","rect",null,{"x":"0","y":"0","width":"24","height":"64","fill":"#000091"}],["$","rect",null,{"x":"24","y":"0","width":"16","height":"64","fill":"#ffffff"}],["$","rect",null,{"x":"40","y":"0","width":"24","height":"64","fill":"#e1000f"}]]}],["$","path",null,{"d":"M32 5 55.4 18.5v27L32 59 8.6 45.5v-27Z","fill":"none","stroke":"#000091","strokeWidth":"3","strokeLinejoin":"round"}],["$","path",null,{"d":"M32 9.5 C37.8 15.5 40 23.5 36.8 31.5 L34.6 36 L29.4 36 L27.2 31.5 C24 23.5 26.2 15.5 32 9.5 Z M28.6 36 C21.6 35.2 14.8 31.6 13.9 24.8 C13.4 20.2 17.2 17.6 20.8 19.2 C23.1 20.3 23.2 23.4 21.2 24.4 C19.9 25.1 18.4 24.3 18.5 22.9 C17.2 25 18.4 28.4 21.8 30.3 C24.4 31.8 27 32.8 29.6 34.2 Z M 35.4 36 C 42.4 35.2 49.2 31.6 50.1 24.8 C 50.6 20.2 46.8 17.6 43.2 19.2 C 40.9 20.3 40.8 23.4 42.8 24.4 C 44.1 25.1 45.6 24.3 45.5 22.9 C 46.8 25 45.6 28.4 42.2 30.3 C 39.6 31.8 37 32.8 34.4 34.2 Z M22.2 36 H41.8 Q43.3 36 43.3 37.5 V39.6 Q43.3 41.1 41.8 41.1 H22.2 Q20.7 41.1 20.7 39.6 V37.5 Q20.7 36 22.2 36 Z M30 41.1 H34 L33 46.4 L32 49.6 L31 46.4 Z M29.6 41.1 C26.8 41.8 23.8 43.4 22.3 46.6 C21.8 47.8 23.1 48.5 24 47.6 C25.6 46 27.6 44.6 30.1 43.7 Z M 34.4 41.1 C 37.2 41.8 40.2 43.4 41.7 46.6 C 42.2 47.8 40.9 48.5 40 47.6 C 38.4 46 36.4 44.6 33.9 43.7 Z","fill":"url(#or-_S_1_)","stroke":"#6b4a00","strokeWidth":"1.1","strokeLinejoin":"round"}]]}],["$","span",null,{"className":"min-w-0 leading-none ","children":[["$","span",null,{"className":"block truncate font-display text-[19px] font-semibold tracking-tight text-navy-dark","children":"Pièces à l'appui"}],["$","span",null,{"className":"mt-0.5 block text-[9.5px] font-semibold tracking-[0.28em] text-muted uppercase","children":"Présidentielle 2027"}]]}]]}]}],["$","p",null,{"className":"mt-1","children":"Site indépendant, sans lien avec l'État, un parti ou un candidat. Aucune recommandation de vote."}],["$","p",null,{"className":"mt-2","children":["Dernière actualisation :"," ",["$","time",null,{"dateTime":"2026-10-19T20:52:04Z","children":"19 octobre 2026 à 22:52"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-2 text-xs font-semibold tracking-widest text-navy-dark uppercase","children":"S'informer"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/comparer/",{"children":["$","$L7",null,{"href":"/comparer/","children":"Comparer deux candidats"}]}],["$","li","/partis/",{"children":["$","$L7",null,{"href":"/partis/","children":"Partis"}]}],["$","li","/calendrier/",{"children":["$","$L7",null,{"href":"/calendrier/","children":"Calendrier"}]}],["$","li","/voter/",{"children":["$","$L7",null,{"href":"/voter/","children":"Voter en 2027"}]}],["$","li","/parrainages/",{"children":["$","$L7",null,{"href":"/parrainages/","children":"Parrainages"}]}],["$","li","/glossaire/",{"children":["$","$L7",null,{"href":"/glossaire/","children":"Glossaire"}]}],["$","li","/faq/",{"children":["$","$L7",null,{"href":"/faq/","children":"Questions fréquentes"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-2 text-xs font-semibold tracking-widest text-navy-dark uppercase","children":"Le projet"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/a-propos/",{"children":["$","$L7",null,{"href":"/a-propos/","children":"À propos"}]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}]]}],"$L17"]}]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L18",null,["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],null]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/FRANCE_2027/_next/static/chunks/26dxal3pye7f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+11:["$","li","/methodologie/",{"children":["$","$L7",null,{"href":"/methodologie/","children":"Méthodologie"}]}]
+12:["$","li","/sources/",{"children":["$","$L7",null,{"href":"/sources/","children":"Sources et couverture"}]}]
+13:["$","li","/corrections/",{"children":["$","$L7",null,{"href":"/corrections/","children":"Corrections et signalements"}]}]
+14:["$","li","/presse/",{"children":["$","$L7",null,{"href":"/presse/","children":"Espace presse"}]}]
+15:["$","li","/partager/",{"children":["$","$L7",null,{"href":"/partager/","children":"Faire connaître le site"}]}]
+16:["$","li","/enseignants/",{"children":["$","$L7",null,{"href":"/enseignants/","children":"Enseignants"}]}]
+17:["$","div",null,{"className":"col-span-2 md:col-span-1","children":[["$","div",null,{"children":[["$","p",null,{"className":"mb-2 text-xs font-semibold tracking-widest text-navy-dark uppercase","children":"Légal"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/mentions-legales/",{"children":["$","$L7",null,{"href":"/mentions-legales/","children":"Mentions légales"}]}],["$","li","/conditions-utilisation/",{"children":["$","$L7",null,{"href":"/conditions-utilisation/","children":"Conditions d'utilisation"}]}],["$","li","/confidentialite/",{"children":["$","$L7",null,{"href":"/confidentialite/","children":"Politique de confidentialité"}]}]]}]]}],["$","p",null,{"className":"mt-2","children":["© 2026 ","Lucas Tuzi",". Code source propriétaire, tous droits réservés."]}]]}]
+20:T8778,TEXTE ADOPTÉ n° 315
+
+« Petite loi »
+
+__
+
+ASSEMBLÉE NATIONALE
+
+CONSTITUTION DU 4 OCTOBRE 1958
+
+DIX-SEPTIÈME LÉGISLATURE
+
+16 juin 2026
+
+proPOSITION DE LOI
+
+visant à renforcer la sécurité, la rétention administrative
+et la prévention des risques d’attentat
+
+(Texte définitif)
+
+L’Assemblée nationale a adopté, dans les conditions prévues à l’article 45, alinéa 3, de la Constitution, la proposition de loi dont la teneur suit :
+
+Voir les numéros :
+
+Assemblée nationale : 1re lecture : 2180, 2468 et T.A. 278.
+2817. Commission mixte paritaire : 2877.
+
+Sénat : 1re lecture : 597, 611, 612 et T.A. 116 (2025-2026).
+Commission mixte paritaire : 705, 706 et T.A. 136 (2025-2026).
+
+– 1 –
+
+Article 1er
+
+Après le chapitre IX du titre II du livre II du code de la sécurité intérieure, il est inséré un chapitre IX bis ainsi rédigé :
+
+« Chapitre IX bis
+
+« Injonction d’examen psychiatrique
+
+« Art. L. 229‑7. – I. – Aux seules fins de prévenir la commission d’actes de terrorisme, en même temps que de permettre la protection de la santé, le représentant de l’État dans le département ou, à Paris, le préfet de police peut faire obligation à une personne à l’égard de laquelle il existe des raisons sérieuses de penser que son comportement constitue une menace grave pour l’ordre et la sécurité publics, en raison de son adhésion à des théories incitant ou faisant l’apologie d’actes de terrorisme et d’agissements susceptibles d’être en tout ou partie liés à des troubles mentaux, identifiés par l’avis d’un psychiatre sur le fondement de l’ensemble des éléments à sa disposition, de se soumettre à un examen psychiatrique dans un délai qu’il fixe et qui ne peut être inférieur à quinze jours, sauf urgence dûment justifiée.
+
+« Le second alinéa de l’article L. 212‑1 du code des relations entre le public et l’administration est applicable à l’avis mentionné au premier alinéa du présent I.
+
+« La décision du représentant de l’État dans le département ou, à Paris, du préfet de police énonce avec précision les circonstances qui rendent l’examen psychiatrique indispensable.
+
+« II. – L’examen psychiatrique est réalisé par un psychiatre choisi par la personne sur une liste définie par la cour d’appel dans le ressort de laquelle elle réside. Ce psychiatre ne doit pas avoir déjà reçu la personne comme patient.
+
+« III. – La personne peut demander au président du tribunal administratif ou au magistrat qu’il délègue l’annulation de la décision mentionnée au I, dans un délai de quarante‑huit heures à compter de sa notification. Il est statué sur la légalité de la décision dans un délai de soixante‑douze heures à compter de la saisine du tribunal. La mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
+
+« IV. – Si la personne concernée ne s’est pas soumise, sans motif légitime, à l’examen psychiatrique mentionné au I, le représentant de l’État dans le département ou, à Paris, le préfet de police peut, après avoir dûment constaté cette abstention, demander au magistrat du siège du tribunal judiciaire dans le ressort duquel la personne réside, par une requête motivée, de l’autoriser par ordonnance motivée à requérir les services de police ou les unités de gendarmerie pour qu’ils visitent le domicile de cette personne afin de s’assurer de sa présence et de la présenter à un psychiatre figurant sur la liste mentionnée au II, aux fins de réaliser cet examen. Ces opérations sont autorisées pour le temps strictement nécessaire à leur réalisation, dans des conditions définies par l’ordonnance au regard de la date et du lieu de l’examen psychiatrique.
+
+« L’ordonnance mentionne l’adresse des lieux dans lesquels les opérations peuvent être effectuées, celles‑ci ne pouvant concerner les lieux affectés à l’exercice d’un mandat parlementaire ou à l’activité professionnelle des avocats, des magistrats ou des journalistes, ainsi que la faculté pour l’occupant des lieux de faire appel à un conseil de son choix, sans que l’exercice de cette faculté entraîne la suspension des opérations ainsi autorisées.
+
+« L’ordonnance est exécutoire au seul vu de la minute. Elle est notifiée sur place et l’acte de notification comporte mention des voies de recours.
+
+« Les opérations mentionnées au deuxième alinéa du présent IV sont effectuées sous le contrôle du magistrat qui les a autorisées, qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales. Ces opérations ne peuvent être commencées avant 6 heures ni après 21 heures. Elles ne peuvent, à peine de nullité, avoir un autre objet que l’exécution des mesures autorisées par l’ordonnance du magistrat du siège du tribunal judiciaire.
+
+« Il est dressé un procès‑verbal mentionnant les dates et heures de début et de fin des opérations et les conditions de leur déroulement. Ce procès‑verbal est notifié à l’intéressé. Le procès‑verbal est transmis au magistrat du siège du tribunal judiciaire, copie en ayant été remise à l’intéressé.
+
+« L’ordonnance est susceptible d’appel devant le premier président de la cour d’appel ou son délégué, qui est saisi sans forme et statue dans un délai de quarante‑huit heures à compter de sa saisine.
+
+« L’appel n’est pas suspensif.
+
+« Le premier président de la cour d’appel ou son délégué peut, par ordonnance motivée et sans avoir préalablement convoqué les parties, rejeter les déclarations d’appel manifestement irrecevables.
+
+« V. – Au vu du certificat médical établi par un psychiatre en application des II ou IV faisant apparaître que la personne est atteinte de troubles mentaux compromettant la sûreté des personnes ou portant gravement atteinte à l’ordre et à la sécurité publics et nécessitant des soins psychiatriques, le représentant de l’État dans le département ou, à Paris, le préfet de police, peut prononcer l’admission en soins psychiatriques dans les conditions prévues aux II et IV de l’article L. 3213‑1 du code de la santé publique.
+
+« Lorsque l’examen psychiatrique mentionné au I du présent article conclut à l’absence de nécessité de soins psychiatriques, il est mis fin aux opérations sans délai. »
+
+Article 2
+
+À la première phrase du premier alinéa de l’article L. 22‑10‑1 du code de la sécurité intérieure, la référence : « IX » est remplacée par la référence : « IX bis ».
+
+Article 3
+
+Le titre XV du livre IV du code de procédure pénale est complété par une section 6 ainsi rédigée :
+
+« Section 6
+
+« De la rétention de sûreté terroriste
+
+« Art. 706‑25‑23. – I. – À titre exceptionnel, les personnes dont il est établi, à l’issue d’un réexamen de leur situation intervenant à la fin de l’exécution de leur peine, qu’elles présentent une particulière dangerosité, caractérisée par une probabilité très élevée de récidive, en raison d’une adhésion persistante à une idéologie ou à des thèses incitant à la commission d’actes de terrorisme et parce qu’elles souffrent d’un trouble grave de la personnalité, peuvent faire l’objet à l’issue de cette peine d’une rétention de sûreté terroriste selon les modalités prévues à la présente section, à la condition qu’elles aient été condamnées à une peine de réclusion criminelle d’une durée égale ou supérieure à quinze ans pour les crimes mentionnés au 1° de l’article 421‑1 du code pénal.
+
+« La rétention de sûreté terroriste consiste dans le placement de la personne dans un centre socio‑médico‑judiciaire de sûreté dans lequel lui est proposée, de façon permanente, une prise en charge médicale, sociale et psychologique destinée à permettre la fin de cette mesure.
+
+« II. – La rétention de sûreté terroriste ne peut toutefois être prononcée que si la cour d’assises a expressément prévu dans sa décision de condamnation que la personne pourra faire l’objet à la fin de sa peine d’un réexamen de sa situation en vue d’une éventuelle rétention de sûreté terroriste.
+
+« Par exception, lorsque la cour d’assises n’a pas prévu que la personne condamnée fera l’objet d’un réexamen de sa situation, le procureur de la République antiterroriste peut, lorsque cette personne présente une particulière dangerosité au sens du premier alinéa du I du présent article et que la durée de la peine accomplie par elle est au moins égale à la durée de la peine restant à subir, saisir la commission pluridisciplinaire des mesures de sûreté prévue à l’article 763‑10 afin d’évaluer sa dangerosité.
+
+« Pour les condamnés à la réclusion à perpétuité, l’examen doit intervenir lorsque le condamné a accompli dix‑huit années de réclusion criminelle, ou vingt‑deux années s’il est en état de récidive légale.
+
+« La commission pluridisciplinaire des mesures de sûreté demande le placement de la personne dans un service spécialisé chargé de l’observation des personnes détenues, pour une durée d’au moins six semaines, aux fins d’une évaluation pluridisciplinaire de dangerosité assortie d’une expertise médicale réalisée par deux experts.
+
+« Sur la base du rapport de la commission pluridisciplinaire des mesures de sûreté, le procureur de la République antiterroriste peut saisir la juridiction régionale de la rétention de sûreté, qui peut décider que la personne devra faire l’objet, à la fin de sa peine, d’un réexamen de sa situation en vue d’une éventuelle rétention de sûreté terroriste. La décision de la juridiction régionale de la rétention de sûreté est motivée. Elle est prise à l’issue d’un débat contradictoire et, si le condamné le demande, public, au cours duquel la personne condamnée est assistée par un avocat choisi ou commis d’office. Elle est notifiée à la personne condamnée et peut faire l’objet d’un recours devant la juridiction nationale de la rétention de sûreté. La juridiction nationale statue par une décision motivée, susceptible d’un pourvoi en cassation.
+
+« Art. 706‑25‑24. – La situation des personnes mentionnées à l’article 706‑25‑23 est examinée, au moins un an avant la date prévue pour leur libération, par la commission pluridisciplinaire des mesures de sûreté prévue à l’article 763‑10 afin d’évaluer leur dangerosité, dans les conditions prévues à l’article 706‑25‑23.
+
+« À cette fin, la commission demande le placement de la personne, pour une durée d’au moins six semaines, dans un service spécialisé chargé de l’observation des personnes détenues, aux fins d’une évaluation pluridisciplinaire de dangerosité assortie d’une expertise médicale réalisée par deux experts.
+
+« Si la commission conclut à la particulière dangerosité du condamné, elle peut proposer, par un avis motivé, qu’il fasse l’objet d’une rétention de sûreté terroriste si :
+
+« 1° Les obligations résultant de l’inscription dans le fichier judiciaire national automatisé des auteurs d’infractions terroristes ainsi que les obligations résultant d’une injonction de soins ou d’un placement sous surveillance électronique mobile susceptibles d’être prononcés dans le cadre d’un suivi socio‑judiciaire ou d’une surveillance judiciaire apparaissent insuffisantes pour prévenir la commission des crimes mentionnés au même article 706‑25‑23 ;
+
+« 2° Une mesure judiciaire de prévention de la récidive terroriste et de réinsertion apparaît insuffisante ;
+
+« 3° Cette rétention constitue l’unique moyen de prévenir la commission, dont la probabilité est très élevée, d’un crime mentionné au I dudit article 706‑25‑23.
+
+« La commission vérifie également que la personne condamnée a effectivement été mise en mesure de bénéficier, pendant l’exécution de sa peine, d’une prise en charge médicale, sociale et psychologique adaptée au trouble de la personnalité dont elle souffre.
+
+« Si la commission estime que les conditions de la rétention de sûreté terroriste ne sont pas remplies mais que le condamné paraît néanmoins dangereux, elle renvoie le dossier au juge de l’application des peines pour qu’il apprécie l’éventualité d’un placement sous surveillance judiciaire.
+
+« Art. 706‑25‑25. – Les articles 706‑53‑15 à 706‑53‑22 sont applicables à la rétention de sûreté terroriste.
+
+« Pour l’application du quatrième alinéa de l’article 706‑53‑15 à la rétention de sûreté terroriste, la référence à l’article 706‑53‑14 est remplacée par une référence à l’article 706‑25‑24.
+
+« Pour l’application de l’article 706‑53‑19 à la rétention de sûreté terroriste, la référence à l’article 706‑53‑13 est remplacée par une référence à l’article 706‑25‑23. »
+
+Article 4
+
+Le titre XV du livre IV du code de procédure pénale est complété par une section 7 ainsi rédigée :
+
+« Section 7
+
+« De la mesure judiciaire de prévention de la commission
+d’actes terroristes par des condamnés de droit commun radicalisés
+et de réinsertion
+
+« Art. 706‑25‑26. – I. – Lorsqu’une personne a été condamnée à une peine privative de liberté d’une durée supérieure ou égale à dix ans et présente, à l’issue d’un réexamen de sa situation intervenant à la fin de l’exécution de sa peine, une particulière dangerosité faisant obstacle à sa réinsertion et caractérisée par une probabilité très élevée de commission d’un acte terroriste du fait de son adhésion à une idéologie ou à des thèses y incitant, le tribunal de l’application des peines de Paris peut, sur réquisitions du procureur de la République antiterroriste, ordonner, aux seules fins de prévenir la commission de tels actes et d’assurer la réinsertion de la personne, une mesure judiciaire de prévention de la commission d’actes terroristes.
+
+« La décision définit les conditions d’une prise en charge sanitaire, sociale, éducative, psychologique ou psychiatrique destinée à permettre la réinsertion de la personne concernée et l’acquisition des valeurs de la citoyenneté. Cette prise en charge peut, le cas échéant, intervenir dans un établissement d’accueil adapté.
+
+« La décision peut imposer à la personne concernée d’exercer une activité professionnelle ou de suivre un enseignement ou une formation professionnelle.
+
+« La décision précise les conditions dans lesquelles la personne concernée doit communiquer au service pénitentiaire d’insertion et de probation les renseignements ou les documents de nature à permettre le contrôle de ses moyens d’existence et de l’exécution de ses obligations et répond aux convocations du juge de l’application des peines ou du service pénitentiaire d’insertion et de probation. Elle peut aussi l’astreindre à établir sa résidence en un lieu déterminé.
+
+« Les obligations auxquelles la personne concernée est astreinte sont mises en œuvre par le juge de l’application des peines du tribunal judiciaire de Paris, assisté du service pénitentiaire d’insertion et de probation, le cas échéant avec le concours des organismes habilités à cet effet.
+
+« II. – Les II à IV de l’article 706‑25‑16 ainsi que les articles 706‑25‑17 à 706‑25‑21 sont applicables à la mesure judiciaire prévue au I du présent article.
+
+« Pour l’application du II de l’article 706‑25‑16, les mots : “de prévention de la récidive terroriste et de réinsertion” sont remplacés par les mots : “prévue à l’article 706‑25‑26”.
+
+« Pour l’application de la première phrase du III du même article 706‑25‑16, les mots : “de prévention de la récidive terroriste et de réinsertion prévue au I” sont remplacés par les mots : “prévue à l’article 706‑25‑26”.
+
+« Pour l’application de la première phrase du IV dudit article 706‑25‑16, le mot : “récidive” est remplacé par les mots : “commission d’un acte terroriste”.
+
+« Pour l’application des premier et dernier alinéas de l’article 706‑25‑17, de la première phrase du premier alinéa de l’article 706‑25‑18, des premier et second alinéas de l’article 706‑25‑20 et de l’article 706‑25‑21, la référence : “706‑25‑16” est remplacée par la référence : “706‑25‑26”.
+
+« III. – Un décret en Conseil d’État précise les conditions et les modalités d’application des I et II du présent article. »
+
+Article 5
+
+Le code de la santé publique est ainsi modifié :
+
+1° Le dernier alinéa de l’article L. 3211‑11‑1 est complété par une phrase ainsi rédigée : « Il en informe également, au plus tard quarante‑huit heures avant la date prévue pour la sortie non accompagnée, le représentant de l’État dans le département. » ;
+
+2° À la première phrase de l’article L. 3211‑12‑7, après la seconde occurrence du mot : « articles », est insérée la référence : « L. 3211‑11‑1, » et la référence : « L. 3213‑9 » est remplacée par la référence : « L. 3212‑9 » ;
+
+3° Le II de l’article L. 3212‑5 est ainsi rétabli :
+
+« II. – Le directeur de l’établissement d’accueil transmet sans délai au représentant de l’État dans le département ou, à Paris, au préfet de police toute décision modifiant la forme de la prise en charge d’une personne faisant l’objet d’une mesure de soins psychiatriques prise en application du présent chapitre. » ;
+
+4° L’article L. 3212‑9 est complété par un alinéa ainsi rédigé :
+
+« En toute hypothèse, dans les vingt‑quatre heures qui suivent la levée de la mesure de soins psychiatriques, le directeur de l’établissement en informe le représentant de l’État dans le département ou, à Paris, le préfet de police. »
+
+Article 6
+
+Le code de la sécurité intérieure est ainsi modifié :
+
+1° Après le huitième alinéa de l’article L. 228‑2, il est inséré un alinéa ainsi rédigé :
+
+« Lorsqu’une demande de sursis à exécution d’un jugement rendu en application de la procédure définie aux septième et huitième alinéas est présentée à l’appui d’un appel formé contre ce même jugement dans un délai de quarante‑huit heures à compter de sa notification, la juridiction saisie statue sur la demande de sursis dans un délai de soixante‑douze heures à compter de sa saisine. La mesure annulée demeure en vigueur jusqu’à l’expiration du délai durant lequel le ministre de l’intérieur peut solliciter le sursis à exécution du jugement ou, lorsque cette demande est présentée, jusqu’à ce qu’il soit statué sur cette dernière. » ;
+
+2° Après le quatrième alinéa de l’article L. 228‑5, il est inséré un alinéa ainsi rédigé :
+
+« Lorsqu’une demande de sursis à exécution d’un jugement rendu en application de la procédure définie aux troisième et quatrième alinéas du présent article est présentée à l’appui d’un appel formé contre ce même jugement dans un délai de quarante‑huit heures à compter de sa notification, la juridiction saisie statue sur la demande de sursis dans un délai de soixante‑douze heures à compter de sa saisine. La mesure annulée demeure en vigueur jusqu’à l’expiration du délai durant lequel le ministre de l’intérieur peut solliciter le sursis à exécution du jugement ou, lorsque cette demande est présentée, jusqu’à ce qu’il soit statué sur cette dernière. » ;
+
+3° Le II de l’article L. 229‑5 est ainsi modifié :
+
+a) À la fin du troisième alinéa, les mots : « ayant autorisé l’exploitation des documents et données saisis » sont supprimés ;
+
+b) À la première phrase du quatrième alinéa, les mots : « autorisant l’exploitation des documents et données saisis » sont supprimés.
+
+Article 7
+
+I. – Le code civil est ainsi modifié :
+
+1° À la première phrase du premier alinéa de l’article 60, après le mot : « personne », sont insérés les mots : « dont l’acte de naissance est détenu par un officier de l’état civil français » ;
+
+2° Après le même article 60, il est inséré un article 60‑1 ainsi rédigé :
+
+« Art. 60‑1. – Lorsque la demande mentionnée à l’article 60 concerne un majeur ou un mineur de plus de treize ans, le bulletin n° 3 mentionné à l’article 777 du code de procédure pénale et un document faisant état de l’inscription ou de l’absence d’inscription du demandeur au fichier judiciaire national automatisé des auteurs d’infractions terroristes et au fichier judiciaire national automatisé des auteurs d’infractions sexuelles ou violentes y sont joints.
+
+« Lorsque le demandeur dispose d’un acte de naissance étranger, il justifie auprès de l’officier de l’état civil, dans des conditions déterminées par décret en Conseil d’État, que le prénom mentionné dans son acte de naissance étranger est identique à celui qui fait l’objet de la demande. Sur autorisation du procureur de la République, le prénom demandé peut être différent de celui qui est mentionné sur l’acte de naissance étranger si l’État étranger dépositaire de cet acte de naissance interdit ce changement de prénom et qu’il en résulte une atteinte disproportionnée au droit au respect de la vie privée.
+
+« Lorsque le demandeur a été condamné pour l’une des infractions mentionnées au titre II du livre IV du code pénal, aux articles L. 224‑1 et L. 225‑7 du code de la sécurité intérieure ou à l’article 706‑47 du code de procédure pénale ou lorsque le demandeur est inscrit à l’un des fichiers mentionnés au premier alinéa du présent article, l’officier de l’état civil saisit sans délai le procureur de la République. Il en informe le demandeur. Si le procureur de la République s’oppose à ce changement, le demandeur ou son représentant légal peut saisir le juge aux affaires familiales. » ;
+
+3° À la première phrase du premier alinéa de l’article 61‑3‑1, après le mot : « majeure », sont insérés les mots : « dont l’acte de naissance est détenu par un officier de l’état civil français » ;
+
+4° Après le même article 61‑3‑1, sont insérés des articles 61‑3‑2 et 61‑3‑3 ainsi rédigés :
+
+« Art. 61‑3‑2. – La demande prévue au premier alinéa de l’article 61‑3‑1 comprend le bulletin n° 3 mentionné à l’article 777 du code de procédure pénale et un document faisant état de l’inscription ou de l’absence d’inscription du demandeur au fichier judiciaire national automatisé des auteurs d’infractions terroristes et au fichier judiciaire national automatisé des auteurs d’infractions sexuelles ou violentes.
+
+« Lorsque le demandeur dispose d’un acte de naissance étranger, il justifie auprès de l’officier de l’état civil, dans des conditions déterminées par décret en Conseil d’État, que le nom mentionné dans son acte de naissance étranger est identique à celui qui fait l’objet de la demande.
+
+« Lorsque le demandeur a été condamné pour l’une des infractions mentionnées au titre II du livre IV du code pénal, aux articles L. 224‑1 et L. 225‑7 du code de la sécurité intérieure ou à l’article 706‑47 du code de procédure pénale ou lorsque le demandeur est inscrit à l’un des fichiers mentionnés au premier alinéa du présent article, l’officier de l’état civil saisit le procureur de la République, qui peut s’opposer à la demande. En ce cas, l’intéressé en est avisé.
+
+« Art. 61‑3‑3. – Le document faisant état de l’inscription ou de l’absence d’inscription du demandeur au fichier judiciaire national automatisé des auteurs d’infractions terroristes et au fichier judiciaire national automatisé des auteurs d’infractions sexuelles ou violentes mentionné aux articles 60‑1 et 61‑3‑2 est communiqué au demandeur dans des conditions fixées par décret en Conseil d’État. »
+
+II. – Le code de procédure pénale est ainsi modifié :
+
+1° Après le 4° de l’article 706‑25‑7, il est inséré un 5° ainsi rédigé :
+
+« 5° De déclarer toute demande de changement de prénom ou de nom, au plus tard quinze jours après le dépôt de la demande auprès de l’officier de l’état civil, ainsi que tout changement de prénom ou de nom, dans un délai de quinze jours à compter de ce changement. » ;
+
+2° L’article 706‑25‑10 est ainsi modifié :
+
+a) La seconde phrase du premier alinéa est complétée par les mots : « et des changements d’état civil dont il a eu connaissance au vu du répertoire national d’identification des personnes physiques » ;
+
+b) Le deuxième alinéa est supprimé ;
+
+3° Après le deuxième alinéa de l’article 706‑25‑12, il est inséré un alinéa ainsi rédigé :
+
+« Le procureur de la République et le juge d’instruction peuvent également procéder d’office. » ;
+
+4° Après le 2° de l’article 706‑53‑5, il est inséré un 3° ainsi rédigé :
+
+« 3° De déclarer toute demande de changement de prénom ou de nom, au plus tard quinze jours après le dépôt de la demande auprès de l’officier de l’état civil, ainsi que tout changement de prénom ou de nom, dans un délai de quinze jours à compter de ce changement. » ;
+
+5° La seconde phrase du premier alinéa de l’article 706‑53‑8 est complétée par les mots : « et des changements d’état civil dont il a eu connaissance au vu du répertoire national d’identification des personnes physiques » ;
+
+6° Au dernier alinéa de l’article 706‑53‑10, le mot : « cinquième » est remplacé par le mot : « sixième ».
+
+III. – À l’article L. 632‑5 du code de la justice pénale des mineurs, les mots : « par le cinquième » sont remplacés par les mots : « au sixième ».
+
+Article 8
+
+L’article L. 742‑7 du code de l’entrée et du séjour des étrangers et du droit d’asile est ainsi modifié :
+
+1° À la fin de la première phrase, les mots : « conditions prévues à l’article L. 742‑5 » sont remplacés par les mots : « cas prévus aux 2° et 3° de l’article L. 742‑4 » ;
+
+2° La seconde phrase est supprimée ;
+
+3° Il est ajouté un alinéa ainsi rédigé :
+
+« Si le juge ordonne la prolongation de la rétention, celle‑ci court pour une nouvelle période d’une durée maximale de trente jours. La durée totale de la rétention n’excède alors pas deux cent dix jours. »
+
+Article 9
+
+L’article L. 742‑6 du code de l’entrée et du séjour des étrangers et du droit d’asile est ainsi modifié :
+
+1° Au premier alinéa, le mot : « trente » est remplacé par le mot : « quatre‑vingt‑dix » ;
+
+2° Après le même premier alinéa, sont insérés six alinéas ainsi rédigés :
+
+« À titre exceptionnel, peut être prolongée au delà de quatre‑vingt‑dix jours, dans les conditions prévues au premier alinéa du présent article, la rétention de l’étranger qui représente une menace réelle, actuelle et d’une particulière gravité pour l’ordre public et qui fait l’objet d’une condamnation définitive pour l’un des crimes ou des délits suivants punis de cinq ans ou plus d’emprisonnement :
+
+« 1° Les crimes et les délits prévus au livre II du code pénal ;
+
+« 2° Les crimes et les délits de vol aggravé avec violences prévus aux articles 311‑5 à 311‑11 du même code ;
+
+« 3° Les crimes et les délits d’extorsion prévus aux articles 312‑1 à 312‑9 dudit code ;
+
+« 4° Les crimes et les délits de destruction, de dégradation et de détérioration dangereuses pour les personnes prévus aux articles 322‑6 à 322‑11‑1 du même code ;
+
+« 5° Les crimes et les délits de participation à une association de malfaiteurs prévus à l’article 450‑1 du même code, lorsque l’association de malfaiteurs a pour objet la préparation d’un crime ou d’un délit mentionné aux 1° à 4° du présent article. »
+
+Article 10
+
+Le code de l’entrée et du séjour des étrangers et du droit d’asile est ainsi modifié :
+
+1° L’article L. 741‑7 est ainsi rédigé :
+
+« Art. L. 741‑7. – I. – L’autorité administrative peut prendre une nouvelle décision de placement en rétention en vue de l’exécution de la même mesure d’éloignement si le comportement de l’étranger représente toujours une menace pour l’ordre public, s’il s’est soustrait aux mesures de surveillance dont il faisait l’objet ou en cas de circonstances nouvelles, notamment lorsqu’il n’a pas respecté les conditions de son assignation à résidence depuis le terme de sa dernière rétention.
+
+« Cette décision, spécialement motivée et qui tient compte des précédentes périodes de rétention dont l’étranger a fait l’objet, ne peut être prise avant l’expiration d’un délai de quarante‑huit heures à compter du terme du précédent placement. Toutefois, si ce précédent placement a pris fin en raison de la soustraction de l’étranger aux mesures de surveillance dont il faisait l’objet, l’autorité administrative peut décider d’un nouveau placement en rétention avant l’expiration de ce délai.
+
+« II. – La durée cumulée des périodes de rétention pour l’exécution d’une même mesure d’éloignement ne peut excéder trois cent soixante jours.
+
+« Toutefois, pour l’étranger dont la rétention a été prolongée en application de l’article L. 742‑6, cette durée est portée à cinq cent quarante jours.
+
+« L’étranger ne peut faire l’objet de plus de cinq placements en rétention pour l’exécution d’une même mesure d’éloignement.
+
+« III. – Le magistrat du siège du tribunal judiciaire, saisi d’une nouvelle décision de placement en rétention en vue de l’exécution d’une même mesure d’éloignement ou saisi aux fins de sa prolongation, contrôle si la privation de liberté n’excède pas la rigueur nécessaire en tenant compte des précédentes périodes de rétention dont l’étranger a déjà fait l’objet. » ;
+
+2° Après le même article L. 741‑7, il est inséré un article L. 741‑7‑1 ainsi rédigé :
+
+« Art. L. 741‑7‑1. – Les durées mentionnées au II de l’article L. 741‑7 constituent, pour l’application des paragraphes 5 et 6 de l’article 15 de la directive 2008/115/CE du Parlement européen et du Conseil du 16 décembre 2008 relative aux normes et procédures communes applicables dans les États membres au retour des ressortissants de pays tiers en séjour irrégulier, la durée maximale de rétention pour l’exécution d’une même décision d’éloignement. »
+
+Article 11
+
+À la seconde phrase de l’article L. 743‑19 du code de l’entrée et du séjour des étrangers et du droit d’asile, le mot : « vingt‑quatre » est remplacé par le mot : « dix ».
+
+Article 12
+
+I. – Les articles L. 285‑1, L. 286‑1, L. 287‑1 et L. 288‑1 du code de la sécurité intérieure sont ainsi modifiés :
+
+1° Après le mot : « loi », la fin du premier alinéa est ainsi rédigée : « n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat, les dispositions suivantes : » ;
+
+2° À la fin du 2°, la référence : « L. 229‑6 » est remplacée par la référence : « L. 229‑7 ».
+
+II. – Le I de l’article L. 3844‑1 du code de la santé publique est ainsi modifié :
+
+1° Au deuxième alinéa, les références : « L. 3211‑11‑1, » et « L. 3211‑12‑7, L. 3212‑5, » sont supprimées ;
+
+2° Il est ajouté un alinéa ainsi rédigé :
+
+« Les articles L. 3211‑11‑1, L. 3211‑12‑7, L. 3212‑5 et L. 3212‑9 sont applicables en Nouvelle‑Calédonie et en Polynésie française dans leur rédaction résultant de la loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat. »
+
+III. – Le début du premier alinéa de l’article 804 du code de procédure pénale est ainsi rédigé : « Le présent code est applicable, dans sa rédaction résultant de la loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat, en Nouvelle‑Calédonie… (le reste sans changement) : ».
+
+IV. – Le code de l’entrée et du séjour des étrangers et du droit d’asile est ainsi modifié :
+
+1° Le tableau du second alinéa des articles L. 762‑1 et L. 763‑1 est ainsi modifié :
+
+a) La trentième ligne est ainsi rédigée :
+
+«
+
+L. 741-7 et L. 741‑7‑1
+
+La loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat
+
+» ;
+
+b) La trente‑cinquième ligne est remplacée par deux lignes ainsi rédigées :
+
+«
+
+L. 742-6 et L. 742-7
+
+La loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat
+
+L. 742-8
+
+La loi n° 2023-1059 du 20 novembre 2023 d’orientation et de programmation du ministère de la justice 2023-2027
+
+» ;
+
+c) La quarante‑neuvième ligne est ainsi rédigée :
+
+«
+
+L. 743-19
+
+La loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat
+
+» ;
+
+2° Le tableau du second alinéa des articles L. 764‑1, L. 765‑1 et L. 766‑1 est ainsi modifié :
+
+a) La trentième ligne est ainsi rédigée :
+
+«
+
+L. 741-7 et L. 741‑7‑1
+
+La loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat
+
+» ;
+
+b) La trente‑cinquième ligne est remplacée par deux lignes ainsi rédigées :
+
+«
+
+L. 742-6 et L. 742-7
+
+La loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat
+
+L. 742-8
+
+La loi n° 2023-1059 du 20 novembre 2023 d’orientation et de programmation du ministère de la justice 2023-2027
+
+» ;
+
+c) La quarante‑huitième ligne est ainsi rédigée :
+
+«
+
+L. 743-19
+
+La loi n° du visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat
+
+»
+
+Délibéré en séance publique, à Paris, le 16 juin 2026.
+
+La Présidente,
+
+Signé : Yaël BRAUN-PIVET18:["$","article",null,{"className":"space-y-6","children":[["$","p",null,{"className":"text-sm","children":["$","$L7",null,{"href":"/votes/","children":"← Tous les votes"}]}],["$","header",null,{"children":[["$","p",null,{"className":"text-sm text-muted","children":["Assemblée nationale · ","17",["$","sup",null,{"children":"e"}]," législature · scrutin n° ",7405," · ",["$","time",null,{"dateTime":"2026-06-16","children":"16 juin 2026"}]," ·"," ","Proposition de loi"]}],["$","h1",null,{"className":"mt-1 text-2xl font-bold tracking-tight text-navy-dark first-letter:uppercase sm:text-3xl","children":"l'ensemble de la proposition de loi visant à renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat (texte de la commission mixte paritaire)."}],["$","p",null,{"className":"mt-3 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"rounded-full px-3 py-0.5 text-sm font-semibold bg-ok-bg text-ok","children":"Adopté"}],["$","span",null,{"className":"text-muted first-letter:uppercase","children":"l'Assemblée nationale a adopté"}]]}],["$","p",null,{"className":"mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm","children":[["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7405","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du scrutin ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du texte ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0315.pdf","rel":"noopener noreferrer external","target":"_blank","children":["PDF officiel ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","section",null,{"aria-labelledby":"resume","children":[["$","h2",null,{"id":"resume","className":"text-sm font-semibold tracking-wide text-navy uppercase","children":"Résumé"}],["$","p",null,{"className":"mt-1 leading-relaxed","children":"Le texte permet au préfet, aux seules fins de prévenir le terrorisme, d'imposer un examen psychiatrique à une personne présentant une menace grave. Il crée une rétention de sûreté terroriste, à titre exceptionnel, et une mesure judiciaire de prévention pour certains condamnés de droit commun radicalisés. Il encadre les changements de prénom ou de nom des personnes condamnées pour certaines infractions et modifie la rétention administrative des étrangers, dont la durée cumulée est limitée à trois cent soixante jours, ou cinq cent quarante jours dans certains cas."}]]}],["$","details",null,{"className":"mt-4","children":[["$","summary",null,{"className":"cursor-pointer font-medium text-navy","children":"Texte officiel complet"}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["Texte repris tel quel depuis"," ",["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0315.html","rel":"noopener noreferrer external","target":"_blank","children":"la version officielle publiée par l'Assemblée nationale"}]," (PIONANR5L17BTA0315)",", récupéré le"," ",["$","time",null,{"dateTime":"2026-10-16T16:01:13.525Z","children":"16 octobre 2026 à 18:01"}],"."]}],["$","div",null,{"className":"mt-3 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-paper/60 p-4 text-sm leading-relaxed whitespace-pre-line","children":"$20"}]]}]]}],"$L21","$L22","$L23","$L24"]}]
+21:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Résultat officiel"}],["$","dl",null,{"className":"grid grid-cols-2 gap-x-4 gap-y-2 text-sm tabular-nums sm:grid-cols-4","children":[["$","div","Votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"533"}]]}],["$","div","Suffrages exprimés",{"children":[["$","dt",null,{"className":"text-muted","children":"Suffrages exprimés"}],["$","dd",null,{"className":"text-lg font-semibold","children":"522"}]]}],["$","div","Majorité requise",{"children":[["$","dt",null,{"className":"text-muted","children":"Majorité requise"}],["$","dd",null,{"className":"text-lg font-semibold","children":"262"}]]}],["$","div","Pour",{"children":[["$","dt",null,{"className":"text-muted","children":"Pour"}],["$","dd",null,{"className":"text-lg font-semibold","children":"345"}]]}],["$","div","Contre",{"children":[["$","dt",null,{"className":"text-muted","children":"Contre"}],["$","dd",null,{"className":"text-lg font-semibold","children":"177"}]]}],["$","div","Abstentions",{"children":[["$","dt",null,{"className":"text-muted","children":"Abstentions"}],["$","dd",null,{"className":"text-lg font-semibold","children":"11"}]]}],["$","div","Non-votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Non-votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"1"}]]}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["scrutin public solennel"," · Majorité absolue des suffrages exprimés",". « Non-votants » au sens du décompte officiel ; les absents n'y figurent pas."]}]]}]
+22:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Décompte par groupe"}],["$","div",null,{"className":"scroll-x -mx-1 overflow-x-auto px-1","children":["$","table",null,{"className":"w-full sm:min-w-[34rem] border-collapse text-sm","children":[["$","caption",null,{"className":"sr-only","children":"Ventilation officielle par groupe, scrutin n° 7405"}],["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line text-left text-xs text-muted","children":[["$","th",null,{"scope":"col","className":"py-1.5 pr-2 font-medium","children":"Groupe"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Pour"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Contre"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":[["$","span",null,{"className":"sm:hidden","children":"Abst."}],["$","span",null,{"className":"hidden sm:inline","children":"Abstention"}]]}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Non-votants"}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Membres"}]]}]}],["$","tbody",null,{"children":[["$","tr","an-po845425",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Droite Républicaine","className":"no-underline sm:hidden","children":"DR"}],["$","span",null,{"className":"hidden sm:inline","children":["Droite Républicaine",["$","span",null,{"className":"text-muted","children":[" (","DR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"47"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"48"}]]}],["$","tr","an-po845439",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Écologiste et Social","className":"no-underline sm:hidden","children":"ECOS"}],["$","span",null,{"className":"hidden sm:inline","children":["Écologiste et Social",["$","span",null,{"className":"text-muted","children":[" (","ECOS",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"35"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"38"}]]}],["$","tr","an-po845407",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Ensemble pour la République","className":"no-underline sm:hidden","children":"EPR"}],["$","span",null,{"className":"hidden sm:inline","children":["Ensemble pour la République",["$","span",null,{"className":"text-muted","children":[" (","EPR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"86"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"91"}]]}],["$","tr","an-po845514",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Gauche Démocrate et Républicaine","className":"no-underline sm:hidden","children":"GDR"}],"$L25"]}],"$L26","$L27","$L28","$L29","$L2a"]}],"$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]]}]}]]}]
+23:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Vote nominatif des candidats suivis"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li","francois-ruffin",{"children":[["$","$L7",null,{"href":"/candidats/francois-ruffin/","children":"François Ruffin"}]," :"," ",["$","span",null,{"className":"font-medium","children":"Contre"}]," (par délégation)"," — ","Écologiste et Social"]}],["$","li","gabriel-attal",{"children":[["$","$L7",null,{"href":"/candidats/gabriel-attal/","children":"Gabriel Attal"}]," :"," ",["$","span",null,{"className":"font-medium","children":"Pour"}]," (par délégation)"," — ","Ensemble pour la République"]}],["$","li","marine-le-pen",{"children":[["$","$L7",null,{"href":"/candidats/marine-le-pen/","children":"Marine Le Pen"}]," :"," ",["$","span",null,{"className":"font-medium","children":"Pour"}],""," — ","Rassemblement National"]}]]}]]}]
+24:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-2 text-lg font-semibold tracking-tight text-navy-dark","children":"Sources"}],["$","p",null,{"className":"mb-2 text-sm text-muted","children":["Thème",""," (d'après le titre officiel) :"," ","Sécurité et justice"]}],["$","ul",null,{"className":"space-y-1 text-sm","aria-label":"Sources","children":[["$","li","an-scrutin-17-7405-0",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7405","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, scrutin public n° 7405 du 2026-06-16"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-06-16","children":"16 juin 2026"}]],null,null,null]}],["$","li","an-opendata-scrutins-17-1",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://data.assemblee-nationale.fr/travaux-parlementaires/votes","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Scrutins de la 17e législature (données ouvertes)"}]," ","— ","Assemblée nationale",null,null,["$","span",null,{"children":[" (","json/VTANR5L17V7405.json",")"]}],null]}],["$","li","an-dossier-dlr5l17n53284-2",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, dossier législatif DLR5L17N53284"}]," ","— ","Assemblée nationale",null,null,null,null]}],["$","li","an-texte-pionanr5l17bta0315-3",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0315.html","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, texte adopté PIONANR5L17BTA0315"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-06-16","children":"16 juin 2026"}]],null,null,null]}]]}]]}]
+25:["$","span",null,{"className":"hidden sm:inline","children":["Gauche Démocrate et Républicaine",["$","span",null,{"className":"text-muted","children":[" (","GDR",")"]}]]}]
+26:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+27:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"12"}]
+28:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"1"}]
+29:["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}]
+2a:["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]
+2b:["$","tr","an-po845470",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Horizons & Indépendants","className":"no-underline sm:hidden","children":"HOR"}],["$","span",null,{"className":"hidden sm:inline","children":["Horizons & Indépendants",["$","span",null,{"className":"text-muted","children":[" (","HOR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"33"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"35"}]]}]
+2c:["$","tr","an-po845413",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"La France insoumise - Nouveau Front Populaire","className":"no-underline sm:hidden","children":"LFI-NFP"}],["$","span",null,{"className":"hidden sm:inline","children":["La France insoumise - Nouveau Front Populaire",["$","span",null,{"className":"text-muted","children":[" (","LFI-NFP",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"67"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"71"}]]}]
+2d:["$","tr","an-po845454",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Les Démocrates","className":"no-underline sm:hidden","children":"DEM"}],["$","span",null,{"className":"hidden sm:inline","children":["Les Démocrates",["$","span",null,{"className":"text-muted","children":[" (","DEM",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"26"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"37"}]]}]
+2e:["$","tr","an-po845485",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Libertés, Indépendants, Outre-mer et Territoires","className":"no-underline sm:hidden","children":"LIOT"}],["$","span",null,{"className":"hidden sm:inline","children":["Libertés, Indépendants, Outre-mer et Territoires",["$","span",null,{"className":"text-muted","children":[" (","LIOT",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"12"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"9"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"23"}]]}]
+2f:["$","tr","an-po840056",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Non inscrit","className":"no-underline sm:hidden","children":"NI"}],["$","span",null,{"className":"hidden sm:inline","children":["Non inscrit",["$","span",null,{"className":"text-muted","children":[" (","NI",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"7"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"1"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"10"}]]}]
+30:["$","tr","an-po845401",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Rassemblement National","className":"no-underline sm:hidden","children":"RN"}],["$","span",null,{"className":"hidden sm:inline","children":["Rassemblement National",["$","span",null,{"className":"text-muted","children":[" (","RN",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"117"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"122"}]]}]
+31:["$","tr","an-po845419",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Socialistes et apparentés","className":"no-underline sm:hidden","children":"SOC"}],["$","span",null,{"className":"hidden sm:inline","children":["Socialistes et apparentés",["$","span",null,{"className":"text-muted","children":[" (","SOC",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"62"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"68"}]]}]
+32:["$","tr","an-po872880",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Union des droites pour la République","className":"no-underline sm:hidden","children":"UDDPLR"}],["$","span",null,{"className":"hidden sm:inline","children":["Union des droites pour la République",["$","span",null,{"className":"text-muted","children":[" (","UDDPLR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"17"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]]}]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+33:I[27201,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"IconMark"]
+1b:null
+1f:[["$","title","0",{"children":"Scrutin n° 7405 · Pièces à l'appui"}],["$","meta","1",{"name":"description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","2",{"name":"keywords","content":"présidentielle 2027,candidats présidentielle 2027,programmes présidentielle 2027,comparateur programmes,sondages présidentielle 2027,élection présidentielle"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"Scrutin n° 7405 · Pièces à l'appui"}],["$","meta","5",{"property":"og:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","6",{"property":"og:site_name","content":"Pièces à l'appui"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Scrutin n° 7405 · Pièces à l'appui"}],["$","meta","15",{"name":"twitter:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","16",{"name":"twitter:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","17",{"name":"twitter:image:type","content":"image/png"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/FRANCE_2027/icon.svg?icon.2fkgruz0d1k9z.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/FRANCE_2027/apple-icon.png?apple-icon.145mgzo3m22sm.png","sizes":"180x180","type":"image/png"}],["$","$L33","22",{}]]

@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[22016,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],""]
+3:T18f2,TEXTE ADOPTÉ n° 251
+
+« Petite loi »
+
+__
+
+ASSEMBLÉE NATIONALE
+
+CONSTITUTION DU 4 OCTOBRE 1958
+
+DIX-SEPTIÈME LÉGISLATURE
+
+26 mars 2026
+
+proposition DE LOI
+
+visant à simplifier la sortie de l’indivision
+et la gestion des successions vacantes
+
+(Texte définitif)
+
+L’Assemblée nationale a adopté sans modification, en deuxième lecture, la proposition de loi, modifiée par le Sénat, dont la teneur suit :
+
+Voir les numéros :
+
+Assemblée nationale : 1re lecture : 823, 1004 et T.A. 63.
+
+2e lecture : 2263 et 2524.
+
+Sénat : 1re lecture : 415 (2024-2025), 194, 195 et T.A. 35 (2025-2026).
+
+– 1 –
+
+Article 1er
+
+Le code général de la propriété des personnes publiques est ainsi modifié :
+
+1° Le II de l’article L. 1123‑3 est abrogé ;
+
+2° L’article L. 1123‑4 est ainsi rétabli :
+
+« Art. L. 1123‑4. – L’administration fiscale transmet au maire ou au président de l’établissement public de coopération intercommunale à fiscalité propre, à leur demande, les informations nécessaires à la mise en œuvre de la procédure d’acquisition des biens mentionnés à l’article L. 1123‑1.
+
+« Cette transmission concerne :
+
+« 1° Les immeubles mentionnés au 1° du même article L. 1123‑1 pour lesquels la commune justifie d’un doute légitime sur l’identité ou sur la vie du propriétaire ;
+
+« 2° Les immeubles mentionnés au 2° dudit article L. 1123‑1. »
+
+Article 2
+
+I. – Les mesures de publicité mentionnées au second alinéa de l’article 809‑1, au deuxième alinéa de l’article 809‑2, au dernier alinéa de l’article 810‑5 et au premier alinéa de l’article 810‑7 du code civil peuvent, parallèlement à la publication de presse ou de service de presse en ligne mentionnée à l’article 1er de la loi n° 55‑4 du 4 janvier 1955 concernant les annonces judiciaires et légales, être assurées par voie numérique sur le site internet de l’autorité administrative chargée du domaine.
+
+II. – À la seconde phrase du premier alinéa de l’article 1er de la loi n° 2017‑285 du 6 mars 2017 visant à favoriser l’assainissement cadastral et la résorption du désordre de propriété, après le mot : « affichage », sont insérés les mots : « dans un journal d’annonces légales au lieu de situation du bien, ».
+
+Article 3
+
+L’article 810‑2 du code civil est complété par un alinéa ainsi rédigé :
+
+« Pour l’application du présent article, le curateur peut donner mandat aux fins de signature de l’acte de vente. »
+
+Article 4
+
+Le code civil est ainsi modifié :
+
+1° L’article 810‑2 est ainsi modifié :
+
+a) Au deuxième alinéa, après le mot : « biens », sont insérés les mots : « meubles ou immeubles » ;
+
+b) La première phrase du dernier alinéa est supprimée ;
+
+2° Au premier alinéa de l’article 810‑3, les mots : « commissaire‑priseur judiciaire, huissier » sont remplacés par les mots : « commissaire de justice ».
+
+Article 5
+
+L’article 815‑6 du code civil est complété par un alinéa ainsi rédigé :
+
+« Il peut également autoriser un indivisaire à conclure seul un acte de vente d’un bien indivis. »
+
+Article 6
+
+L’article 2 de la loi n° 2017‑285 du 6 mars 2017 visant à favoriser l’assainissement cadastral et la résorption du désordre de propriété est ainsi modifié :
+
+1° Au début du premier alinéa, est ajoutée la mention : « I. – » ;
+
+2° Il est ajouté un II ainsi rédigé :
+
+« II. – Pour l’application du deuxième alinéa du I du présent article, le ou les indivisaires titulaires d’au moins deux tiers des droits indivis expriment devant un notaire, à cette majorité, leur intention de procéder à l’aliénation ou au partage du bien indivis.
+
+« Dans un délai d’un mois à compter du recueil de cette intention, le notaire fait signifier le projet d’aliénation ou de partage aux autres indivisaires et procède à sa publication dans un journal d’annonces légales au lieu de situation du bien ainsi que par voie d’affichage et sur un site internet.
+
+« Si l’un ou plusieurs des indivisaires s’opposent à l’aliénation ou au partage du bien indivis dans un délai de trois mois à compter de la signification du projet, le notaire le constate par procès‑verbal.
+
+« En cas d’opposition d’un ou de plusieurs indivisaires, le tribunal judiciaire peut autoriser l’aliénation ou le partage du bien indivis si ceux‑ci ne portent pas une atteinte excessive aux droits des autres indivisaires.
+
+« L’aliénation ou le partage effectués dans les conditions définies au présent article sont opposables à l’indivisaire dont le consentement a fait défaut, sauf si l’intention d’aliéner ou de partager le bien du ou des indivisaires titulaires d’au moins deux tiers des droits indivis ne lui avait pas été signifiée selon les modalités définies au deuxième alinéa du présent II. »
+
+Article 7
+
+Le code civil est ainsi modifié :
+
+1° L’article 840 est ainsi rédigé :
+
+« Art. 840. – La présente sous‑section est applicable aux demandes tendant à la liquidation, au partage et au règlement des indivisions ou des intérêts patrimoniaux des époux, des personnes liées par un pacte civil de solidarité et des concubins.
+
+« Ces demandes sont faites en justice :
+
+« 1° S’agissant du partage, lorsque l’un des indivisaires refuse de consentir au partage amiable, s’il s’élève des contestations sur la manière d’y procéder ou de le terminer ou lorsque le partage amiable n’a pas été autorisé ou approuvé dans l’un des cas mentionnés aux articles 836 et 837 ;
+
+« 2° S’agissant des autres demandes, lorsque la complexité des opérations de liquidation le requiert malgré l’absence d’indivision entre les parties ou lorsque, en cours d’instance, il apparaît qu’il n’existe pas ou plus d’indivision entre les parties. » ;
+
+2° L’article 841 est complété par un alinéa ainsi rédigé :
+
+« Toutefois, le juge commis aux opérations de partage est également compétent pour connaître des contestations qui s’élèvent au cours de celles‑ci et pour ordonner les licitations, dans des conditions définies par décret en Conseil d’État. » ;
+
+3° L’article 841‑1 est abrogé.
+
+Délibéré en séance publique, à Paris, le 26 mars 2026.
+
+La Présidente,
+
+Signé : Yaël BRAUN-PIVET9:X
+e:X
+e:C
+0:{"buildId":"XItNR6iL7y9BTk45j8N57","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","p",null,{"className":"text-sm","children":["$","$L2",null,{"href":"/votes/","children":"← Tous les votes"}]}],["$","header",null,{"children":[["$","p",null,{"className":"text-sm text-muted","children":["Assemblée nationale · ","17",["$","sup",null,{"children":"e"}]," législature · scrutin n° ",5832," · ",["$","time",null,{"dateTime":"2026-03-26","children":"26 mars 2026"}]," ·"," ","Proposition de loi"]}],["$","h1",null,{"className":"mt-1 text-2xl font-bold tracking-tight text-navy-dark first-letter:uppercase sm:text-3xl","children":"l'ensemble de la proposition de loi visant à simplifier la sortie de l'indivision et la gestion des successions vacantes (deuxième lecture)."}],["$","p",null,{"className":"mt-3 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"rounded-full px-3 py-0.5 text-sm font-semibold bg-ok-bg text-ok","children":"Adopté"}],["$","span",null,{"className":"text-muted first-letter:uppercase","children":"l'Assemblée nationale a adopté"}]]}],["$","p",null,{"className":"mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm","children":[["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/5832","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du scrutin ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_sortie_indivision_successorale","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du texte ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0251.pdf","rel":"noopener noreferrer external","target":"_blank","children":["PDF officiel ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","section",null,{"aria-labelledby":"resume","children":[["$","h2",null,{"id":"resume","className":"text-sm font-semibold tracking-wide text-navy uppercase","children":"Résumé"}],["$","p",null,{"className":"mt-1 leading-relaxed","children":"Le texte modifie le code civil, le code général de la propriété des personnes publiques et la loi n° 2017-285 du 6 mars 2017. L'administration fiscale transmet aux maires les informations utiles à l'acquisition des biens sans maître, et certaines publicités de successions vacantes peuvent être faites en ligne. Le juge peut autoriser un indivisaire à vendre seul un bien indivis, et une procédure permet aux titulaires d'au moins deux tiers des droits indivis de proposer l'aliénation ou le partage devant notaire."}]]}],["$","details",null,{"className":"mt-4","children":[["$","summary",null,{"className":"cursor-pointer font-medium text-navy","children":"Texte officiel complet"}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["Texte repris tel quel depuis"," ",["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0251.html","rel":"noopener noreferrer external","target":"_blank","children":"la version officielle publiée par l'Assemblée nationale"}]," (PIONANR5L17BTA0251)",", récupéré le"," ",["$","time",null,{"dateTime":"2026-10-16T16:01:13.525Z","children":"16 octobre 2026 à 18:01"}],"."]}],["$","div",null,{"className":"mt-3 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-paper/60 p-4 text-sm leading-relaxed whitespace-pre-line","children":"$3"}]]}]]}],"$L4","$L5",null,"$L6"]}],null,"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+21:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"ViewportBoundary"]
+25:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"MetadataBoundary"]
+26:I[27201,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"IconMark"]
+27:I[39756,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+28:I[37457,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+4:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Résultat officiel"}],["$","dl",null,{"className":"grid grid-cols-2 gap-x-4 gap-y-2 text-sm tabular-nums sm:grid-cols-4","children":[["$","div","Votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"65"}]]}],["$","div","Suffrages exprimés",{"children":[["$","dt",null,{"className":"text-muted","children":"Suffrages exprimés"}],["$","dd",null,{"className":"text-lg font-semibold","children":"65"}]]}],["$","div","Majorité requise",{"children":[["$","dt",null,{"className":"text-muted","children":"Majorité requise"}],["$","dd",null,{"className":"text-lg font-semibold","children":"33"}]]}],["$","div","Pour",{"children":[["$","dt",null,{"className":"text-muted","children":"Pour"}],["$","dd",null,{"className":"text-lg font-semibold","children":"65"}]]}],["$","div","Contre",{"children":[["$","dt",null,{"className":"text-muted","children":"Contre"}],["$","dd",null,{"className":"text-lg font-semibold","children":"0"}]]}],["$","div","Abstentions",{"children":[["$","dt",null,{"className":"text-muted","children":"Abstentions"}],["$","dd",null,{"className":"text-lg font-semibold","children":"0"}]]}],["$","div","Non-votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Non-votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"3"}]]}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["scrutin public ordinaire"," · Majorité absolue des suffrages exprimés",". « Non-votants » au sens du décompte officiel ; les absents n'y figurent pas."]}]]}]
+5:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Décompte par groupe"}],["$","div",null,{"className":"scroll-x -mx-1 overflow-x-auto px-1","children":["$","table",null,{"className":"w-full sm:min-w-[34rem] border-collapse text-sm","children":[["$","caption",null,{"className":"sr-only","children":"Ventilation officielle par groupe, scrutin n° 5832"}],["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line text-left text-xs text-muted","children":[["$","th",null,{"scope":"col","className":"py-1.5 pr-2 font-medium","children":"Groupe"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Pour"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Contre"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":[["$","span",null,{"className":"sm:hidden","children":"Abst."}],["$","span",null,{"className":"hidden sm:inline","children":"Abstention"}]]}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Non-votants"}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Membres"}]]}]}],["$","tbody",null,{"children":[["$","tr","an-po845425",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Droite Républicaine","className":"no-underline sm:hidden","children":"DR"}],["$","span",null,{"className":"hidden sm:inline","children":["Droite Républicaine",["$","span",null,{"className":"text-muted","children":[" (","DR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"49"}]]}],["$","tr","an-po845439",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Écologiste et Social","className":"no-underline sm:hidden","children":"ECOS"}],["$","span",null,{"className":"hidden sm:inline","children":["Écologiste et Social",["$","span",null,{"className":"text-muted","children":[" (","ECOS",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"38"}]]}],["$","tr","an-po845407",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Ensemble pour la République","className":"no-underline sm:hidden","children":"EPR"}],["$","span",null,{"className":"hidden sm:inline","children":["Ensemble pour la République",["$","span",null,{"className":"text-muted","children":[" (","EPR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"8"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"2"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"91"}]]}],["$","tr","an-po845514",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Gauche Démocrate et Républicaine","className":"no-underline sm:hidden","children":"GDR"}],"$L13"]}],"$L14","$L15","$L16","$L17","$L18"]}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]]}]}]]}]
+6:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-2 text-lg font-semibold tracking-tight text-navy-dark","children":"Sources"}],null,["$","ul",null,{"className":"space-y-1 text-sm","aria-label":"Sources","children":[["$","li","an-scrutin-17-5832-0",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/5832","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, scrutin public n° 5832 du 2026-03-26"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-03-26","children":"26 mars 2026"}]],null,null,null]}],["$","li","an-opendata-scrutins-17-1",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://data.assemblee-nationale.fr/travaux-parlementaires/votes","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Scrutins de la 17e législature (données ouvertes)"}]," ","— ","Assemblée nationale",null,null,["$","span",null,{"children":[" (","json/VTANR5L17V5832.json",")"]}],null]}],["$","li","an-dossier-dlr5l17n51329-2",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_sortie_indivision_successorale","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, dossier législatif DLR5L17N51329"}]," ","— ","Assemblée nationale",null,null,null,null]}],["$","li","an-texte-pionanr5l17bta0251-3",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0251.html","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, texte adopté PIONANR5L17BTA0251"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-03-26","children":"26 mars 2026"}]],null,null,null]}]]}]]}]
+7:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+a:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Scrutin n° 5832 · Pièces à l'appui"}],["$","meta","1",{"name":"description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","2",{"name":"keywords","content":"présidentielle 2027,candidats présidentielle 2027,programmes présidentielle 2027,comparateur programmes,sondages présidentielle 2027,élection présidentielle"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"Scrutin n° 5832 · Pièces à l'appui"}],["$","meta","5",{"property":"og:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","6",{"property":"og:site_name","content":"Pièces à l'appui"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Scrutin n° 5832 · Pièces à l'appui"}],["$","meta","15",{"name":"twitter:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","16",{"name":"twitter:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","17",{"name":"twitter:image:type","content":"image/png"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/FRANCE_2027/icon.svg?icon.2fkgruz0d1k9z.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/FRANCE_2027/apple-icon.png?apple-icon.145mgzo3m22sm.png","sizes":"180x180","type":"image/png"}],["$","$L26","22",{}]]}]}]}],null]}]
+c:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+12:true
+13:["$","span",null,{"className":"hidden sm:inline","children":["Gauche Démocrate et Républicaine",["$","span",null,{"className":"text-muted","children":[" (","GDR",")"]}]]}]
+14:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"1"}]
+15:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+16:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+17:["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}]
+18:["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]
+19:["$","tr","an-po845470",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Horizons & Indépendants","className":"no-underline sm:hidden","children":"HOR"}],["$","span",null,{"className":"hidden sm:inline","children":["Horizons & Indépendants",["$","span",null,{"className":"text-muted","children":[" (","HOR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"5"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"35"}]]}]
+1a:["$","tr","an-po845413",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"La France insoumise - Nouveau Front Populaire","className":"no-underline sm:hidden","children":"LFI-NFP"}],["$","span",null,{"className":"hidden sm:inline","children":["La France insoumise - Nouveau Front Populaire",["$","span",null,{"className":"text-muted","children":[" (","LFI-NFP",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"7"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"71"}]]}]
+1b:["$","tr","an-po845454",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Les Démocrates","className":"no-underline sm:hidden","children":"DEM"}],["$","span",null,{"className":"hidden sm:inline","children":["Les Démocrates",["$","span",null,{"className":"text-muted","children":[" (","DEM",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"25"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"36"}]]}]
+1c:["$","tr","an-po845485",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Libertés, Indépendants, Outre-mer et Territoires","className":"no-underline sm:hidden","children":"LIOT"}],["$","span",null,{"className":"hidden sm:inline","children":["Libertés, Indépendants, Outre-mer et Territoires",["$","span",null,{"className":"text-muted","children":[" (","LIOT",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"22"}]]}]
+1d:["$","tr","an-po840056",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Non inscrit","className":"no-underline sm:hidden","children":"NI"}],["$","span",null,{"className":"hidden sm:inline","children":["Non inscrit",["$","span",null,{"className":"text-muted","children":[" (","NI",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"10"}]]}]
+1e:["$","tr","an-po845401",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Rassemblement National","className":"no-underline sm:hidden","children":"RN"}],["$","span",null,{"className":"hidden sm:inline","children":["Rassemblement National",["$","span",null,{"className":"text-muted","children":[" (","RN",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"9"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"122"}]]}]
+1f:["$","tr","an-po845419",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Socialistes et apparentés","className":"no-underline sm:hidden","children":"SOC"}],["$","span",null,{"className":"hidden sm:inline","children":["Socialistes et apparentés",["$","span",null,{"className":"text-muted","children":[" (","SOC",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"5"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"69"}]]}]
+20:["$","tr","an-po872880",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Union des droites pour la République","className":"no-underline sm:hidden","children":"UDDPLR"}],["$","span",null,{"className":"hidden sm:inline","children":["Union des droites pour la République",["$","span",null,{"className":"text-muted","children":[" (","UDDPLR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"5"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]]}]
+23:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

@@ -1,0 +1,394 @@
+1:"$Sreact.fragment"
+2:I[22016,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],""]
+3:T6166,TEXTE ADOPTÉ n° 128
+
+« Petite loi »
+
+__
+
+ASSEMBLÉE NATIONALE
+
+CONSTITUTION DU 4 OCTOBRE 1958
+
+DIX-SEPTIÈME LÉGISLATURE
+
+3 juin 2025
+
+proposition DE LOI
+
+créant l’homicide routier et visant à lutter contre la violence routière,
+
+ADOPTÉE AVEC MODIFICATIONS PAR L’ASSEMBLÉE NATIONALE
+EN DEUXIÈME lecture
+
+L’Assemblée nationale a adopté la proposition de loi dont la teneur suit :
+
+Voir les numéros :
+
+Assemblée nationale : 1re lecture : 1751, 2104 et T.A. 234 (16e législature).
+
+2e lecture : 157 et 1354 (17e législature).
+
+Sénat : 1re lecture : 308, 442, 443 et T.A. 101 (2023-2024).
+
+– 1 –
+
+Article 1er
+
+Le code pénal est ainsi modifié :
+
+1° Les deuxième à dernier alinéas des articles 221‑6‑1, 222‑19‑1 et 222‑20‑1 sont supprimés ;
+
+2° Après le chapitre Ier bis du titre II du livre II, il est inséré un chapitre Ier ter ainsi rédigé :
+
+« Chapitre Ier ter
+
+« Des homicides et blessures routiers
+
+« Art. 221‑18. – Le fait, pour le conducteur d’un véhicule terrestre à moteur, de causer, dans les conditions et selon les distinctions prévues à l’article 121‑3, la mort d’autrui sans intention de la donner constitue un homicide routier puni de sept ans d’emprisonnement et de 100 000 euros d’amende lorsque :
+
+« 1° Le conducteur a commis une violation manifestement délibérée d’une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement autre que celles mentionnées aux 2° à 9° du présent article ;
+
+« 2° Le conducteur se trouvait en état d’ivresse manifeste, était sous l’empire d’un état alcoolique au sens du code de la route ou a refusé de se soumettre aux vérifications prévues au même code destinées à établir l’existence d’un état alcoolique ;
+
+« 3° Il résulte d’une analyse sanguine ou salivaire que le conducteur avait fait usage de substances ou de plantes classées comme stupéfiants ou il a refusé de se soumettre aux vérifications prévues par ledit code destinées à établir s’il conduisait en ayant fait usage de stupéfiants ;
+
+« 3° bis Le conducteur a volontairement consommé, de façon détournée ou manifestement excessive, une ou plusieurs substances psychoactives figurant sur une liste dressée dans des conditions déterminées par décret en Conseil d’État ;
+
+« 4° Le conducteur n’était pas titulaire du permis de conduire ou son permis avait été annulé, invalidé, suspendu ou retenu ;
+
+« 5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 30 kilomètres à l’heure ;
+
+« 6° Le conducteur, sachant qu’il vient de causer ou d’occasionner un accident, ne s’est pas arrêté et a tenté ainsi d’échapper à la responsabilité pénale ou civile qu’il peut encourir ou n’a pas porté secours ou prêté assistance à une personne en danger ;
+
+« 7° Le conducteur a contrevenu aux dispositions du code de la route réglementant l’usage du téléphone portable tenu en main ou le port à l’oreille d’un dispositif susceptible d’émettre du son ;
+
+« 8° Le conducteur a omis d’obtempérer à une sommation de s’arrêter émanant d’un fonctionnaire ou d’un agent chargé de constater les infractions et muni des insignes extérieurs et apparents de sa qualité ;
+
+« 9° Le conducteur a contrevenu à l’article L. 236‑1 du code de la route.
+
+« Les peines sont portées à dix ans d’emprisonnement et à 150 000 euros d’amende lorsque l’homicide routier a été commis avec deux ou plus des circonstances mentionnées aux 1° à 9° du présent article.
+
+« Art. 221‑19. – Le fait, pour le conducteur d’un véhicule terrestre à moteur, de causer à autrui, dans les conditions et selon les distinctions prévues à l’article 121‑3, sans intention de nuire, une incapacité totale de travail pendant plus de trois mois, constitue des blessures routières ayant entraîné une incapacité totale de travail supérieure à trois mois punies de cinq ans d’emprisonnement et de 75 000 euros d’amende lorsque :
+
+« 1° Le conducteur a commis une violation manifestement délibérée d’une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement autre que celles mentionnées aux 2° à 9° du présent article ;
+
+« 2° Le conducteur se trouvait en état d’ivresse manifeste, était sous l’empire d’un état alcoolique au sens du code de la route ou a refusé de se soumettre aux vérifications prévues au même code et destinées à établir l’existence d’un état alcoolique ;
+
+« 3° Il résulte d’une analyse sanguine ou salivaire que le conducteur avait fait usage de substances ou de plantes classées comme stupéfiants ou il a refusé de se soumettre aux vérifications prévues par ledit code destinées à établir s’il conduisait en ayant fait usage de stupéfiants ;
+
+« 3° bis Le conducteur a volontairement consommé, de façon détournée ou manifestement excessive, une ou plusieurs substances psychoactives figurant sur une liste dressée dans des conditions déterminées par décret en Conseil d’État ;
+
+« 4° Le conducteur n’était pas titulaire du permis de conduire ou son permis avait été annulé, invalidé, suspendu ou retenu ;
+
+« 5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 30 kilomètres à l’heure ;
+
+« 6° Le conducteur, sachant qu’il vient de causer ou d’occasionner un accident, ne s’est pas arrêté et a tenté ainsi d’échapper à la responsabilité pénale ou civile qu’il peut encourir ou n’a pas porté secours ou prêté assistance à une personne en danger ;
+
+« 7° Le conducteur a contrevenu aux dispositions du code de la route réglementant l’usage du téléphone portable tenu en main ou le port à l’oreille d’un dispositif susceptible d’émettre du son ;
+
+« 8° Le conducteur a omis d’obtempérer à une sommation de s’arrêter émanant d’un fonctionnaire ou d’un agent chargé de constater les infractions et muni des insignes extérieurs et apparents de sa qualité ;
+
+« 9° Le conducteur a contrevenu à l’article L. 236‑1 du code de la route.
+
+« Les peines sont portées à sept ans d’emprisonnement et à 100 000 euros d’amende lorsque les blessures routières ont été commises avec deux ou plus des circonstances mentionnées aux 1° à 9° du présent article.
+
+« Art. 221‑20. – Le fait, pour le conducteur d’un véhicule terrestre à moteur, de causer à autrui, dans les conditions et selon les distinctions prévues à l’article 121‑3, sans intention de nuire, une incapacité totale de travail pendant une durée inférieure ou égale à trois mois constitue des blessures routières ayant entraîné une incapacité totale de travail inférieure ou égale à trois mois punies de trois ans d’emprisonnement et de 45 000 euros d’amende lorsque :
+
+« 1° Le conducteur a commis une violation manifestement délibérée d’une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement autre que celles mentionnées aux 2° à 9° du présent article ;
+
+« 2° Le conducteur se trouvait en état d’ivresse manifeste, était sous l’empire d’un état alcoolique au sens du code de la route ou a refusé de se soumettre aux vérifications prévues au même code destinées à établir l’existence d’un état alcoolique ;
+
+« 3° Il résulte d’une analyse sanguine ou salivaire que le conducteur avait fait usage de substances ou de plantes classées comme stupéfiants ou il a refusé de se soumettre aux vérifications prévues par ledit code destinées à établir s’il conduisait en ayant fait usage de stupéfiants ;
+
+« 3° bis Le conducteur a volontairement consommé, de façon détournée ou manifestement excessive, une ou plusieurs substances psychoactives figurant sur une liste dressée dans des conditions déterminées par décret en Conseil d’État ;
+
+« 4° Le conducteur n’était pas titulaire du permis de conduire ou son permis avait été annulé, invalidé, suspendu ou retenu ;
+
+« 5° Le conducteur a commis un dépassement de la vitesse maximale autorisée égal ou supérieur à 30 kilomètres à l’heure ;
+
+« 6° Le conducteur, sachant qu’il vient de causer ou d’occasionner un accident, ne s’est pas arrêté et a tenté ainsi d’échapper à la responsabilité pénale ou civile qu’il peut encourir ou n’a pas porté secours ou prêté assistance à une personne en danger ;
+
+« 7° Le conducteur a contrevenu aux dispositions du code de la route réglementant l’usage du téléphone portable tenu en main ou le port à l’oreille d’un dispositif susceptible d’émettre du son ;
+
+« 8° (Supprimé)
+
+« 9° Le conducteur a contrevenu à l’article L. 236‑1 du code de la route.
+
+« Les peines sont portées à cinq ans d’emprisonnement et à 75 000 euros d’amende lorsque les blessures routières ont été commises avec deux ou plus des circonstances mentionnées aux 1° à 9° du présent article.
+
+« Art. 221‑21. – I. – Les personnes physiques coupables des délits prévus au présent chapitre encourent également les peines complémentaires suivantes :
+
+« 1° L’interdiction, suivant les modalités prévues à l’article 131‑27, d’exercer une fonction publique ou d’exercer l’activité professionnelle ou sociale dans l’exercice ou à l’occasion de l’exercice de laquelle l’infraction a été commise ;
+
+« 2° La suspension, pour une durée de dix ans au plus, du permis de conduire ;
+
+« 3° L’annulation du permis de conduire, avec l’interdiction de solliciter la délivrance d’un nouveau permis pendant dix ans au plus ;
+
+« 4° L’interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n’est pas exigé, pour une durée de cinq ans au plus ;
+
+« 5° L’interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d’un dispositif d’anti‑démarrage par éthylotest électronique, homologué dans les conditions prévues à l’article L. 234‑17 du code de la route. Lorsque cette interdiction est prononcée en même temps que la peine d’annulation ou de suspension du permis de conduire, elle s’applique, pour la durée fixée par la juridiction, à l’issue de l’exécution de cette peine ;
+
+« 6° La confiscation du véhicule dont le condamné s’est servi pour commettre l’infraction, s’il en est le propriétaire ou si le propriétaire du véhicule l’a laissé à la disposition du condamné en ayant connaissance du fait que ce dernier :
+
+« a) Se trouvait en état d’ivresse manifeste ;
+
+« b) Avait fait usage de substances ou de plantes classées comme stupéfiants ;
+
+« c) Avait volontairement consommé, de façon détournée ou manifestement excessive, une ou plusieurs substances psychoactives figurant sur une liste dressée dans des conditions déterminées par décret en Conseil d’État ;
+
+« d) N’était pas titulaire du permis de conduire exigé par la loi ou le règlement ou avait vu son permis être annulé, invalidé, suspendu ou retenu ;
+
+« 7° La confiscation d’un ou de plusieurs véhicules appartenant au condamné ;
+
+« 8° L’immobilisation, pendant une durée d’un an au plus, du véhicule dont le condamné s’est servi pour commettre l’infraction, s’il en est le propriétaire ou si le véhicule a été laissé à sa libre disposition dans les conditions prévues au 6° du présent I ;
+
+« 9° L’interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+
+« 10° La confiscation d’une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+
+« 11° Le retrait du permis de chasser, avec l’interdiction de solliciter la délivrance d’un nouveau permis pendant cinq ans au plus ;
+
+« 12° à 14° (Supprimés)
+
+« 15° La peine complémentaire d’affichage ou de diffusion de la décision prévue à l’article 131‑35.
+
+« I bis. – Toute condamnation pour les délits prévus aux articles 221‑18 et 221‑19 donne lieu de plein droit à l’annulation du permis de conduire, avec l’interdiction de solliciter un nouveau permis pendant une durée comprise entre cinq et dix ans. En cas de récidive, la durée de l’interdiction est portée de plein droit à dix ans et le tribunal peut, par décision spécialement motivée, prévoir que cette interdiction est définitive.
+
+« II. – Le prononcé des peines complémentaires suivantes est obligatoire :
+
+« 1° (Supprimé)
+
+« 2° Dans les cas prévus au 4° et au dernier alinéa des articles 221‑18, 221‑19 et 221‑20, les peines complémentaires prévues aux 6° et 7° du I du présent article ;
+
+« 3° Dans les cas prévus au 2° des articles 221‑18, 221‑19 et 221‑20, la peine complémentaire prévue au 5° du I du présent article ;
+
+« 4° Dans les cas prévus aux 2°, 3° et 5° des articles 221‑18, 221‑19 et 221‑20, en cas de récidive ou si la personne a déjà été définitivement condamnée pour un des délits prévus aux articles L. 221‑2, L. 224‑16, L. 234‑1, L. 234‑8, L. 235‑1, L. 235‑3 ou L. 413‑1 du code de la route ou pour la contravention mentionnée au même article L. 413‑1, les peines complémentaires prévues aux 6° et 7° du I du présent article.
+
+« Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en considération des circonstances de l’infraction et de la personnalité de son auteur. » ;
+
+3° à 8° (Supprimés)
+
+Article 1er bis A
+
+Le code de procédure pénale est ainsi modifié :
+
+1° Le dernier alinéa de l’article 502 est complété par une phrase ainsi rédigée : « En l’absence d’appel sur l’action civile, la partie civile est avisée par le parquet de la déclaration d’appel portant sur l’action publique. » ;
+
+2° L’article 512 est complété par un alinéa ainsi rédigé :
+
+« Même en l’absence d’appel sur les intérêts civils, la partie civile est avisée par le parquet de la date de l’audience. Lorsque la partie civile ne comprend pas la langue française, elle a droit, à sa demande, à une traduction de l’avis d’audience. À titre exceptionnel, il peut en être effectué une traduction orale ou un résumé oral. » ;
+
+3° Au début du dernier alinéa de l’article 513, est ajoutée une phrase ainsi rédigée : « Lorsqu’il n’a pas été fait appel de la décision sur l’action civile, la victime constituée partie civile en premier ressort peut demander à être entendue en qualité de témoin. »
+
+Article 1er ter
+
+Le I de l’article 222‑44 du code pénal est ainsi modifié :
+
+1° Au 3°, après la première occurrence du mot : « professionnelle », sont insérés les mots : « ; dans les cas prévus à la section 1 du présent chapitre, la durée de cette suspension est de dix ans au plus » ;
+
+2° Le 4° est complété par les mots : « ; dans les cas prévus à la section 1 du présent chapitre, la durée de l’interdiction est de dix ans au plus ».
+
+Article 1er quater
+
+Le code pénitentiaire est ainsi modifié :
+
+1° Le chapitre Ier du titre II du livre IV est complété par un article L. 421‑2 ainsi rédigé :
+
+« Art. L. 421‑2. – Lorsque la personne a été condamnée pour un des délits prévus au chapitre Ier ter du titre II du livre II du code pénal, le service pénitentiaire d’insertion et de probation met en place des actions visant à prévenir la récidive des violences routières et, le cas échéant, des actions visant à prévenir la consommation de stupéfiants ou de substances psychotropes. » ;
+
+2° La dernière ligne du tableau du second alinéa des articles L. 755‑1, L. 765‑1 et L. 775‑1 est remplacée par trois lignes ainsi rédigées :
+
+«
+
+L. 413-1 à L. 421-1
+
+Résultant de l’ordonnance n° 2022-1336 du 19 octobre 2022
+
+L. 421-2
+
+Résultant de la loi n° du créant l’homicide routier et visant à lutter contre la violence routière
+
+L. 423-1 à L. 424-5
+
+Résultant de l’ordonnance n° 2022-1336 du 19 octobre 2022
+
+»
+
+Article 1er quinquies
+
+I. – Le code de la route est ainsi modifié :
+
+1° L’article L. 121‑6 est ainsi modifié :
+
+a) Au premier alinéa, les mots : « de contravention » sont remplacés par les mots : « d’infraction » ;
+
+b) Le dernier alinéa est complété par les mots : « ou, lorsque l’infraction mentionnée au premier alinéa est un délit, de l’amende prévue pour les contraventions de la cinquième classe » ;
+
+1° bis A (Supprimé)
+
+1° bis La deuxième ligne du tableau du second alinéa du I de l’article L. 143‑1 est ainsi rédigée :
+
+«
+
+Article L. 121‑6
+
+La loi n° du créant l’homicide routier et visant à lutter contre la violence routière
+
+» ;
+
+1° ter (Supprimé)
+
+2° L’article L. 413‑1 est ainsi modifié :
+
+a) Le I est ainsi rédigé :
+
+« I. – Le fait, pour tout conducteur d’un véhicule à moteur, de dépasser de 50 kilomètres à l’heure ou plus la vitesse maximale autorisée est puni de trois mois d’emprisonnement et de 3 750 euros d’amende. » ;
+
+b) Le II est ainsi modifié :
+
+– à la première phrase du 1°, le mot : « obligatoire » est supprimé ;
+
+– le début de la seconde phrase du même 1° est ainsi rédigé : « La confiscation est obligatoire en cas de récidive ; la juridiction… (le reste sans changement) ; »
+
+– il est ajouté un 5° ainsi rédigé :
+
+« 5° L’annulation du permis de conduire, avec l’interdiction de solliciter la délivrance d’un nouveau permis pendant trois ans au plus. » ;
+
+c) Il est ajouté un IV ainsi rédigé :
+
+« IV. – Dans les conditions prévues aux articles 495‑17 à 495‑25 du code de procédure pénale, l’action publique peut être éteinte, y compris en cas de récidive, par le versement d’une amende forfaitaire d’un montant de 300 euros. Le montant de l’amende forfaitaire minorée est de 250 euros et le montant de l’amende forfaitaire majorée est de 600 euros. »
+
+II. – (Non modifié)
+
+Article 2
+
+I. – Au neuvième alinéa de l’article 1018 A du code général des impôts, les mots : « du 3° des articles 221‑6‑1, 222‑19‑1 ou 222‑20‑1 » sont remplacés par les mots : « des articles 221‑18, 221‑19 ou 221‑20 ».
+
+II. – Le code pénal est ainsi modifié :
+
+1° À l’avant‑dernier alinéa de l’article 131‑22, après la référence : « 221‑6‑1, », sont insérées les références : « 221‑18, 221‑19, 221‑20, » ;
+
+2° Au premier alinéa de l’article 132‑16‑2, après la référence : « 222‑20‑1 », sont insérés les mots : « et les délits d’homicide routier ou de blessures routières prévus aux articles 221‑18, 221‑19 et 221‑20 » ;
+
+2° bis Le I de l’article 221‑8 est ainsi modifié :
+
+a) Après la seconde occurrence du mot : « professionnelle », la fin du 3° est supprimée ;
+
+b) Le second alinéa du 10° est supprimé ;
+
+c) Le 11° est abrogé ;
+
+d) Le dernier alinéa est supprimé ;
+
+2° ter Le I de l’article 222‑44 est ainsi modifié :
+
+a) Après la seconde occurrence du mot : « professionnelle », la fin du 3° est supprimée ;
+
+a bis) (Supprimé)
+
+b) Les deux dernières phrases du 13° sont supprimées ;
+
+c) Le 14° est abrogé ;
+
+d) Le dernier alinéa est supprimé ;
+
+3° Au second alinéa de l’article 434‑10, après la référence : « 221‑6‑1, », sont insérées les références : « 221‑18, 221‑19, 221‑20, ».
+
+III. – Le code de procédure pénale est ainsi modifié :
+
+1° Au cinquième alinéa du 1° de l’article 398‑1, après le mot : « articles », sont insérées les références : « 221‑19, 221‑20, » ;
+
+2° Au premier alinéa de l’article 706‑176, après la référence : « 221‑6‑1, », sont insérées les références : « 221‑18, 221‑19, 221‑20, ».
+
+IV. – Le code de la route est ainsi modifié :
+
+1° Au premier alinéa de l’article L. 123‑2, après le mot : « pénal », sont insérés les mots : « ou des délits d’homicide routier ou de blessures routières prévus aux articles 221‑18, 221‑19 et 221‑20 du même code » ;
+
+2° À l’article L. 224‑14, après la référence : « 221‑6‑1, », sont insérées les références : « 221‑18, 221‑19, 221‑20, » ;
+
+2° bis A (nouveau) Au troisième alinéa de l’article L. 231‑1, après la référence : « 221‑6‑1, », sont insérées les références : « 221‑18, 221‑19, 221‑20, » ;
+
+2° bis (nouveau) L’article L. 232‑1 est ainsi rédigé :
+
+« Art. L. 232‑1. – Les dispositions relatives à l’homicide involontaire et à l’homicide routier commis à l’occasion de la conduite d’un véhicule terrestre à moteur sont prévues aux articles 221‑6‑1, 221‑8, 221‑18 et 221‑21 du code pénal. » ;
+
+2° ter (nouveau) L’article L. 232‑2 est ainsi rédigé :
+
+« Art. L. 232‑2. – Les dispositions relatives aux atteintes involontaires à l’intégrité de la personne et aux blessures routières commises par le conducteur d’un véhicule terrestre à moteur sont prévues aux articles 221‑19 à 221‑21, 222‑19‑1, 222‑20‑1 et 222‑44 du code pénal. » ;
+
+3° L’article L. 232‑3 est ainsi modifié :
+
+a) (nouveau) Après le mot : « personne », sont insérés les mots : « , d’homicide routier et de blessures routières » ;
+
+b) Les références : « 222‑19‑1 et 222‑20‑1 » sont remplacées par les références : « 221‑18 à 221‑20 ».
+
+V. – Au 3° de l’article L. 4271‑4 du code des transports, après la référence : « 221‑6‑1, », sont insérées les références : « 221‑18, 221‑19, 221‑20, ».
+
+VI. – Le code du travail est ainsi modifié :
+
+1° À l’article L. 4741‑2, les mots : « 222‑19 et 222‑20 » sont remplacés par les mots : « 221‑6‑1, 221‑18 à 221‑20 et 222‑19 à 222-20-1 » ;
+
+2° Au premier alinéa de l’article L. 4741‑11, les mots : « 222‑19 et 222‑20 » sont remplacés par les mots : « 221‑6‑1, 221‑18 à 221‑20 et 222‑19 à 222‑20‑1 ».
+
+VII. – À l’article L. 1114‑2 du code de la santé publique, les mots : « 222‑19 et 222‑20 » sont remplacés par les mots : « 221‑6‑1, 221‑18 à 221‑20 et 222‑19 à 222‑20‑1 ».
+
+Article 3
+
+Le chapitre II du titre III du livre II du code de la route est complété par un article L. 232‑4 ainsi rédigé :
+
+« Art. L. 232‑4. – En cas d’homicide routier ou de blessures routières, lorsque les circonstances de l’accident ou de l’infraction laissent présumer que l’état du conducteur peut être incompatible avec le maintien du permis de conduire, le conducteur doit se soumettre à un examen médical. Cet examen visant à déterminer l’aptitude à la conduite du conducteur, réalisé à ses frais, se tient dans un délai de 72 heures à compter de l’accident routier ou, le cas échéant, dans un délai de 72 heures à compter du moment où l’état de santé du conducteur le permet. Il est réalisé par un médecin agréé consultant hors commission médicale.
+
+« Les officiers et les agents de police judiciaire retiennent à titre conservatoire le permis de conduire du conducteur jusqu’à la réalisation de l’examen prévu au premier alinéa. L’article L. 224‑4 est applicable.
+
+« Le médecin ayant réalisé l’examen prévu au premier alinéa du présent article transmet au représentant de l’État dans le département de résidence du conducteur un avis médical déterminant l’aptitude à la conduite de celui‑ci. Si l’avis médical conclut à l’inaptitude à la conduite, le représentant de l’État peut prononcer la suspension du permis de conduire du conducteur concerné. La durée de la suspension du permis de conduire ne peut excéder un an. À défaut de décision de suspension dans le délai prévu au même premier alinéa, le permis de conduire est remis à la disposition de l’intéressé, sans préjudice de l’application ultérieure des articles L. 224‑7 à L. 224‑9.
+
+« Le fait de ne pas se soumettre à l’examen médical prévu au premier alinéa du présent article est puni des peines prévues à l’article L. 224‑16.
+
+« Le fait pour toute personne, malgré la notification de la suspension du permis de conduire prévue au présent article, de conduire un véhicule à moteur pour la conduite duquel ce permis est nécessaire est puni des peines prévues à l’article L. 224‑16. »
+
+Délibéré en séance publique, à Paris, le 3 juin 2025.
+
+La Présidente,
+
+Signé : Yaël BRAUN-PIVET9:X
+e:X
+e:C
+0:{"buildId":"XItNR6iL7y9BTk45j8N57","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","p",null,{"className":"text-sm","children":["$","$L2",null,{"href":"/votes/","children":"← Tous les votes"}]}],["$","header",null,{"children":[["$","p",null,{"className":"text-sm text-muted","children":["Assemblée nationale · ","17",["$","sup",null,{"children":"e"}]," législature · scrutin n° ",2217," · ",["$","time",null,{"dateTime":"2025-06-03","children":"3 juin 2025"}]," ·"," ","Proposition de loi"]}],["$","h1",null,{"className":"mt-1 text-2xl font-bold tracking-tight text-navy-dark first-letter:uppercase sm:text-3xl","children":"l'ensemble de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (deuxième lecture)."}],["$","p",null,{"className":"mt-3 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"rounded-full px-3 py-0.5 text-sm font-semibold bg-ok-bg text-ok","children":"Adopté"}],["$","span",null,{"className":"text-muted first-letter:uppercase","children":"l'Assemblée nationale a adopté"}]]}],["$","p",null,{"className":"mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm","children":[["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/2217","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du scrutin ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/homicide_lutte_violence","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du texte ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0128.pdf","rel":"noopener noreferrer external","target":"_blank","children":["PDF officiel ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","section",null,{"aria-labelledby":"resume","children":[["$","h2",null,{"id":"resume","className":"text-sm font-semibold tracking-wide text-navy uppercase","children":"Résumé"}],["$","p",null,{"className":"mt-1 leading-relaxed","children":"Le texte crée dans le code pénal les délits d'homicide routier, puni de sept ans d'emprisonnement et de 100 000 euros d'amende, et de blessures routières, lorsque le conducteur a commis certaines fautes qu'il énumère : alcool, stupéfiants, défaut de permis, excès de vitesse d'au moins 30 kilomètres à l'heure, délit de fuite, usage du téléphone tenu en main ou refus d'obtempérer. Les peines sont aggravées en cas de cumul de circonstances. Le dépassement de 50 kilomètres à l'heure ou plus de la vitesse autorisée est puni de trois mois d'emprisonnement et de 3 750 euros d'amende."}]]}],["$","details",null,{"className":"mt-4","children":[["$","summary",null,{"className":"cursor-pointer font-medium text-navy","children":"Texte officiel complet"}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["Texte repris tel quel depuis"," ",["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0128.html","rel":"noopener noreferrer external","target":"_blank","children":"la version officielle publiée par l'Assemblée nationale"}]," (PIONANR5L17BTA0128)",", récupéré le"," ",["$","time",null,{"dateTime":"2026-10-16T16:01:13.525Z","children":"16 octobre 2026 à 18:01"}],"."]}],["$","div",null,{"className":"mt-3 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-paper/60 p-4 text-sm leading-relaxed whitespace-pre-line","children":"$3"}]]}]]}],"$L4","$L5",null,"$L6"]}],null,"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+21:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"ViewportBoundary"]
+25:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"MetadataBoundary"]
+26:I[27201,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"IconMark"]
+27:I[39756,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+28:I[37457,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+4:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Résultat officiel"}],["$","dl",null,{"className":"grid grid-cols-2 gap-x-4 gap-y-2 text-sm tabular-nums sm:grid-cols-4","children":[["$","div","Votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"203"}]]}],["$","div","Suffrages exprimés",{"children":[["$","dt",null,{"className":"text-muted","children":"Suffrages exprimés"}],["$","dd",null,{"className":"text-lg font-semibold","children":"200"}]]}],["$","div","Majorité requise",{"children":[["$","dt",null,{"className":"text-muted","children":"Majorité requise"}],["$","dd",null,{"className":"text-lg font-semibold","children":"101"}]]}],["$","div","Pour",{"children":[["$","dt",null,{"className":"text-muted","children":"Pour"}],["$","dd",null,{"className":"text-lg font-semibold","children":"194"}]]}],["$","div","Contre",{"children":[["$","dt",null,{"className":"text-muted","children":"Contre"}],["$","dd",null,{"className":"text-lg font-semibold","children":"6"}]]}],["$","div","Abstentions",{"children":[["$","dt",null,{"className":"text-muted","children":"Abstentions"}],["$","dd",null,{"className":"text-lg font-semibold","children":"3"}]]}],["$","div","Non-votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Non-votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"2"}]]}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["scrutin public ordinaire"," · Majorité absolue des suffrages exprimés",". « Non-votants » au sens du décompte officiel ; les absents n'y figurent pas."]}]]}]
+5:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Décompte par groupe"}],["$","div",null,{"className":"scroll-x -mx-1 overflow-x-auto px-1","children":["$","table",null,{"className":"w-full sm:min-w-[34rem] border-collapse text-sm","children":[["$","caption",null,{"className":"sr-only","children":"Ventilation officielle par groupe, scrutin n° 2217"}],["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line text-left text-xs text-muted","children":[["$","th",null,{"scope":"col","className":"py-1.5 pr-2 font-medium","children":"Groupe"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Pour"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Contre"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":[["$","span",null,{"className":"sm:hidden","children":"Abst."}],["$","span",null,{"className":"hidden sm:inline","children":"Abstention"}]]}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Non-votants"}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Membres"}]]}]}],["$","tbody",null,{"children":[["$","tr","an-po845425",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Droite Républicaine","className":"no-underline sm:hidden","children":"DR"}],["$","span",null,{"className":"hidden sm:inline","children":["Droite Républicaine",["$","span",null,{"className":"text-muted","children":[" (","DR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"23"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"49"}]]}],["$","tr","an-po845439",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Écologiste et Social","className":"no-underline sm:hidden","children":"ECOS"}],["$","span",null,{"className":"hidden sm:inline","children":["Écologiste et Social",["$","span",null,{"className":"text-muted","children":[" (","ECOS",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"9"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"38"}]]}],["$","tr","an-po845407",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Ensemble pour la République","className":"no-underline sm:hidden","children":"EPR"}],["$","span",null,{"className":"hidden sm:inline","children":["Ensemble pour la République",["$","span",null,{"className":"text-muted","children":[" (","EPR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"35"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"94"}]]}],["$","tr","an-po845514",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Gauche Démocrate et Républicaine","className":"no-underline sm:hidden","children":"GDR"}],"$L13"]}],"$L14","$L15","$L16","$L17","$L18"]}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]]}]}]]}]
+6:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-2 text-lg font-semibold tracking-tight text-navy-dark","children":"Sources"}],["$","p",null,{"className":"mb-2 text-sm text-muted","children":["Thème",""," (d'après le titre officiel) :"," ","Transports et infrastructures"]}],["$","ul",null,{"className":"space-y-1 text-sm","aria-label":"Sources","children":[["$","li","an-scrutin-17-2217-0",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/2217","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, scrutin public n° 2217 du 2025-06-03"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2025-06-03","children":"3 juin 2025"}]],null,null,null]}],["$","li","an-opendata-scrutins-17-1",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://data.assemblee-nationale.fr/travaux-parlementaires/votes","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Scrutins de la 17e législature (données ouvertes)"}]," ","— ","Assemblée nationale",null,null,["$","span",null,{"children":[" (","json/VTANR5L17V2217.json",")"]}],null]}],["$","li","an-dossier-dlr5l16n48739-2",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/homicide_lutte_violence","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, dossier législatif DLR5L16N48739"}]," ","— ","Assemblée nationale",null,null,null,null]}],["$","li","an-texte-pionanr5l17bta0128-3",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0128.html","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, texte adopté PIONANR5L17BTA0128"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2025-06-03","children":"3 juin 2025"}]],null,null,null]}]]}]]}]
+7:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+a:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Scrutin n° 2217 · Pièces à l'appui"}],["$","meta","1",{"name":"description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","2",{"name":"keywords","content":"présidentielle 2027,candidats présidentielle 2027,programmes présidentielle 2027,comparateur programmes,sondages présidentielle 2027,élection présidentielle"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"Scrutin n° 2217 · Pièces à l'appui"}],["$","meta","5",{"property":"og:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","6",{"property":"og:site_name","content":"Pièces à l'appui"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Scrutin n° 2217 · Pièces à l'appui"}],["$","meta","15",{"name":"twitter:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","16",{"name":"twitter:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","17",{"name":"twitter:image:type","content":"image/png"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/FRANCE_2027/icon.svg?icon.2fkgruz0d1k9z.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/FRANCE_2027/apple-icon.png?apple-icon.145mgzo3m22sm.png","sizes":"180x180","type":"image/png"}],["$","$L26","22",{}]]}]}]}],null]}]
+c:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+12:true
+13:["$","span",null,{"className":"hidden sm:inline","children":["Gauche Démocrate et Républicaine",["$","span",null,{"className":"text-muted","children":[" (","GDR",")"]}]]}]
+14:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"2"}]
+15:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+16:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+17:["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}]
+18:["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]
+19:["$","tr","an-po845470",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Horizons & Indépendants","className":"no-underline sm:hidden","children":"HOR"}],["$","span",null,{"className":"hidden sm:inline","children":["Horizons & Indépendants",["$","span",null,{"className":"text-muted","children":[" (","HOR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"9"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"33"}]]}]
+1a:["$","tr","an-po845413",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"La France insoumise - Nouveau Front Populaire","className":"no-underline sm:hidden","children":"LFI-NFP"}],["$","span",null,{"className":"hidden sm:inline","children":["La France insoumise - Nouveau Front Populaire",["$","span",null,{"className":"text-muted","children":[" (","LFI-NFP",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"6"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"3"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"71"}]]}]
+1b:["$","tr","an-po845454",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Les Démocrates","className":"no-underline sm:hidden","children":"DEM"}],["$","span",null,{"className":"hidden sm:inline","children":["Les Démocrates",["$","span",null,{"className":"text-muted","children":[" (","DEM",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"16"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"36"}]]}]
+1c:["$","tr","an-po845485",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Libertés, Indépendants, Outre-mer et Territoires","className":"no-underline sm:hidden","children":"LIOT"}],["$","span",null,{"className":"hidden sm:inline","children":["Libertés, Indépendants, Outre-mer et Territoires",["$","span",null,{"className":"text-muted","children":[" (","LIOT",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"5"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"23"}]]}]
+1d:["$","tr","an-po840056",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Non inscrit","className":"no-underline sm:hidden","children":"NI"}],["$","span",null,{"className":"hidden sm:inline","children":["Non inscrit",["$","span",null,{"className":"text-muted","children":[" (","NI",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"3"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"11"}]]}]
+1e:["$","tr","an-po845401",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Rassemblement National","className":"no-underline sm:hidden","children":"RN"}],["$","span",null,{"className":"hidden sm:inline","children":["Rassemblement National",["$","span",null,{"className":"text-muted","children":[" (","RN",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"57"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"123"}]]}]
+1f:["$","tr","an-po845419",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Socialistes et apparentés","className":"no-underline sm:hidden","children":"SOC"}],["$","span",null,{"className":"hidden sm:inline","children":["Socialistes et apparentés",["$","span",null,{"className":"text-muted","children":[" (","SOC",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"28"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"66"}]]}]
+20:["$","tr","an-po847173",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"UDR","className":"no-underline sm:hidden","children":"UDR"}],["$","span",null,{"className":"hidden sm:inline","children":["UDR",["$","span",null,{"className":"text-muted","children":[" (","UDR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"7"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"16"}]]}]
+23:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

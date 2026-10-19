@@ -1,0 +1,47 @@
+# Pièces à l'appui — Présidentielle 2027
+
+> Site indépendant et gratuit pour comparer les candidatures à l'élection présidentielle française de 2027. Chaque information (proposition, statut de candidature, étape judiciaire, résultat de sondage, vote au Parlement) est reliée au document public qui l'établit. Aucun score, aucun classement, aucune consigne de vote.
+
+Règles de lecture : les candidatures sont rangées par statut puis par ordre alphabétique ; les sondages sont présentés enquête par enquête, sans moyenne ; une investiture par un parti ne vaut pas validation (seul le Conseil constitutionnel arrête la liste officielle) ; la présomption d'innocence s'applique à toute procédure non définitive.
+
+## Pages principales
+- [Candidats](https://tuzilucas.github.io/FRANCE_2027/candidats/) : 26 candidatures suivies
+- [Programmes](https://tuzilucas.github.io/FRANCE_2027/programmes/) : 1912 propositions sourcées, comparables par thème
+- [Comparer deux candidats](https://tuzilucas.github.io/FRANCE_2027/comparer/)
+- [Sondages](https://tuzilucas.github.io/FRANCE_2027/sondages/) : enquêtes relevées dans les notices des instituts
+- [Votes au Parlement](https://tuzilucas.github.io/FRANCE_2027/votes/)
+- [Justice](https://tuzilucas.github.io/FRANCE_2027/justice/) : procédures suivies étape par étape
+- [Parrainages](https://tuzilucas.github.io/FRANCE_2027/parrainages/)
+- [Méthodologie](https://tuzilucas.github.io/FRANCE_2027/methodologie/)
+- [Sources](https://tuzilucas.github.io/FRANCE_2027/sources/)
+
+## Fiches candidats
+- [Bruno Retailleau](https://tuzilucas.github.io/FRANCE_2027/candidats/bruno-retailleau/) : Les Républicains
+- [Delphine Batho](https://tuzilucas.github.io/FRANCE_2027/candidats/delphine-batho/) : Génération Écologie
+- [Fabien Roussel](https://tuzilucas.github.io/FRANCE_2027/candidats/fabien-roussel/) : Parti communiste français
+- [Marine Tondelier](https://tuzilucas.github.io/FRANCE_2027/candidats/marine-tondelier/) : Les Écologistes
+- [Raphaël Glucksmann](https://tuzilucas.github.io/FRANCE_2027/candidats/raphael-glucksmann/) : Parti socialiste
+- [Selma Labib](https://tuzilucas.github.io/FRANCE_2027/candidats/selma-labib/) : NPA-Révolutionnaires
+- [Anasse Kazib](https://tuzilucas.github.io/FRANCE_2027/candidats/anasse-kazib/) : Révolution permanente
+- [Clara Egger](https://tuzilucas.github.io/FRANCE_2027/candidats/clara-egger/) : Solution démocratique
+- [David Lisnard](https://tuzilucas.github.io/FRANCE_2027/candidats/david-lisnard/) : Nouvelle Énergie
+- [Édouard Philippe](https://tuzilucas.github.io/FRANCE_2027/candidats/edouard-philippe/) : Horizons
+- [Éric Zemmour](https://tuzilucas.github.io/FRANCE_2027/candidats/eric-zemmour/) : Reconquête
+- [Florian Philippot](https://tuzilucas.github.io/FRANCE_2027/candidats/florian-philippot/) : Les Patriotes
+- [François Asselineau](https://tuzilucas.github.io/FRANCE_2027/candidats/francois-asselineau/) : Union populaire républicaine
+- [François Ruffin](https://tuzilucas.github.io/FRANCE_2027/candidats/francois-ruffin/) : Debout !
+- [Gabriel Attal](https://tuzilucas.github.io/FRANCE_2027/candidats/gabriel-attal/) : Renaissance
+- [Jean-Luc Mélenchon](https://tuzilucas.github.io/FRANCE_2027/candidats/jean-luc-melenchon/) : La France insoumise
+- [Juan Branco](https://tuzilucas.github.io/FRANCE_2027/candidats/juan-branco/)
+- [Karim Bouamrane](https://tuzilucas.github.io/FRANCE_2027/candidats/karim-bouamrane/)
+- [Marine Le Pen](https://tuzilucas.github.io/FRANCE_2027/candidats/marine-le-pen/) : Rassemblement national
+- [Natacha Polony](https://tuzilucas.github.io/FRANCE_2027/candidats/natacha-polony/)
+- [Nathalie Arthaud](https://tuzilucas.github.io/FRANCE_2027/candidats/nathalie-arthaud/) : Lutte ouvrière
+- [Nicolas Dupont-Aignan](https://tuzilucas.github.io/FRANCE_2027/candidats/nicolas-dupont-aignan/) : Debout la France
+- [Sylvain Durif](https://tuzilucas.github.io/FRANCE_2027/candidats/sylvain-durif/)
+- [Xavier Bertrand](https://tuzilucas.github.io/FRANCE_2027/candidats/xavier-bertrand/)
+- [Bernard Cazeneuve](https://tuzilucas.github.io/FRANCE_2027/candidats/bernard-cazeneuve/) : La Convention
+- [Dominique de Villepin](https://tuzilucas.github.io/FRANCE_2027/candidats/dominique-de-villepin/)
+
+## Citer
+Mentionner « Pièces à l'appui » avec le lien de la page, et la source primaire indiquée sous chaque élément. Citation ponctuelle libre ; reprise substantielle de la base ou des textes interdite sans autorisation écrite (conditions : https://tuzilucas.github.io/FRANCE_2027/conditions-utilisation/).

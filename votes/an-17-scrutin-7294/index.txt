@@ -1,0 +1,390 @@
+1:"$Sreact.fragment"
+2:I[97287,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"Analytics"]
+3:I[8895,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"SiteHeader"]
+4:I[377,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"NoticeBanner"]
+5:I[39756,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+6:I[37457,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default"]
+7:I[22016,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],""]
+8:I[49767,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"Ask"]
+f:I[68027,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"default",1]
+:HL["/FRANCE_2027/_next/static/chunks/26dxal3pye7f5.css","style"]
+:HC["/",""]
+d:X
+0:{"P":null,"c":["","votes","an-17-scrutin-7294",""],"q":"","i":false,"f":[[["",{"children":["votes",{"children":[["id","an-17-scrutin-7294","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/FRANCE_2027/_next/static/chunks/26dxal3pye7f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(localStorage.getItem('theme')==='dark')document.documentElement.dataset.theme='dark'}catch(e){}"}}]}],["$","body",null,{"className":"flex min-h-screen flex-col pb-[calc(4rem+env(safe-area-inset-bottom))] lg:pb-0","children":[["$","a",null,{"href":"#contenu","className":"sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:rounded-lg focus:bg-surface focus:p-3 focus:shadow-lg","children":"Aller au contenu"}],["$","$L2",null,{"code":"observatoire2027"}],["$","$L3",null,{"items":[{"href":"/","label":"Accueil"},{"href":"/candidats/","label":"Candidats"},{"href":"/programmes/","label":"Programmes"},{"href":"/comparer/","label":"Comparer"},{"href":"/revendications/","label":"Revendications"},{"href":"/sondages/","label":"Sondages"},{"href":"/actualites/","label":"Actualités"},{"href":"/justice/","label":"Justice"},{"href":"/carte/","label":"Carte"},{"href":"/sources/","label":"Sources"},{"href":"/partis/","label":"Partis","menuOnly":true},{"href":"/votes/","label":"Votes au Parlement","menuOnly":true},{"href":"/parrainages/","label":"Parrainages","menuOnly":true},{"href":"/calendrier/","label":"Calendrier","menuOnly":true},{"href":"/voter/","label":"Voter en 2027","menuOnly":true},{"href":"/glossaire/","label":"Glossaire","menuOnly":true},{"href":"/faq/","label":"Questions fréquentes","menuOnly":true},{"href":"/enseignants/","label":"Enseignants","menuOnly":true},{"href":"/presse/","label":"Espace presse","menuOnly":true},{"href":"/partager/","label":"Faire connaître le site","menuOnly":true},{"href":"/a-propos/","label":"À propos","menuOnly":true}]}],["$","$L4",null,{}],["$","main",null,{"id":"contenu","className":"mx-auto w-full max-w-6xl flex-1 px-4 py-8 sm:py-10","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-rise","children":["$","$L6",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"py-16 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold text-navy-dark","children":"Page introuvable"}],["$","p",null,{"className":"mt-2 text-muted","children":"Cette page n'existe pas ou a été déplacée."}],["$","p",null,{"className":"mt-4","children":[["$","$L7",null,{"href":"/","children":"Retour à l'accueil"}]," · ",["$","$L7",null,{"href":"/recherche/","children":"Rechercher"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"candidates":[{"id":"bruno-retailleau","name":"Bruno Retailleau"},{"id":"delphine-batho","name":"Delphine Batho"},{"id":"fabien-roussel","name":"Fabien Roussel"},{"id":"marine-tondelier","name":"Marine Tondelier"},{"id":"raphael-glucksmann","name":"Raphaël Glucksmann"},{"id":"selma-labib","name":"Selma Labib"},{"id":"anasse-kazib","name":"Anasse Kazib"},{"id":"clara-egger","name":"Clara Egger"},{"id":"david-lisnard","name":"David Lisnard"},{"id":"edouard-philippe","name":"Édouard Philippe"},{"id":"eric-zemmour","name":"Éric Zemmour"},{"id":"florian-philippot","name":"Florian Philippot"},{"id":"francois-asselineau","name":"François Asselineau"},{"id":"francois-ruffin","name":"François Ruffin"},{"id":"gabriel-attal","name":"Gabriel Attal"},{"id":"jean-luc-melenchon","name":"Jean-Luc Mélenchon"},{"id":"juan-branco","name":"Juan Branco"},{"id":"karim-bouamrane","name":"Karim Bouamrane"},{"id":"marine-le-pen","name":"Marine Le Pen"},{"id":"natacha-polony","name":"Natacha Polony"},{"id":"nathalie-arthaud","name":"Nathalie Arthaud"},{"id":"nicolas-dupont-aignan","name":"Nicolas Dupont-Aignan"},{"id":"sylvain-durif","name":"Sylvain Durif"},{"id":"xavier-bertrand","name":"Xavier Bertrand"},{"id":"bernard-cazeneuve","name":"Bernard Cazeneuve"},{"id":"dominique-de-villepin","name":"Dominique de Villepin"}],"topics":[{"id":"pouvoir-d-achat-fiscalite","label":"Pouvoir d'achat et fiscalité"},{"id":"economie-entreprises","label":"Économie, entreprises et compétitivité"},{"id":"emploi-salaires","label":"Emploi et salaires"},{"id":"industrie-souverainete","label":"Industrie, réindustrialisation et souveraineté"},{"id":"energie-environnement","label":"Énergie et environnement"},{"id":"sante-protection-sociale","label":"Santé et protection sociale"},{"id":"education","label":"Éducation et enseignement supérieur"},{"id":"securite-justice","label":"Sécurité et justice"},{"id":"immigration-integration","label":"Immigration et intégration"},{"id":"institutions-democratie","label":"Institutions et démocratie"},{"id":"europe-international","label":"Europe et politique étrangère"},{"id":"defense","label":"Défense"},{"id":"agriculture-alimentation","label":"Agriculture et alimentation"},{"id":"logement-urbanisme","label":"Logement et urbanisme"},{"id":"transports","label":"Transports et infrastructures"},{"id":"services-publics","label":"Fonction publique et services publics"},{"id":"retraites","label":"Retraites"},{"id":"famille-demographie","label":"Famille et politique démographique"},{"id":"outre-mer","label":"Outre-mer"},{"id":"numerique-recherche","label":"Numérique, recherche et innovation"},{"id":"finances-publiques","label":"Dette et finances publiques"},{"id":"autres","label":"Autres thèmes émergents"}]}],"$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XItNR6iL7y9BTk45j8N57"}
+19:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"ViewportBoundary"]
+1e:I[97367,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"MetadataBoundary"]
+9:["$","footer",null,{"className":"mt-16 bg-surface","children":[["$","div",null,{"className":"tricolor h-1.5","aria-hidden":"true"}],["$","div",null,{"className":"mx-auto grid max-w-6xl grid-cols-2 gap-x-6 gap-y-8 px-4 py-10 text-sm text-muted md:grid-cols-[2fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"col-span-2 md:col-span-1","children":[["$","p",null,{"className":"font-medium text-ink","children":["$","span",null,{"className":"flex min-w-0 items-center gap-2.5","children":[["$","svg",null,{"viewBox":"0 0 64 64","aria-hidden":"true","className":"shrink-0 h-10 w-10","children":[["$","defs",null,{"children":[["$","linearGradient",null,{"id":"or-_S_1_","x1":"0","y1":"9","x2":"0","y2":"50","gradientUnits":"userSpaceOnUse","children":[["$","stop",null,{"offset":"0","stopColor":"#fdeaa6"}],["$","stop",null,{"offset":".5","stopColor":"#e0ad35"}],["$","stop",null,{"offset":"1","stopColor":"#a6740c"}]]}],["$","clipPath",null,{"id":"hx-_S_1_","children":["$","path",null,{"d":"M32 5 55.4 18.5v27L32 59 8.6 45.5v-27Z"}]}]]}],["$","g",null,{"clipPath":"url(#hx-_S_1_)","children":[["$","rect",null,{"x":"0","y":"0","width":"24","height":"64","fill":"#000091"}],["$","rect",null,{"x":"24","y":"0","width":"16","height":"64","fill":"#ffffff"}],["$","rect",null,{"x":"40","y":"0","width":"24","height":"64","fill":"#e1000f"}]]}],["$","path",null,{"d":"M32 5 55.4 18.5v27L32 59 8.6 45.5v-27Z","fill":"none","stroke":"#000091","strokeWidth":"3","strokeLinejoin":"round"}],["$","path",null,{"d":"M32 9.5 C37.8 15.5 40 23.5 36.8 31.5 L34.6 36 L29.4 36 L27.2 31.5 C24 23.5 26.2 15.5 32 9.5 Z M28.6 36 C21.6 35.2 14.8 31.6 13.9 24.8 C13.4 20.2 17.2 17.6 20.8 19.2 C23.1 20.3 23.2 23.4 21.2 24.4 C19.9 25.1 18.4 24.3 18.5 22.9 C17.2 25 18.4 28.4 21.8 30.3 C24.4 31.8 27 32.8 29.6 34.2 Z M 35.4 36 C 42.4 35.2 49.2 31.6 50.1 24.8 C 50.6 20.2 46.8 17.6 43.2 19.2 C 40.9 20.3 40.8 23.4 42.8 24.4 C 44.1 25.1 45.6 24.3 45.5 22.9 C 46.8 25 45.6 28.4 42.2 30.3 C 39.6 31.8 37 32.8 34.4 34.2 Z M22.2 36 H41.8 Q43.3 36 43.3 37.5 V39.6 Q43.3 41.1 41.8 41.1 H22.2 Q20.7 41.1 20.7 39.6 V37.5 Q20.7 36 22.2 36 Z M30 41.1 H34 L33 46.4 L32 49.6 L31 46.4 Z M29.6 41.1 C26.8 41.8 23.8 43.4 22.3 46.6 C21.8 47.8 23.1 48.5 24 47.6 C25.6 46 27.6 44.6 30.1 43.7 Z M 34.4 41.1 C 37.2 41.8 40.2 43.4 41.7 46.6 C 42.2 47.8 40.9 48.5 40 47.6 C 38.4 46 36.4 44.6 33.9 43.7 Z","fill":"url(#or-_S_1_)","stroke":"#6b4a00","strokeWidth":"1.1","strokeLinejoin":"round"}]]}],["$","span",null,{"className":"min-w-0 leading-none ","children":[["$","span",null,{"className":"block truncate font-display text-[19px] font-semibold tracking-tight text-navy-dark","children":"Pièces à l'appui"}],["$","span",null,{"className":"mt-0.5 block text-[9.5px] font-semibold tracking-[0.28em] text-muted uppercase","children":"Présidentielle 2027"}]]}]]}]}],["$","p",null,{"className":"mt-1","children":"Site indépendant, sans lien avec l'État, un parti ou un candidat. Aucune recommandation de vote."}],["$","p",null,{"className":"mt-2","children":["Dernière actualisation :"," ",["$","time",null,{"dateTime":"2026-10-19T20:52:04Z","children":"19 octobre 2026 à 22:52"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-2 text-xs font-semibold tracking-widest text-navy-dark uppercase","children":"S'informer"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/comparer/",{"children":["$","$L7",null,{"href":"/comparer/","children":"Comparer deux candidats"}]}],["$","li","/partis/",{"children":["$","$L7",null,{"href":"/partis/","children":"Partis"}]}],["$","li","/calendrier/",{"children":["$","$L7",null,{"href":"/calendrier/","children":"Calendrier"}]}],["$","li","/voter/",{"children":["$","$L7",null,{"href":"/voter/","children":"Voter en 2027"}]}],["$","li","/parrainages/",{"children":["$","$L7",null,{"href":"/parrainages/","children":"Parrainages"}]}],["$","li","/glossaire/",{"children":["$","$L7",null,{"href":"/glossaire/","children":"Glossaire"}]}],["$","li","/faq/",{"children":["$","$L7",null,{"href":"/faq/","children":"Questions fréquentes"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-2 text-xs font-semibold tracking-widest text-navy-dark uppercase","children":"Le projet"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/a-propos/",{"children":["$","$L7",null,{"href":"/a-propos/","children":"À propos"}]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}]]}],"$L17"]}]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L18",null,["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],null]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/FRANCE_2027/_next/static/chunks/26dxal3pye7f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+11:["$","li","/methodologie/",{"children":["$","$L7",null,{"href":"/methodologie/","children":"Méthodologie"}]}]
+12:["$","li","/sources/",{"children":["$","$L7",null,{"href":"/sources/","children":"Sources et couverture"}]}]
+13:["$","li","/corrections/",{"children":["$","$L7",null,{"href":"/corrections/","children":"Corrections et signalements"}]}]
+14:["$","li","/presse/",{"children":["$","$L7",null,{"href":"/presse/","children":"Espace presse"}]}]
+15:["$","li","/partager/",{"children":["$","$L7",null,{"href":"/partager/","children":"Faire connaître le site"}]}]
+16:["$","li","/enseignants/",{"children":["$","$L7",null,{"href":"/enseignants/","children":"Enseignants"}]}]
+17:["$","div",null,{"className":"col-span-2 md:col-span-1","children":[["$","div",null,{"children":[["$","p",null,{"className":"mb-2 text-xs font-semibold tracking-widest text-navy-dark uppercase","children":"Légal"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/mentions-legales/",{"children":["$","$L7",null,{"href":"/mentions-legales/","children":"Mentions légales"}]}],["$","li","/conditions-utilisation/",{"children":["$","$L7",null,{"href":"/conditions-utilisation/","children":"Conditions d'utilisation"}]}],["$","li","/confidentialite/",{"children":["$","$L7",null,{"href":"/confidentialite/","children":"Politique de confidentialité"}]}]]}]]}],["$","p",null,{"className":"mt-2","children":["© 2026 ","Lucas Tuzi",". Code source propriétaire, tous droits réservés."]}]]}]
+20:T74a5,TEXTE ADOPTÉ n° 299
+
+« Petite loi »
+
+__
+
+ASSEMBLÉE NATIONALE
+
+CONSTITUTION DU 4 OCTOBRE 1958
+
+DIX-SEPTIÈME LÉGISLATURE
+
+3 juin 2026
+
+proposition DE LOI
+
+visant à améliorer les moyens d’action
+de l’Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l’exercice des missions d’expert judiciaire,
+
+MODIFIÉE PAR L’ASSEMBLÉE NATIONALE
+EN PREMIÈRE lecture
+
+(Procédure accélérée)
+
+L’Assemblée nationale a adopté la proposition de loi dont la teneur suit :
+
+Voir les numéros :
+
+Sénat : 128, 262, 263 et T.A. 39 (2025-2026).
+
+Assemblée nationale : 2349 et 2840.
+
+– 1 –
+
+Article 1er
+
+Le premier alinéa de l’article 41‑4 du code de procédure pénale est ainsi modifié :
+
+1° (Supprimé)
+
+2° Est ajoutée une phrase ainsi rédigée : « Cette décision est notifiée soit au requérant en cas de rejet de la demande, soit aux parties intéressées en cas de restitution. »
+
+Article 1er bis (nouveau)
+
+Le code de procédure pénale est ainsi modifié :
+
+1° L’article 10‑2 est ainsi modifié :
+
+a) Au début du premier alinéa, est ajoutée la mention : « I. – » ;
+
+b) Le 5° est complété par les mots : « , ou l’Agence de gestion et de recouvrement des avoirs saisis et confisqués, dans les conditions définies à l’article 706‑164 » ;
+
+c) Il est ajouté un II ainsi rédigé :
+
+« II. – Les officiers et les agents mentionnés au premier alinéa du I du présent article interrogent la victime sur sa connaissance des biens mobiliers ou immobiliers susceptibles d’avoir été l’instrument de l’infraction motivant la plainte. La victime est informée du caractère obligatoire de la confiscation de ces biens dans les cas prévus à l’article 131‑21 du code pénal et des possibilités de se faire payer l’indemnisation ou la réparation accordée par la juridiction sur les fonds ou sur la valeur liquidative des biens confisqués en application de l’article 706‑164 du présent code. » ;
+
+2° Au premier alinéa de l’article 40‑4, après la référence : « 3° », sont insérés les mots : « du I ».
+
+Article 1er ter (nouveau)
+
+Après l’article 706‑164 du code de procédure pénale, il est inséré un article 706‑164‑1 ainsi rédigé :
+
+« Art. 706‑164‑1. – Lorsqu’une juridiction condamne l’auteur d’une infraction à verser des dommages et intérêts à la partie civile, elle informe cette dernière des dispositions de l’article 706‑164. »
+
+Article 2
+
+I A (nouveau). – Au 4° du II de l’article L. 172‑13 du code de l’environnement, le mot : « cinquième » est remplacé par le mot : « sixième ».
+
+I. – Le code de procédure pénale est ainsi modifié :
+
+1° L’article 41‑5 est ainsi modifié :
+
+a) Après le quatrième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Dans les mêmes conditions, le procureur de la République ordonne, sauf décision motivée contraire et sous réserve des droits des tiers, la destruction des biens meubles saisis dont la conservation n’est plus nécessaire à la manifestation de la vérité, s’il s’agit de biens de faible valeur économique, lorsque le maintien de la saisie entraînerait des frais conservatoires disproportionnés au regard de cette valeur, estimée par tout moyen, lorsqu’il ne peut être fait application des deuxième et troisième alinéas du présent article en raison du caractère inutilisable du bien ou lorsque le bien n’a pas trouvé preneur à l’issue de la mise en vente effectuée dans les conditions prévues au deuxième alinéa. Un décret énumère les catégories de biens susceptibles de faire l’objet d’une telle décision. Pour chaque catégorie, il fixe une valeur économique maximale, qui ne peut excéder 1 500 euros, au delà de laquelle le bien ne peut faire l’objet d’une telle décision. En cas de classement sans suite, de non‑lieu, de relaxe ou d’acquittement ou lorsque la peine de confiscation n’est pas prononcée, le propriétaire qui en fait la demande obtient une indemnité d’un montant égal à la valeur estimée du bien au jour de sa saisie, sauf si le bien a fait l’objet d’une décision de non‑restitution en application des articles 41‑4, 177, 212 ou 484. » ;
+
+a bis) À la première phrase du cinquième alinéa, les mots : « des quatre premiers alinéas » sont remplacés par les mots : « du présent article » ;
+
+b) (Supprimé)
+
+c) (nouveau) Avant le dernier alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Lorsque le bien saisi est un véhicule terrestre à moteur, l’officier de police judiciaire informe immédiatement, par tout moyen, le procureur de la République de la saisie. Le procureur de la République décide sans délai du maintien ou de la cessation de la saisie au moyen de l’une des décisions mentionnées au premier alinéa de l’article 41‑4 et aux premier et cinquième alinéas du présent article. » ;
+
+2° (Supprimé)
+
+3° Après le quatrième alinéa de l’article 99‑2, il est inséré un alinéa ainsi rédigé :
+
+« Le juge d’instruction ordonne, sauf décision motivée contraire et sous réserve des droits des tiers, la destruction des biens meubles saisis dont la conservation n’est plus nécessaire à la manifestation de la vérité, s’il s’agit de biens de faible valeur économique, lorsque le maintien de la saisie entraînerait des frais conservatoires disproportionnés au regard de cette valeur, estimée par tout moyen, lorsqu’il ne peut être fait application des deuxième et troisième alinéas du présent article en raison du caractère inutilisable du bien ou lorsque le bien n’a pas trouvé preneur à l’issue de la mise en vente effectuée dans les conditions prévues au deuxième alinéa. Un décret énumère les catégories de biens susceptibles de faire l’objet d’une telle décision. Pour chaque catégorie, il fixe une valeur économique maximale, qui ne peut excéder 1 500 euros, au delà de laquelle le bien ne peut faire l’objet d’une telle décision. En cas de classement sans suite, de non‑lieu, de relaxe ou d’acquittement ou lorsque la peine de confiscation n’est pas prononcée, le propriétaire qui en fait la demande obtient une indemnité d’un montant égal à la valeur estimée du bien au jour de sa saisie, sauf si le bien a fait l’objet d’une décision de non‑restitution en application des articles 41‑4, 177, 212 ou 484. »
+
+II. – (Supprimé)
+
+Article 2 bis (nouveau)
+
+I. – Le troisième alinéa des articles 41‑5 et 99‑2 du code de procédure pénale est ainsi modifié :
+
+1° La première phrase est ainsi modifiée :
+
+a) Les mots : « de l’administration pénitentiaire » sont remplacés par les mots : « placés sous l’autorité du ministre de la justice » ;
+
+b) Les mots : « placés sous l’autorité du ministre chargé du budget qui effectuent des missions de police judiciaire » sont remplacés par les mots : « de l’administration des douanes » ;
+
+2° Est ajoutée une phrase ainsi rédigée : « La décision d’affectation indique que le bien peut être remis par le service affectataire à l’Agence de gestion et de recouvrement des avoirs saisis et confisqués en vue de son aliénation en cours d’affectation si ce bien ne répond plus aux attentes du service affectataire. »
+
+II. – Au premier alinéa de l’article L. 2222‑9 du code général de la propriété des personnes publiques, les mots : « de l’administration pénitentiaire » sont remplacés par les mots : « placés sous l’autorité du ministre de la justice ».
+
+III. – La perte de recettes pour l’État résultant des I et II est compensée à due concurrence par la création d’une taxe additionnelle à l’accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+
+Article 2 ter (nouveau)
+
+L’article 694‑12 du code de procédure pénale est complété par un alinéa ainsi rédigé :
+
+« Les articles 99‑2, 706‑144 et 706‑146 sont applicables à la gestion des saisies réalisées sur le territoire de la République à la demande des autorités judiciaires étrangères, sur requête ou après avis du procureur de la République et après avis aux autorités judiciaires étrangères. »
+
+Article 3
+
+Le code de procédure pénale est ainsi modifié :
+
+1° AA (nouveau) Au troisième alinéa de l’article 41‑4, les mots : « d’un mois » sont remplacés par les mots : « de dix jours » ;
+
+1° A L’article 41‑5 est ainsi modifié :
+
+a) Le cinquième alinéa est ainsi modifié :
+
+– à l’avant‑dernière phrase, le mot : « cinq » est remplacé par le mot : « dix » ;
+
+– la dernière phrase est supprimée ;
+
+b) Après le même cinquième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Sauf si le procureur de la République décide de suspendre leur exécution, ces décisions sont exécutoires par provision à compter du lendemain de l’expiration du délai prévu au sixième alinéa du présent article, nonobstant la contestation qui a pu être formée à leur encontre. Toutefois, les personnes mentionnées au même sixième alinéa peuvent demander la suspension de l’exécution provisoire. Cette demande doit, à peine d’irrecevabilité, être formée en même temps que la contestation de la décision. Le premier président de la cour d’appel ou le magistrat du siège de la cour d’appel désigné par lui statue sur cette demande dans un délai de dix jours, au vu des éléments du dossier de la procédure, par une ordonnance expressément motivée tenant compte des conséquences manifestement excessives qu’elle pourrait engendrer pour les personnes mises en cause ou reconnues comme ayant des droits sur les biens concernés, qui n’est pas susceptible de recours. L’exercice du recours est suspensif. » ;
+
+1° B L’article 99‑2 est ainsi modifié :
+
+a) La dernière phrase du cinquième alinéa est supprimée ;
+
+b) Après le même cinquième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Ces décisions sont exécutoires par provision à compter du lendemain de l’expiration du délai prévu au sixième alinéa du présent article, nonobstant la contestation qui a pu être formée à leur encontre. Le ministère public ainsi que les personnes mentionnées au même sixième alinéa peuvent demander la suspension de l’exécution provisoire. Cette demande doit, à peine d’irrecevabilité, être formée en même temps que la contestation de la décision. Le premier président de la cour d’appel ou le magistrat du siège de la cour d’appel désigné par lui statue sur cette demande dans un délai de dix jours, au vu des éléments du dossier de la procédure, par une ordonnance expressément motivée tenant compte des conséquences manifestement excessives qu’elle pourrait engendrer pour les parties intéressées, le propriétaire ou les personnes reconnues comme ayant des droits sur les biens concernés, qui n’est pas susceptible de recours. L’exercice du recours est suspensif. » ;
+
+1° à 4° (Supprimés)
+
+Article 3 bis
+
+(Conforme)
+
+Article 4
+
+Le code de procédure pénale est ainsi modifié :
+
+1° L’article 706‑153 est ainsi modifié :
+
+a) Après le premier alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Si la saisie porte sur des crypto‑actifs mentionnés à l’article L. 54‑10‑1 du code monétaire et financier, à l’exclusion de ceux comportant une fonction d’anonymisation intégrée, l’ordonnance prise en application du premier alinéa du présent article emporte remise de ces biens à l’Agence de gestion et de recouvrement des avoirs saisis et confisqués aux fins de vente avant jugement. Dans ce cas, le produit de la vente est consigné. En cas d’infirmation de l’ordonnance à la suite de l’appel formé contre celle‑ci, de non‑lieu ou de relaxe ou lorsque la peine de confiscation n’est pas prononcée, ce produit est restitué au propriétaire du bien s’il en fait la demande, sauf si le bien a fait l’objet d’une décision de non‑restitution. » ;
+
+b) À la première phrase du second alinéa, après la première occurrence du mot : « du », il est inséré le mot : « même » ;
+
+2° L’article 706‑154 est ainsi modifié :
+
+a) Après le premier alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Si la saisie porte sur des crypto‑actifs mentionnés au même article L. 54‑10‑1, à l’exclusion de ceux comportant une fonction d’anonymisation intégrée, l’ordonnance prise en application du premier alinéa du présent article emporte remise de ces biens à l’Agence de gestion et de recouvrement des avoirs saisis et confisqués aux fins de vente avant jugement. Dans ce cas, le produit de la vente est consigné. En cas d’infirmation de l’ordonnance à la suite de l’appel formé contre celle‑ci, de non‑lieu ou de relaxe ou lorsque la peine de confiscation n’est pas prononcée, ce produit est restitué au propriétaire du bien s’il en fait la demande, sauf si le bien a fait l’objet d’une décision de non‑restitution. » ;
+
+b) À la première phrase du deuxième alinéa, après la première occurrence du mot : « du », il est inséré le mot : « même ».
+
+Article 4 bis (nouveau)
+
+Lorsque des crypto‑actifs saisis ont été cédés par l’Agence de gestion et de recouvrement des avoirs saisis et confisqués avant le jugement dans les conditions prévues aux articles 706‑153 et 706‑154 du code de procédure pénale, la juridiction de jugement prend en compte la valeur de ces actifs au jour de leur cession pour apprécier le quantum de la peine de confiscation en valeur susceptible d’être prononcée.
+
+Article 5
+
+Le code de procédure pénale est ainsi modifié :
+
+1° L’avant‑dernier alinéa de l’article 550 est complété par une phrase ainsi rédigée : « L’exploit de signification d’une décision comportant une condamnation à une peine de confiscation prononcée à titre de peine complémentaire à une peine de réclusion criminelle ou d’emprisonnement d’au moins trois ans contient également une présentation de la procédure prévue à l’article 706‑166‑1. » ;
+
+2° Après le titre XXXI du livre IV, il est inséré un titre XXXI bis ainsi rédigé :
+
+« Titre XXXI bis
+
+« De la confiscation de biens appartenant
+À une personne condamnÉe s’Étant dÉlibÉrément renduE introuvable
+
+« Art. 706‑166‑1. – Lorsqu’une décision comportant une condamnation à une peine de confiscation prononcée en application du quatrième alinéa de l’article 131‑21 du code pénal à titre de peine complémentaire à une peine de réclusion criminelle ou d’emprisonnement d’au moins trois ans est rendue par défaut en application des articles 379‑2 et 412 du présent code et n’a pas pu être signifiée à l’expiration du délai prévu à l’article 559‑1, le procureur de la République, après avoir fait application de l’article 560, peut faire procéder à la publication d’un avis sur le site internet du ministère de la justice. La signification de cette décision est réputée faite à l’intéressé lorsque celui‑ci fait connaître, par tout moyen, qu’il a pris connaissance de cet avis ou, à défaut, le quinzième jour suivant cette publication s’il existe des raisons sérieuses de soupçonner que la personne s’est délibérément rendue introuvable.
+
+« L’avis prévu au premier alinéa du présent article contient les nom, prénoms et dernière adresse connue du destinataire. Il contient également sa date de publication, la décision au titre de laquelle il est émis, les délais dont bénéficie la personne pour exercer ses droits à faire opposition ou former un recours contre cette décision ainsi qu’un moyen d’entrer en contact avec l’autorité judiciaire. Lorsque la juridiction a statué dans les conditions prévues au même premier alinéa, l’avis est retiré du site internet du ministère de la justice. Le contenu et les modalités de publication de cet avis sont précisés par voie réglementaire. » ;
+
+3° (Supprimé)
+
+Article 5 bis A
+
+Le sixième alinéa de l’article 131‑21 du code pénal est complété par deux phrases ainsi rédigées : « Cette confiscation est obligatoire et n’est pas motivée. Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer la confiscation de tout ou partie des biens mentionnés au présent alinéa en considération des circonstances de l’infraction et de la personnalité de son auteur. »
+
+Article 5 bis B (nouveau)
+
+I. – L’article 131‑21 du code pénal est ainsi modifié :
+
+1° À la seconde phrase du premier alinéa, après le mot : « supérieure », sont insérés les mots : « ou égale » ;
+
+2° Le treizième alinéa est complété par une phrase ainsi rédigée : « Cette personne est informée de la possibilité de se faire assister par un avocat. »
+
+II. – Le code de procédure pénale est ainsi modifié :
+
+1° L’article 41‑4 est ainsi modifié :
+
+a) Au troisième alinéa, après le mot : « infraction », sont insérés les mots : « , y compris en valeur, » ;
+
+b) Après le même troisième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Une décision de non-restitution produit les mêmes effets qu’une décision de confiscation. » ;
+
+2° À la première phrase du deuxième alinéa de l’article 41‑5, après le mot : « autoriser », sont insérés les mots : « , d’office ou à la demande de la personne ayant des droits sur le bien, » ;
+
+3° À la première phrase du quatrième alinéa de l’article 99, après le mot : « infraction », sont insérés les mots : « , y compris en valeur, » ;
+
+4° À la première phrase du deuxième alinéa de l’article 99‑2, après le mot : « ordonner, », sont insérés les mots : « d’office ou à la demande de la personne ayant des droits sur le bien, » ;
+
+5° Le deuxième alinéa de l’article 373 est ainsi modifié :
+
+a) Après le mot : « refuser », sont insérés les mots : « , d’office ou à la demande d’une partie ou de toute personne ayant des droits sur le bien, » ;
+
+b) Sont ajoutés les mots : « , y compris en valeur » ;
+
+6° Au second alinéa de l’article 478, après le mot : « ordonner », sont insérés les mots : « ou refuser » ;
+
+7° Le dernier alinéa de l’article 481 est complété par les mots : « , y compris en valeur » ;
+
+8° Après le deuxième alinéa de l’article 482, il est inséré un alinéa ainsi rédigé :
+
+« Le jugement qui refuse d’office la restitution est susceptible d’appel par le ministère public et par toute personne ayant des droits sur le bien. » ;
+
+9° Le second alinéa de l’article 484 est complété par les mots : « , y compris en valeur » ;
+
+10° La section 7 du chapitre II du titre X du livre IV est ainsi modifiée :
+
+a) À la fin de l’intitulé, les mots : « décision 2007/845/JAI du Conseil du 6 décembre 2007 » sont remplacés par les mots : « directive (UE) 2024/1260 du Parlement européen et du Conseil du 24 avril 2024 » ;
+
+b) L’article 695‑9‑50 est ainsi modifié :
+
+– les mots : « décision 2007/845/JAI du Conseil du 6 décembre 2007, relative à la coopération entre les bureaux de recouvrement des avoirs des États membres en matière de dépistage et d’identification des produits du crime ou des autres biens en rapport avec le crime » sont remplacés par les mots : « directive (UE) 2024/1260 du Parlement européen et du Conseil du 24 avril 2024 relative au recouvrement et à la confiscation d’avoirs » ;
+
+– sont ajoutés deux alinéas ainsi rédigés :
+
+« Les services désignés comme bureau de recouvrement des avoirs français peuvent refuser de communiquer des informations à un bureau de recouvrement des avoirs requérant s’il existe des motifs factuels de supposer que la communication de ces informations porterait atteinte aux intérêts fondamentaux en matière de sécurité nationale de l’État membre dans lequel est situé le bureau de recouvrement des avoirs destinataire de la demande, compromettrait une enquête en cours ou une opération de renseignement en matière pénale, constituerait une menace imminente pour la vie ou l’intégrité physique d’une personne ou serait clairement disproportionnée ou sans objet au regard des finalités pour lesquelles elle a été demandée. Ce refus, motivé, intervient après consultation du bureau de recouvrement des avoirs requérant.
+
+« Ces services peuvent restreindre l’utilisation des informations transmises au bureau de recouvrement des avoirs requérant en tant que preuves devant une juridiction nationale ou une autorité compétente de l’État membre dans lequel est situé le bureau de recouvrement des avoirs requérant. » ;
+
+c) Au début de l’article 695‑9‑52, sont ajoutés quatre alinéas ainsi rédigés :
+
+« Le service désigné comme bureau de recouvrement des avoirs français transmet les informations demandées par les bureaux de recouvrement des autres États membres dans un délai de sept jours.
+
+« En cas d’urgence, les informations directement accessibles par ce service sont adressées dans un délai de huit heures. Lorsque ces informations sont accessibles sur autorisation préalable d’une autorité judiciaire, elles sont adressées dans un délai de trois jours.
+
+« Les délais prévus au présent article courent à compter de la réception de la demande.
+
+« Par dérogation aux deux premiers alinéas, lorsque la demande entraîne une charge disproportionnée pour le service désigné comme bureau de recouvrement des avoirs français, ce dernier communique les informations sollicitées dans un délai de quatorze jours. En cas d’urgence, il dispose d’un délai supplémentaire de trois jours par rapport au délai fixé au deuxième alinéa. Il en informe le demandeur par tout moyen. » ;
+
+d) Il est ajouté un article 695‑9‑53‑1 ainsi rédigé :
+
+« Art. 695‑9‑53‑1. – En cas de risque imminent de disparition des biens dépistés et identifiés par les services désignés comme bureau de recouvrement des avoirs qui sont susceptibles de faire l’objet d’une décision de gel ou de confiscation au sens du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation, ces services peuvent ordonner par décision écrite et motivée une mesure immédiate de gel à la demande des autorités compétentes d’un État membre de l’Union européenne. Cette décision est notifiée au propriétaire et aux ayants droits sur les biens. La durée de la mesure ne peut excéder sept jours.
+
+« Sous réserve des dispositions spécifiques du présent article, la mesure immédiate de gel est soumise aux mêmes règles et entraîne les mêmes effets juridiques que la saisie. L’Agence de gestion et de recouvrement des avoirs saisis et confisqués n’est pas chargée d’assurer la gestion des mesures immédiates de gel. » ;
+
+11° Après l’article 706‑141‑1, il est inséré un article 706‑141‑2 ainsi rédigé :
+
+« Art. 706‑141‑2. – Lorsque la saisie concerne un bien sur lequel toute personne autre que la personne mise en cause, mise en examen, prévenue ou accusée ou le témoin assisté dispose d’un droit de propriété, cette personne est informée par tout moyen de la possibilité de se faire assister par un avocat pendant toute la durée de la procédure. »
+
+Article 5 bis
+
+Après l’article 709‑1‑3 du code de procédure pénale, sont insérés des articles 709‑1‑4 et 709‑1‑5 ainsi rédigés :
+
+« Art. 709‑1‑4. – Lorsqu’une personne a été définitivement condamnée à une peine de confiscation dans les conditions prévues à l’article 131‑21 du code pénal et que cette peine n’a pas pu être entièrement exécutée, il peut être procédé à une enquête post‑sentencielle, soumise aux règles applicables en matière d’enquête préliminaire, aux seules fins de rechercher les biens, les droits ou les valeurs, quelle qu’en soit la nature, divis ou indivis, dont le condamné est propriétaire ou, sous réserve des droits des tiers de bonne foi, dont il a la libre disposition, y compris lorsqu’il existe des raisons plausibles de soupçonner que ces biens, ces droits ou ces valeurs sont détenus par l’intermédiaire d’une personne physique ou morale interposée. L’Agence de gestion et de recouvrement des avoirs saisis et confisqués peut, si elle l’estime fondé, saisir le procureur de la République territorialement compétent afin qu’il procède à l’ouverture d’une enquête post-sentencielle.
+
+« Ces biens, ces droits ou ces valeurs sont saisis dans les conditions prévues par le présent code. La confiscation de ces biens est confirmée, sur requête du procureur de la République, par le président du tribunal judiciaire ou par tout magistrat désigné par lui. Il statue par ordonnance motivée, après avoir recueilli les observations écrites du procureur de la République, de la personne concernée et, le cas échéant, de l’avocat de celle-ci. La confiscation est ordonnée en valeur, dans les conditions prévues au dixième alinéa de l’article 131‑21 du code pénal, à due concurrence du montant déterminé pour que la peine de confiscation soit entièrement exécutée. L’ordonnance est signifiée à la personne concernée. Elle a les effets d’un jugement de condamnation et est susceptible de recours dans les conditions prévues aux articles 498, 500, 502 et 505 du présent code.
+
+« Lorsque la confiscation a été prononcée au titre de la répression d’un crime ou d’un délit puni d’au moins trois ans d’emprisonnement et que les nécessités de l’enquête post‑sentencielle l’exigent, le juge des libertés et de la détention, saisi à cette fin par le procureur de la République, peut procéder, sur l’ensemble du territoire national :
+
+« 1° À l’interception, à l’enregistrement et à la transcription de correspondances émises par la voie des télécommunications, selon les modalités prévues à la sous‑section 2 de la section 3 du chapitre Ier du titre III du livre Ier ;
+
+« 2° À la localisation en temps réel d’une personne, à l’insu de celle‑ci, d’un véhicule ou de tout autre objet, sans le consentement de son propriétaire ou de son possesseur, selon les modalités prévues au chapitre V du titre IV du même livre Ier.
+
+« Il est mis fin à l’enquête post-sentencielle si :
+
+« a) La peine de confiscation a été entièrement exécutée ;
+
+« b) La peine est prescrite.
+
+« Art. 709‑1‑5 (nouveau). – Le casier judiciaire national automatisé mentionné à l’article 768 comprend un fichier qui recense les condamnations contradictoires ainsi que les condamnations par défaut, non frappées d’opposition, qui comportent une peine de confiscation prononcée en application de l’article 131‑21 du code pénal qui n’a pas été exécutée ou qui l’a été partiellement.
+
+« Peuvent seuls avoir accès à tout ou partie des données à caractère personnel et des informations enregistrées dans le fichier des peines de confiscation, dans le cadre de leurs attributions légales et pour les besoins exclusifs des missions qui leur sont confiées :
+
+« 1° Les agents de la police nationale individuellement désignés et spécialement habilités soit par les chefs des services territoriaux de la police nationale, soit par les chefs des services actifs à la préfecture de police ou, le cas échéant, par le préfet de police, soit par les chefs des services centraux de la police nationale ou, le cas échéant, par le directeur général dont ils relèvent ;
+
+« 2° Les agents de la gendarmerie nationale individuellement désignés et spécialement habilités par le directeur général de la gendarmerie nationale ;
+
+« 3° Les agents du service mentionné à l’article L. 561‑23 du code monétaire et financier, individuellement désignés et spécialement habilités par le directeur du service ;
+
+« 4° Les agents des services fiscaux mentionnés à l’article 28‑2 du présent code.
+
+« Les notaires sont destinataires de tout ou partie des données à caractère personnel et des informations enregistrées dans le cadre de leurs obligations légales.
+
+« Les modalités d’accès au fichier sont déterminées par un décret en Conseil d’État pris après avis de la Commission nationale de l’informatique et des libertés. »
+
+Article 6
+
+I. – L’article 800 du code de procédure pénale est ainsi modifié :
+
+1° et 2° (Supprimés)
+
+3° Après le troisième alinéa, sont insérés cinq alinéas ainsi rédigés :
+
+« La mise en paiement par l’autorité requérante doit intervenir dans un délai fixé par voie réglementaire courant à compter du dépôt du mémoire de frais par le prestataire, sauf force majeure ou impossibilité technique.
+
+« Ce délai ne peut excéder soixante jours jusqu’au 31 décembre 2027.
+
+« À compter du 1er janvier 2028, il ne peut excéder quarante-cinq jours.
+
+« À compter du 1er janvier 2029, il ne peut excéder trente jours.
+
+« Dès le lendemain de l’expiration du délai prévu au présent article, le retard de paiement fait courir des intérêts moratoires dont le taux est fixé par voie réglementaire. » ;
+
+4° (Supprimé)
+
+II. – (Non modifié)
+
+Article 7
+
+(Suppression conforme)
+
+Article 8
+
+(Conforme)
+
+Délibéré en séance publique, à Paris, le 3 juin 2026.
+
+La Présidente,
+
+Signé : Yaël BRAUN-PIVET18:["$","article",null,{"className":"space-y-6","children":[["$","p",null,{"className":"text-sm","children":["$","$L7",null,{"href":"/votes/","children":"← Tous les votes"}]}],["$","header",null,{"children":[["$","p",null,{"className":"text-sm text-muted","children":["Assemblée nationale · ","17",["$","sup",null,{"children":"e"}]," législature · scrutin n° ",7294," · ",["$","time",null,{"dateTime":"2026-06-03","children":"3 juin 2026"}]," ·"," ","Proposition de loi"]}],["$","h1",null,{"className":"mt-1 text-2xl font-bold tracking-tight text-navy-dark first-letter:uppercase sm:text-3xl","children":"l'ensemble de la proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire (première lecture)."}],["$","p",null,{"className":"mt-3 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"rounded-full px-3 py-0.5 text-sm font-semibold bg-ok-bg text-ok","children":"Adopté"}],["$","span",null,{"className":"text-muted first-letter:uppercase","children":"l'Assemblée nationale a adopté"}]]}],["$","p",null,{"className":"mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm","children":[["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7294","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du scrutin ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159","rel":"noopener noreferrer external","target":"_blank","children":["Page officielle du texte ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0299.pdf","rel":"noopener noreferrer external","target":"_blank","children":["PDF officiel ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","section",null,{"aria-labelledby":"resume","children":[["$","h2",null,{"id":"resume","className":"text-sm font-semibold tracking-wide text-navy uppercase","children":"Résumé"}],["$","p",null,{"className":"mt-1 leading-relaxed","children":"Le texte modifie le code de procédure pénale en matière de gestion des biens saisis, notamment la destruction de biens meubles de faible valeur et la vente avant jugement des crypto-actifs saisis par l'Agence de gestion et de recouvrement des avoirs saisis et confisqués. Il crée une procédure de confiscation des biens d'un condamné s'étant délibérément rendu introuvable, une enquête post-sentencielle et un fichier des peines de confiscation. Le délai de paiement des experts judiciaires est limité à soixante jours, puis à trente jours à compter du 1er janvier 2029."}]]}],["$","details",null,{"className":"mt-4","children":[["$","summary",null,{"className":"cursor-pointer font-medium text-navy","children":"Texte officiel complet"}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["Texte repris tel quel depuis"," ",["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0299.html","rel":"noopener noreferrer external","target":"_blank","children":"la version officielle publiée par l'Assemblée nationale"}]," (PIONANR5L17BTA0299)",", récupéré le"," ",["$","time",null,{"dateTime":"2026-10-16T16:01:13.525Z","children":"16 octobre 2026 à 18:01"}],"."]}],["$","div",null,{"className":"mt-3 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-paper/60 p-4 text-sm leading-relaxed whitespace-pre-line","children":"$20"}]]}]]}],"$L21","$L22",null,"$L23"]}]
+21:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Résultat officiel"}],["$","dl",null,{"className":"grid grid-cols-2 gap-x-4 gap-y-2 text-sm tabular-nums sm:grid-cols-4","children":[["$","div","Votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"115"}]]}],["$","div","Suffrages exprimés",{"children":[["$","dt",null,{"className":"text-muted","children":"Suffrages exprimés"}],["$","dd",null,{"className":"text-lg font-semibold","children":"113"}]]}],["$","div","Majorité requise",{"children":[["$","dt",null,{"className":"text-muted","children":"Majorité requise"}],["$","dd",null,{"className":"text-lg font-semibold","children":"57"}]]}],["$","div","Pour",{"children":[["$","dt",null,{"className":"text-muted","children":"Pour"}],["$","dd",null,{"className":"text-lg font-semibold","children":"93"}]]}],["$","div","Contre",{"children":[["$","dt",null,{"className":"text-muted","children":"Contre"}],["$","dd",null,{"className":"text-lg font-semibold","children":"20"}]]}],["$","div","Abstentions",{"children":[["$","dt",null,{"className":"text-muted","children":"Abstentions"}],["$","dd",null,{"className":"text-lg font-semibold","children":"2"}]]}],["$","div","Non-votants",{"children":[["$","dt",null,{"className":"text-muted","children":"Non-votants"}],["$","dd",null,{"className":"text-lg font-semibold","children":"1"}]]}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["scrutin public ordinaire"," · Majorité absolue des suffrages exprimés",". « Non-votants » au sens du décompte officiel ; les absents n'y figurent pas."]}]]}]
+22:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-3 text-lg font-semibold tracking-tight text-navy-dark","children":"Décompte par groupe"}],["$","div",null,{"className":"scroll-x -mx-1 overflow-x-auto px-1","children":["$","table",null,{"className":"w-full sm:min-w-[34rem] border-collapse text-sm","children":[["$","caption",null,{"className":"sr-only","children":"Ventilation officielle par groupe, scrutin n° 7294"}],["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line text-left text-xs text-muted","children":[["$","th",null,{"scope":"col","className":"py-1.5 pr-2 font-medium","children":"Groupe"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Pour"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":"Contre"}],["$","th",null,{"scope":"col","className":"px-2 py-1.5 text-right font-medium","children":[["$","span",null,{"className":"sm:hidden","children":"Abst."}],["$","span",null,{"className":"hidden sm:inline","children":"Abstention"}]]}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Non-votants"}],["$","th",null,{"scope":"col","className":"hidden px-2 py-1.5 text-right font-medium sm:table-cell","children":"Membres"}]]}]}],["$","tbody",null,{"children":[["$","tr","an-po845425",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Droite Républicaine","className":"no-underline sm:hidden","children":"DR"}],["$","span",null,{"className":"hidden sm:inline","children":["Droite Républicaine",["$","span",null,{"className":"text-muted","children":[" (","DR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"5"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"48"}]]}],["$","tr","an-po845439",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Écologiste et Social","className":"no-underline sm:hidden","children":"ECOS"}],["$","span",null,{"className":"hidden sm:inline","children":["Écologiste et Social",["$","span",null,{"className":"text-muted","children":[" (","ECOS",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"11"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"2"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"38"}]]}],["$","tr","an-po845407",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Ensemble pour la République","className":"no-underline sm:hidden","children":"EPR"}],["$","span",null,{"className":"hidden sm:inline","children":["Ensemble pour la République",["$","span",null,{"className":"text-muted","children":[" (","EPR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"18"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"1"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"91"}]]}],["$","tr","an-po845514",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Gauche Démocrate et Républicaine","className":"no-underline sm:hidden","children":"GDR"}],"$L24"]}],"$L25","$L26","$L27","$L28","$L29"]}],"$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31"]}]]}]}]]}]
+23:["$","div",null,{"className":"rounded-2xl border border-line bg-surface p-5 shadow-card sm:p-6 ","children":[["$","h2",null,{"className":"mb-2 text-lg font-semibold tracking-tight text-navy-dark","children":"Sources"}],["$","p",null,{"className":"mb-2 text-sm text-muted","children":["Thème",""," (d'après le titre officiel) :"," ","Sécurité et justice"]}],["$","ul",null,{"className":"space-y-1 text-sm","aria-label":"Sources","children":[["$","li","an-scrutin-17-7294-0",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/scrutins/7294","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, scrutin public n° 7294 du 2026-06-03"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-06-03","children":"3 juin 2026"}]],null,null,null]}],["$","li","an-opendata-scrutins-17-1",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://data.assemblee-nationale.fr/travaux-parlementaires/votes","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Scrutins de la 17e législature (données ouvertes)"}]," ","— ","Assemblée nationale",null,null,["$","span",null,{"children":[" (","json/VTANR5L17V7294.json",")"]}],null]}],["$","li","an-dossier-dlr5l17n53159-2",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, dossier législatif DLR5L17N53159"}]," ","— ","Assemblée nationale",null,null,null,null]}],["$","li","an-texte-pionanr5l17bta0299-3",{"className":"text-muted","children":[["$","span",null,{"aria-hidden":"true","children":"↗ "}],["$","a",null,{"href":"https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0299.html","rel":"noopener noreferrer external","target":"_blank","className":"font-medium","children":"Assemblée nationale, texte adopté PIONANR5L17BTA0299"}]," ","— ","Assemblée nationale",[", ",["$","time",null,{"dateTime":"2026-06-03","children":"3 juin 2026"}]],null,null,null]}]]}]]}]
+24:["$","span",null,{"className":"hidden sm:inline","children":["Gauche Démocrate et Républicaine",["$","span",null,{"className":"text-muted","children":[" (","GDR",")"]}]]}]
+25:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"1"}]
+26:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+27:["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}]
+28:["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}]
+29:["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]
+2a:["$","tr","an-po845470",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Horizons & Indépendants","className":"no-underline sm:hidden","children":"HOR"}],["$","span",null,{"className":"hidden sm:inline","children":["Horizons & Indépendants",["$","span",null,{"className":"text-muted","children":[" (","HOR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"5"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"34"}]]}]
+2b:["$","tr","an-po845413",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"La France insoumise - Nouveau Front Populaire","className":"no-underline sm:hidden","children":"LFI-NFP"}],["$","span",null,{"className":"hidden sm:inline","children":["La France insoumise - Nouveau Front Populaire",["$","span",null,{"className":"text-muted","children":[" (","LFI-NFP",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"20"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"71"}]]}]
+2c:["$","tr","an-po845454",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Les Démocrates","className":"no-underline sm:hidden","children":"DEM"}],["$","span",null,{"className":"hidden sm:inline","children":["Les Démocrates",["$","span",null,{"className":"text-muted","children":[" (","DEM",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"6"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"37"}]]}]
+2d:["$","tr","an-po845485",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Libertés, Indépendants, Outre-mer et Territoires","className":"no-underline sm:hidden","children":"LIOT"}],["$","span",null,{"className":"hidden sm:inline","children":["Libertés, Indépendants, Outre-mer et Territoires",["$","span",null,{"className":"text-muted","children":[" (","LIOT",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"3"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"23"}]]}]
+2e:["$","tr","an-po840056",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Non inscrit","className":"no-underline sm:hidden","children":"NI"}],["$","span",null,{"className":"hidden sm:inline","children":["Non inscrit",["$","span",null,{"className":"text-muted","children":[" (","NI",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"1"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"11"}]]}]
+2f:["$","tr","an-po845401",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Rassemblement National","className":"no-underline sm:hidden","children":"RN"}],["$","span",null,{"className":"hidden sm:inline","children":["Rassemblement National",["$","span",null,{"className":"text-muted","children":[" (","RN",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"29"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"122"}]]}]
+30:["$","tr","an-po845419",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Socialistes et apparentés","className":"no-underline sm:hidden","children":"SOC"}],["$","span",null,{"className":"hidden sm:inline","children":["Socialistes et apparentés",["$","span",null,{"className":"text-muted","children":[" (","SOC",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"12"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"68"}]]}]
+31:["$","tr","an-po872880",{"className":"border-b border-line/60 ","children":[["$","th",null,{"scope":"row","className":"py-1.5 pr-2 text-left font-normal","children":[["$","abbr",null,{"title":"Union des droites pour la République","className":"no-underline sm:hidden","children":"UDDPLR"}],["$","span",null,{"className":"hidden sm:inline","children":["Union des droites pour la République",["$","span",null,{"className":"text-muted","children":[" (","UDDPLR",")"]}]]}]]}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"2"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"px-2 py-1.5 text-right tabular-nums","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right tabular-nums sm:table-cell","children":"0"}],["$","td",null,{"className":"hidden px-2 py-1.5 text-right text-muted tabular-nums sm:table-cell","children":"17"}]]}]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+32:I[27201,["/FRANCE_2027/_next/static/chunks/3fntmmi971322.js","/FRANCE_2027/_next/static/chunks/1_-1y3pk680ia.js"],"IconMark"]
+1b:null
+1f:[["$","title","0",{"children":"Scrutin n° 7294 · Pièces à l'appui"}],["$","meta","1",{"name":"description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","2",{"name":"keywords","content":"présidentielle 2027,candidats présidentielle 2027,programmes présidentielle 2027,comparateur programmes,sondages présidentielle 2027,élection présidentielle"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"Scrutin n° 7294 · Pièces à l'appui"}],["$","meta","5",{"property":"og:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","6",{"property":"og:site_name","content":"Pièces à l'appui"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Scrutin n° 7294 · Pièces à l'appui"}],["$","meta","15",{"name":"twitter:description","content":"Présidentielle 2027 : les candidats, leurs programmes comparés thème par thème, les sondages, les votes au Parlement et les procédures judiciaires. Site indépendant, gratuit, chaque information reliée à sa source."}],["$","meta","16",{"name":"twitter:image","content":"https://tuzilucas.github.io/FRANCE_2027/opengraph-image.png?opengraph-image.1nui-snuvl9zo.png"}],["$","meta","17",{"name":"twitter:image:type","content":"image/png"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/FRANCE_2027/icon.svg?icon.2fkgruz0d1k9z.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/FRANCE_2027/apple-icon.png?apple-icon.145mgzo3m22sm.png","sizes":"180x180","type":"image/png"}],["$","$L32","22",{}]]
