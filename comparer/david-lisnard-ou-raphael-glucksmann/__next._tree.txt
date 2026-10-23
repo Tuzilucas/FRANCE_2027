@@ -1,6 +1,8 @@
-:HL["/FRANCE_2027/_next/static/chunks/0uuwhfju7fu_p.css","style"]
+:HL["/FRANCE_2027/_next/static/chunks/2fefn19vsblnq.css","style"]
 :HC["/",""]
+:HL["/FRANCE_2027/media/candidats/vignettes/david-lisnard.webp","image",{"fetchPriority":"high"}]
+:HL["/FRANCE_2027/media/candidats/vignettes/raphael-glucksmann.webp","image",{"fetchPriority":"high"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"pair","t":"d","k":"david-lisnard-ou-raphael-glucksmann","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"comparer","h":131136,"c":"$Q2"}]]
-0:{"b":"7JeO_JSMJEiNiYtYAxKr5","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"uWLwHZA99MZ9rRrFXW1t7","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

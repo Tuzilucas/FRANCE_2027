@@ -1,5 +1,5 @@
-:HL["/FRANCE_2027/_next/static/chunks/0uuwhfju7fu_p.css","style"]
+:HL["/FRANCE_2027/_next/static/chunks/2fefn19vsblnq.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"finances-publiques","h":64,"c":"$Q2"}]]
-0:{"b":"7JeO_JSMJEiNiYtYAxKr5","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"uWLwHZA99MZ9rRrFXW1t7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

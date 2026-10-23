@@ -1,8 +1,8 @@
-:HL["/FRANCE_2027/_next/static/chunks/0uuwhfju7fu_p.css","style"]
+:HL["/FRANCE_2027/_next/static/chunks/2fefn19vsblnq.css","style"]
 :HC["/",""]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":{"n":"topic","t":"d","k":"services-publics","s":[]},"h":65632,"c":"$Q5"}]]
 3:[["children",{"s":"programme","h":131168,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"id","t":"d","k":"jean-luc-melenchon","s":[]},"h":196704,"c":"$Q3"}]]
 1:[["children",{"s":"candidats","h":131136,"c":"$Q2"}]]
-0:{"b":"7JeO_JSMJEiNiYtYAxKr5","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"uWLwHZA99MZ9rRrFXW1t7","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
