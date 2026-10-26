@@ -1,6 +1,6 @@
-:HL["/FRANCE_2027/_next/static/chunks/1t9930n4jids1.css","style"]
+:HL["/FRANCE_2027/_next/static/chunks/23zvdl8ngt61g.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"id","t":"d","k":"an-17-scrutin-617","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"votes","h":131136,"c":"$Q2"}]]
-0:{"b":"56K2PQuI0StLXFF-fP9MV","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"W24Yiy8fHbcidoSoOECYM","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
