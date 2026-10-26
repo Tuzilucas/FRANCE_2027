@@ -5,8 +5,8 @@
 Règles de lecture : les candidatures sont rangées par statut puis par ordre alphabétique ; les sondages sont présentés enquête par enquête, sans moyenne ; une investiture par un parti ne vaut pas validation (seul le Conseil constitutionnel arrête la liste officielle) ; la présomption d'innocence s'applique à toute procédure non définitive.
 
 ## Pages principales
-- [Candidats](https://tuzilucas.github.io/FRANCE_2027/candidats/) : 26 candidatures suivies
-- [Programmes](https://tuzilucas.github.io/FRANCE_2027/programmes/) : 1912 propositions sourcées, comparables par thème
+- [Candidats](https://tuzilucas.github.io/FRANCE_2027/candidats/) : 25 candidatures suivies
+- [Programmes](https://tuzilucas.github.io/FRANCE_2027/programmes/) : 1906 propositions sourcées, comparables par thème
 - [Comparer deux candidats](https://tuzilucas.github.io/FRANCE_2027/comparer/)
 - [Sondages](https://tuzilucas.github.io/FRANCE_2027/sondages/) : enquêtes relevées dans les notices des instituts
 - [Votes au Parlement](https://tuzilucas.github.io/FRANCE_2027/votes/)
@@ -18,7 +18,6 @@ Règles de lecture : les candidatures sont rangées par statut puis par ordre al
 ## Fiches candidats
 - [Bruno Retailleau](https://tuzilucas.github.io/FRANCE_2027/candidats/bruno-retailleau/) : Les Républicains
 - [Delphine Batho](https://tuzilucas.github.io/FRANCE_2027/candidats/delphine-batho/) : Génération Écologie
-- [Fabien Roussel](https://tuzilucas.github.io/FRANCE_2027/candidats/fabien-roussel/) : Parti communiste français
 - [Marine Tondelier](https://tuzilucas.github.io/FRANCE_2027/candidats/marine-tondelier/) : Les Écologistes
 - [Raphaël Glucksmann](https://tuzilucas.github.io/FRANCE_2027/candidats/raphael-glucksmann/) : Parti socialiste
 - [Selma Labib](https://tuzilucas.github.io/FRANCE_2027/candidats/selma-labib/) : NPA-Révolutionnaires
@@ -40,7 +39,7 @@ Règles de lecture : les candidatures sont rangées par statut puis par ordre al
 - [Nicolas Dupont-Aignan](https://tuzilucas.github.io/FRANCE_2027/candidats/nicolas-dupont-aignan/) : Debout la France
 - [Sylvain Durif](https://tuzilucas.github.io/FRANCE_2027/candidats/sylvain-durif/)
 - [Xavier Bertrand](https://tuzilucas.github.io/FRANCE_2027/candidats/xavier-bertrand/)
-- [Bernard Cazeneuve](https://tuzilucas.github.io/FRANCE_2027/candidats/bernard-cazeneuve/) : La Convention
+- [Bernard Cazeneuve](https://tuzilucas.github.io/FRANCE_2027/candidats/bernard-cazeneuve/)
 - [Dominique de Villepin](https://tuzilucas.github.io/FRANCE_2027/candidats/dominique-de-villepin/)
 
 ## Citer
