@@ -1,0 +1,6 @@
+:HL["/FRANCE_2027/_next/static/chunks/0i4eool3pxr5f.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"an-17-scrutin-8421","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"votes","h":131136,"c":"$Q2"}]]
+0:{"b":"a0AAUjjUxbGqHOjfjtMjk","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
