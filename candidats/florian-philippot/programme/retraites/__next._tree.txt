@@ -1,0 +1,8 @@
+:HL["/FRANCE_2027/_next/static/chunks/320h9ketl2j2q.css","style"]
+:HC["/",""]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"topic","t":"d","k":"retraites","s":[]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":"programme","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"florian-philippot","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"candidats","h":131136,"c":"$Q2"}]]
+0:{"b":"wt1_mQ-QooHOp88qjxwM6","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

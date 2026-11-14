@@ -1,0 +1,8 @@
+:HL["/FRANCE_2027/_next/static/chunks/320h9ketl2j2q.css","style"]
+:HC["/",""]
+:HL["/FRANCE_2027/media/candidats/vignettes/clara-egger.webp","image",{"fetchPriority":"high"}]
+:HL["/FRANCE_2027/media/candidats/vignettes/karim-bouamrane.webp","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"pair","t":"d","k":"clara-egger-ou-karim-bouamrane","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"comparer","h":131136,"c":"$Q2"}]]
+0:{"b":"wt1_mQ-QooHOp88qjxwM6","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

@@ -1,0 +1,6 @@
+:HL["/FRANCE_2027/_next/static/chunks/320h9ketl2j2q.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"documents","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"sources","h":64,"c":"$Q2"}]]
+0:{"b":"wt1_mQ-QooHOp88qjxwM6","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
